@@ -59,7 +59,7 @@
             {%- when 'video' -%}
               <div class="collage-card {% if section.settings.card_styles == 'none' %}global-media-settings{% else %}{{ section.settings.card_styles }} color-{{ settings.card_color_scheme }}{% endif %}">
                 <noscript>
-                  <a href="{{ block.settings.video_url }}" class="collage-card__link{% if block.settings.image_padding %} collage-card-spacing{% endif %}">
+                  <a href="{{ block.settings.video_url }}" class="collage-card__link">
                     <div class="media media--transparent ratio"{% if block.settings.cover_image != blank %} style="--ratio-percent: {{ 1 | divided_by: block.settings.cover_image.aspect_ratio | times: 100 }}%"{% else %} style="--ratio-percent: 100%"{% endif %}>
                       {%- if block.settings.cover_image != blank -%}
                         {%- capture sizes -%}(min-width: {{ settings.page_width }}px) {% if section.blocks.size == 1 %}calc({{ settings.page_width }}px - 100px){% else %}{{ settings.page_width | minus: 100 | times: 0.67 | round }}px{% endif %}, (min-width: 750px){% if section.blocks.size == 1 %} calc(100vw - 100px){% else %} 500px{% endif %}, calc(100vw - 30px){%- endcapture -%}
@@ -76,7 +76,7 @@
                 </noscript>
                 <modal-opener class="no-js-hidden" data-modal="#PopupModal-{{ block.id }}">
                   <div class="deferred-media">
-                    <button class="deferred-media__poster full-unstyled-link{% if block.settings.image_padding %} collage-card-spacing{% endif %}" type="button" aria-label="{{ 'sections.video.load_video' | t: description: block.settings.description | escape }}" aria-haspopup="dialog" data-media-id="{{ block.settings.video_url.id }}">
+                    <button class="deferred-media__poster full-unstyled-link" type="button" aria-label="{{ 'sections.video.load_video' | t: description: block.settings.description | escape }}" aria-haspopup="dialog" data-media-id="{{ block.settings.video_url.id }}">
                       <div class="media media--transparent ratio"{% if block.settings.cover_image != blank %} style="--ratio-percent: {{ 1 | divided_by: block.settings.cover_image.aspect_ratio | times: 100 }}%"{% else %} style="--ratio-percent: 100%"{% endif %}>
                         <span class="deferred-media__poster-button motion-reduce">
                           {%- render 'icon-play' -%}
@@ -181,7 +181,7 @@
           "label": "t:sections.collage.settings.mobile_layout.options__2.label"
         }
       ],
-      "default": "collage",
+      "default": "column",
       "label": "t:sections.collage.settings.mobile_layout.label"
     },
     {
@@ -264,13 +264,6 @@
           "type": "image_picker",
           "id": "image",
           "label": "t:sections.collage.blocks.image.settings.image.label"
-        },
-        {
-          "type": "checkbox",
-          "id": "image_padding",
-          "default": false,
-          "label": "t:sections.collage.blocks.image.settings.image_padding.label",
-          "info": "t:sections.collage.blocks.image.settings.image_padding.info"
         }
       ]
     },
@@ -329,13 +322,6 @@
           "default": "Describe the video",
           "label": "t:sections.collage.blocks.video.settings.description.label",
           "info": "t:sections.collage.blocks.video.settings.description.info"
-        },
-        {
-          "type": "checkbox",
-          "id": "image_padding",
-          "default": false,
-          "label": "t:sections.collage.blocks.video.settings.image_padding.label",
-          "info": "t:sections.collage.blocks.video.settings.image_padding.info"
         }
       ]
     }
@@ -346,7 +332,7 @@
       "name": "t:sections.collage.presets.name",
       "blocks": [
         {
-          "type": "video"
+          "type": "image"
         },
         {
           "type": "product"
