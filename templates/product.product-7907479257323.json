@@ -77,7 +77,7 @@
           "settings": {
             "heading": "Cooking Instructions",
             "icon": "none",
-            "content": "",
+            "content": "<p><\/p>",
             "page": ""
           }
         },
@@ -87,7 +87,7 @@
           "settings": {
             "heading": "Storage",
             "icon": "none",
-            "content": "",
+            "content": "<p><\/p>",
             "page": ""
           }
         },
@@ -97,7 +97,7 @@
           "settings": {
             "heading": "Allergens",
             "icon": "none",
-            "content": "",
+            "content": "<p><\/p>",
             "page": ""
           }
         }
@@ -121,6 +121,7 @@
       "settings": {
         "enable_product_media": true,
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
         "mobile_thumbnails": "hide",
@@ -134,7 +135,7 @@
       "type": "apps",
       "blocks": {
         "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/spicegems-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
+          "type": "shopify:\/\/apps\/easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
           "settings": {
           }
         }
@@ -319,7 +320,7 @@
         "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/roast_peking_duck_4.jpg",
+        "image": "shopify:\/\/shop_images\/duck_cele_3.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -357,7 +358,7 @@
         "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/roast_peking_duck_2.jpg",
+        "image": "shopify:\/\/shop_images\/duck_cele_1.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
