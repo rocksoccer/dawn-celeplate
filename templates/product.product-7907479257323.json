@@ -164,7 +164,7 @@
         "template--16260666097899__a34639ef-5950-429c-adb9-aab83ee8e388-1665844479e7d8b2fe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Chilled Raw Peking Duck<\/p><p>Duck Sauce<\/p><p>Cucumber<\/p><p>Spring Onions<\/p><p>Duck's Pancakes<\/p><p>Steamer<\/p>"
+            "text": "<p>Chilled Raw Peking Duck<\/p><p>Duck Sauce<\/p><p>Osmanthus sugar<\/p><p>Cucumber<\/p><p>Spring Onions<\/p><p>Duck's Pancakes<\/p><p>Steamer<\/p>"
           }
         }
       },
@@ -196,6 +196,7 @@
       "blocks": {
         "16582603491b061838-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "VIEW COOKING INSTRUCTIONS",
             "button_link": "",
@@ -204,10 +205,17 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "965c36fb-96c9-48b9-8bf6-2442646f3fb3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
         }
       },
       "block_order": [
-        "16582603491b061838-2"
+        "16582603491b061838-2",
+        "965c36fb-96c9-48b9-8bf6-2442646f3fb3"
       ],
       "settings": {
         "desktop_content_position": "center",
