@@ -150,7 +150,7 @@
     "16582564410dbad73c": {
       "type": "accordion",
       "settings": {
-        "heading": "Meal kit Details",
+        "heading": "What's in the Box",
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
