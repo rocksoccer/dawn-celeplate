@@ -57,6 +57,18 @@
     "cf47421f-7b00-4e99-9713-5d7b607f5a39": {
       "type": "multicolumn",
       "blocks": {
+        "a676fc76-ec36-4492-bc73-8933ad1f6f76": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-25.jpg",
+            "title": "",
+            "text": "",
+            "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Yā 鸭之<\/p>\n<p style=\"line-height: normal;\">Chinese<\/p>",
+            "link_label": "",
+            "link": "",
+            "column_link": "shopify:\/\/products\/roast-peking-duck-for-family"
+          }
+        },
         "template--16664925176043__cf47421f-7b00-4e99-9713-5d7b607f5a39-1665955155cfa82cee-0": {
           "type": "column",
           "settings": {
@@ -95,6 +107,7 @@
         }
       },
       "block_order": [
+        "a676fc76-ec36-4492-bc73-8933ad1f6f76",
         "template--16664925176043__cf47421f-7b00-4e99-9713-5d7b607f5a39-1665955155cfa82cee-0",
         "template--16664925176043__cf47421f-7b00-4e99-9713-5d7b607f5a39-1665955155cfa82cee-1",
         "template--16664925176043__cf47421f-7b00-4e99-9713-5d7b607f5a39-1665955155cfa82cee-2"
