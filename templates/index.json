@@ -13,7 +13,7 @@
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-2": {
           "type": "text",
           "settings": {
-            "text": "<span class=\"h1\">TOP CUISINES FROM LONDON<br>HAPPY MOMENT AT HOME<\/span>",
+            "text": "<span class=\"h1\">TOP CUISINES FROM LONDON<br>HAPPY MOMENTS AT HOME<\/span>",
             "text_style": "subtitle"
           }
         },
@@ -97,7 +97,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "date-night",
@@ -172,7 +172,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "family-gathering",
@@ -247,7 +247,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "party-with-friends",
@@ -426,7 +426,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "description": "",
+        "description": "<p><\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
@@ -460,7 +460,7 @@
           "type": "column",
           "settings": {
             "title": "01",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Choose your meal kits<\/p>\n<p style=\"line-height: normal;\">Browse our meal kits from a range of inspiring cuisines.<\/p>",
             "link_label": "",
             "link": "",
@@ -471,7 +471,7 @@
           "type": "column",
           "settings": {
             "title": "02",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Prepared by Celeplate<\/p>\n<p style=\"line-height: normal;\">Your meal kits are prepared by our Celeplate experts.<\/p>",
             "link_label": "",
             "link": "",
@@ -482,7 +482,7 @@
           "type": "column",
           "settings": {
             "title": "03",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Delivered nationwide<\/p>\n<p style=\"line-height: normal;\">Get free delivery from Tuesday to Friday. Place your order before 2pm, get it delivered the next day.<\/p>",
             "link_label": "",
             "link": "",
@@ -493,7 +493,7 @@
           "type": "column",
           "settings": {
             "title": "04",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Cook and enjoy<\/p>\n<p style=\"line-height: normal;\">Ready for you to cook, serve and enjoy.<\/p>",
             "link_label": "",
             "link": "",
@@ -539,7 +539,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Aquavit_01.png",
             "title": "",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Aquavit<\/p>\n<p style=\"line-height: normal;\">Scandinavian<\/p>",
             "link_label": "",
             "link": "",
@@ -551,7 +551,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Burgogi_01.png",
             "title": "",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Burgogi<\/p>\n<p style=\"line-height: normal;\">Korean<\/p>",
             "link_label": "",
             "link": "",
@@ -563,7 +563,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Yamabahce_01.png",
             "title": "",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Yamabahce<\/p>\n<p style=\"line-height: normal;\">Turkish<\/p>",
             "link_label": "",
             "link": "",
@@ -646,7 +646,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/USP_01.png",
             "title": "",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<h3 style=\"color: #7FABE1;\">Memorable Occasions<\/h3>\n<br>\nCeleplate is about celebrations at the comfort of your home. Whether it’s a treat for two or a dinner party, the food will be the highlight of the occasion.",
             "link_label": "",
             "link": "",
@@ -658,7 +658,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/USP_02.png",
             "title": "",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<h3 style=\"color: #7FABE1;\">Quality Products and Unbeatable Flavours<\/h3>\n<br>\nCeleplate works with top chefs to design menus showcasing international signature cuisines. Only working with premium suppliers, the specialised ingredients cannot be found in mainstream supermarkets.",
             "link_label": "",
             "link": "",
@@ -670,7 +670,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/USP_03.png",
             "title": "",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<h3 style=\"color: #7FABE1;\">Fuss Free Cooking<\/h3>\n<br>\nEveryone can enjoy the satisfaction of cooking and eating memorable meals no matter how confident they are in the kitchen. Beautiful results are guaranteed, which means less time for cooking, more time for enjoying and celebrating.",
             "link_label": "",
             "link": "",
