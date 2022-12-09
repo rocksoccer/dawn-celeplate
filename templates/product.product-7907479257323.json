@@ -416,32 +416,10 @@
     "29308642-1038-4e62-875d-b01c4fa90a79": {
       "type": "rich-text",
       "blocks": {
-        "9a366cbb-0b7f-4b5f-aec7-15263d00d5f5": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "491d0881-f83e-4c5f-98ce-418c9f41911e": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
         "4ccd44cd-266f-41a9-962b-4e49debdb852": {
           "type": "html",
           "settings": {
-            "html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/779588576?h=88fc70cf47\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen><\/iframe>"
+            "html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/779588576?h=88fc70cf47\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"\"><\/iframe>"
           }
         },
         "a589adf9-85f5-4c24-8175-b342b7e25b0c": {
@@ -452,8 +430,6 @@
         }
       },
       "block_order": [
-        "9a366cbb-0b7f-4b5f-aec7-15263d00d5f5",
-        "491d0881-f83e-4c5f-98ce-418c9f41911e",
         "4ccd44cd-266f-41a9-962b-4e49debdb852",
         "a589adf9-85f5-4c24-8175-b342b7e25b0c"
       ],
