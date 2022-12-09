@@ -311,14 +311,14 @@
         "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-0": {
           "type": "heading",
           "settings": {
-            "heading": "ABOUT Yā 鸭之",
+            "heading": "Choice for family",
             "heading_size": "h1"
           }
         },
         "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Yā 鸭之, inspired by Beijing's long cultural history, also is the first one to introduce you to the UK's first oven ready Peking Duck. Peking duck is always the centrepiece of a traditional Chinese family gathering table. Its colour, aroma and taste are the taste of home in the minds of countless Chinese people. The traditional production process of Beijing Roast Duck is very complex and has a long history.<\/p>",
+            "text": "<p>The best choice for your Christmas dinner table, treat your loved ones with something different.<\/p>",
             "text_style": "body"
           }
         }
@@ -328,7 +328,7 @@
         "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ya_intro.png",
+        "image": "shopify:\/\/shop_images\/AdobeStock_283756559_1156c395-8cee-48bd-a171-0d91aeddde55.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -349,7 +349,7 @@
         "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-0": {
           "type": "heading",
           "settings": {
-            "heading": "EASY TO  PREPARE",
+            "heading": "The crispiest",
             "heading_size": "h1"
           }
         },
@@ -366,7 +366,7 @@
         "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/duck_cele_1.png",
+        "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-8.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
