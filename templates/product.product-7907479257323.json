@@ -400,7 +400,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -411,35 +411,6 @@
         "background_color": "transparent",
         "override_card_background_color": false,
         "card_background_color": "transparent"
-      }
-    },
-    "29308642-1038-4e62-875d-b01c4fa90a79": {
-      "type": "rich-text",
-      "blocks": {
-        "4ccd44cd-266f-41a9-962b-4e49debdb852": {
-          "type": "html",
-          "settings": {
-            "html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/779588576?h=88fc70cf47\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"\"><\/iframe>"
-          }
-        },
-        "a589adf9-85f5-4c24-8175-b342b7e25b0c": {
-          "type": "html",
-          "settings": {
-            "html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/779587347?h=dd369c1ecd\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"\"><\/iframe>"
-          }
-        }
-      },
-      "block_order": [
-        "4ccd44cd-266f-41a9-962b-4e49debdb852",
-        "a589adf9-85f5-4c24-8175-b342b7e25b0c"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
       }
     },
     "product-recommendations": {
@@ -505,7 +476,6 @@
     "1658260523d7001a3e",
     "1658260529146899e2",
     "e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023",
-    "29308642-1038-4e62-875d-b01c4fa90a79",
     "product-recommendations",
     "16582608756ffd25d6"
   ]
