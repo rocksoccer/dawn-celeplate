@@ -164,7 +164,7 @@
         "template--16260666097899__a34639ef-5950-429c-adb9-aab83ee8e388-1665844479e7d8b2fe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Chilled Raw Peking Duck<\/p><p>Duck Sauce<\/p><p>Osmanthus sugar<\/p><p>Cucumber<\/p><p>Spring Onions<\/p><p>Duck's Pancakes<\/p>"
+            "text": "<p>Chilled Raw Peking Duck<\/p><p>Duck Sauce<\/p><p>Osmanthus Sugar<\/p><p>Cucumber<\/p><p>Spring Onions<\/p><p>Duck's Pancakes<\/p>"
           }
         }
       },
@@ -313,7 +313,7 @@
         "cover_image": "shopify:\/\/shop_images\/AdobeStock_283756559_1156c395-8cee-48bd-a171-0d91aeddde55.jpg",
         "video_url": "https:\/\/vimeo.com\/779587347",
         "description": "",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 0
@@ -362,6 +362,62 @@
         "padding_bottom": 40
       }
     },
+    "37d92646-41eb-4739-99a4-d293a2c41cab": {
+      "type": "image-banner-enhanced",
+      "blocks": {
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-0": {
+          "type": "heading_image",
+          "settings": {
+            "max_width": 10
+          }
+        },
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-3": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-0",
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-1",
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-2",
+        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-8_d16d1ae4-36a9-4139-a0bd-380f2cc79a7e.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "mobile_min_height_offset": 10
+      }
+    },
     "db19a8d8-112c-4948-89de-f113aa2092fb": {
       "type": "image-with-text",
       "blocks": {
@@ -392,7 +448,7 @@
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -842,6 +898,7 @@
     "1658260529146899e2",
     "9fdd8bb6-cbf2-4eb1-a97e-e700008722e7",
     "7a289fcd-b713-4e87-bd45-cd0acc4aa988",
+    "37d92646-41eb-4739-99a4-d293a2c41cab",
     "db19a8d8-112c-4948-89de-f113aa2092fb",
     "b776d14d-c007-4f19-83e6-c6676aa5af84",
     "product-recommendations",
