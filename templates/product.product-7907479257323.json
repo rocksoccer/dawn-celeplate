@@ -316,7 +316,7 @@
         "full_width": true,
         "color_scheme": "background-1",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "7a289fcd-b713-4e87-bd45-cd0acc4aa988": {
@@ -355,7 +355,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -465,51 +465,61 @@
         "mobile_padding_right": 0
       }
     },
-    "63251a81-2571-4436-be6b-6965a5d591ed": {
-      "type": "image-with-text",
+    "d1ab8cf4-cdec-4f30-9c5e-2deac12acda3": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/EDIT_PROG_A1-257_2.jpg",
+        "video_url": "https:\/\/vimeo.com\/779588576",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b2b9d0b4-76a7-471b-a390-591f440ce80b": {
+      "type": "rich-text",
       "blocks": {
-        "template--16713983721707__63251a81-2571-4436-be6b-6965a5d591ed-16705830196f2be434-0": {
+        "49a33a3d-c3ee-4885-99e3-fa603fe60e24": {
           "type": "heading",
           "settings": {
-            "heading": "Easy to cook",
+            "heading": "<p>Easy to cook<\/p>",
             "heading_size": "h1"
           }
         },
-        "template--16713983721707__63251a81-2571-4436-be6b-6965a5d591ed-16705830196f2be434-1": {
+        "ddce6a09-068c-4b72-a8f0-ad64d6a3f817": {
           "type": "text",
           "settings": {
-            "text": "<p>One step, from your oven to you. Celeplate has it all done for you, so you don't need to worry about complex steps at all.<\/p>",
-            "text_style": "body"
+            "text": "<p>One step, from your oven to you. Celeplate has it all done for you, so you don't need to worry about complex steps at all.<\/p>"
           }
         },
-        "template--16713983721707__63251a81-2571-4436-be6b-6965a5d591ed-16705830196f2be434-2": {
+        "aa1d0aeb-f092-4945-b217-5d72d0b9e208": {
           "type": "button",
           "disabled": true,
           "settings": {
             "button_label": "Button label",
-            "button_link": ""
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--16713983721707__63251a81-2571-4436-be6b-6965a5d591ed-16705830196f2be434-0",
-        "template--16713983721707__63251a81-2571-4436-be6b-6965a5d591ed-16705830196f2be434-1",
-        "template--16713983721707__63251a81-2571-4436-be6b-6965a5d591ed-16705830196f2be434-2"
+        "49a33a3d-c3ee-4885-99e3-fa603fe60e24",
+        "ddce6a09-068c-4b72-a8f0-ad64d6a3f817",
+        "aa1d0aeb-f092-4945-b217-5d72d0b9e208"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/EDIT_PROG_A1-257.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "b8eb569e-d6e6-4677-bfa8-6b60db6ff87e": {
@@ -545,7 +555,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AdobeStock_433624273.jpg",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -655,7 +665,8 @@
     "ea6a908a-bf7a-4d29-99f9-35fe46bc45ff",
     "product-recommendations",
     "6d38eed3-cee6-4861-9d9b-e4576e9b84fa",
-    "63251a81-2571-4436-be6b-6965a5d591ed",
+    "d1ab8cf4-cdec-4f30-9c5e-2deac12acda3",
+    "b2b9d0b4-76a7-471b-a390-591f440ce80b",
     "b8eb569e-d6e6-4677-bfa8-6b60db6ff87e",
     "fac208ff-fec2-4cd5-874c-36dd11be0416",
     "16582608756ffd25d6"
