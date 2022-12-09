@@ -209,7 +209,7 @@
         "965c36fb-96c9-48b9-8bf6-2442646f3fb3": {
           "type": "text",
           "settings": {
-            "text": "<p>1. Preheat the convection oven to 180 °C. Make sure the fan is on.<\/p><p>2. Place the duck on the oven grid for 80 minutes<\/p><p>3. Cut the spring onion and cucumber to slices<\/p><p>4. Boil a pot of water, place the steamer on top, put the steam paper inside, and steam the pancakes for 3-5 minutes. Alternatively, you can spray some water on the surface, and then put the pancakes in microwave with a cover, 800w for 1 minute<\/p><p>5. After 80 minutes of roasting, turn off the oven and leave the duck inside oven with its door open for 20 more minutes to rest<\/p><p>6. Cut duck skin from the duck's chest, serve with osmanthus sugar<\/p><p>7. Slice duck meat into pieces, serve with duck sauce<\/p><p>8. You can also roll the spring onion and cucumber slices with meat and sauce in the pancake<\/p>"
+            "text": "<p>1. Preheat the convection oven to 180 °C. Make sure the fan is on.<\/p><p>2. Place the duck on the oven grid for 80 minutes<\/p><p>3. Cut the spring onion and cucumber into slices<\/p><p>4. Boil a pot of water, place the steamer on top, put the steam paper inside, and steam the pancakes for 3-5 minutes. Alternatively, you can spray some water on the surface, and then put the pancakes in the microwave with a cover, 800w for 1 minute<\/p><p>5. After 80 minutes of roasting, turn off the oven and leave the duck inside the oven with its door open for 20 more minutes to rest<\/p><p>6. Cut duck skin from the duck's chest, serve with osmanthus sugar<\/p><p>7. Slice duck meat into pieces, serve with duck sauce<\/p><p>8. You can also roll the spring onion and cucumber slices with meat and sauce inside the pancake<\/p>"
           }
         }
       },
@@ -362,60 +362,70 @@
         "padding_bottom": 40
       }
     },
-    "37d92646-41eb-4739-99a4-d293a2c41cab": {
-      "type": "image-banner-enhanced",
+    "e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023": {
+      "type": "multicolumn",
       "blocks": {
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-0": {
-          "type": "heading_image",
+        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-0": {
+          "type": "column",
           "settings": {
-            "max_width": 10
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
           }
         },
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-1": {
-          "type": "heading",
+        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-1": {
+          "type": "column",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
           }
         },
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-2": {
-          "type": "text",
+        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-2": {
+          "type": "column",
           "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-3": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
           }
         }
       },
       "block_order": [
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-0",
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-1",
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-2",
-        "template--16713983721707__37d92646-41eb-4739-99a4-d293a2c41cab-167058860341cc2bf4-3"
+        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-0",
+        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-1",
+        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-8_d16d1ae4-36a9-4139-a0bd-380f2cc79a7e.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "title": "Multicolumn",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true,
-        "mobile_min_height_offset": 10
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
       }
     },
     "db19a8d8-112c-4948-89de-f113aa2092fb": {
@@ -898,7 +908,7 @@
     "1658260529146899e2",
     "9fdd8bb6-cbf2-4eb1-a97e-e700008722e7",
     "7a289fcd-b713-4e87-bd45-cd0acc4aa988",
-    "37d92646-41eb-4739-99a4-d293a2c41cab",
+    "e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023",
     "db19a8d8-112c-4948-89de-f113aa2092fb",
     "b776d14d-c007-4f19-83e6-c6676aa5af84",
     "product-recommendations",
