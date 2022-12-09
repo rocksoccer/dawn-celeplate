@@ -209,7 +209,7 @@
         "965c36fb-96c9-48b9-8bf6-2442646f3fb3": {
           "type": "text",
           "settings": {
-            "text": "<p>1. Preheat the convection oven to 180 °C. Make sure the fan is on.<\/p><p>2. Place the duck on the oven grid for 80 minutes<\/p><p>3. Cut the spring onion and cucumber into slices<\/p><p>4. Boil a pot of water, place the steamer on top, put the steam paper inside, and steam the pancakes for 3-5 minutes. Alternatively, you can spray some water on the surface, and then put the pancakes in the microwave with a cover, 800w for 1 minute<\/p><p>5. After 80 minutes of roasting, turn off the oven and leave the duck inside the oven with its door open for 20 more minutes to rest<\/p><p>6. Cut duck skin from the duck's chest, serve with osmanthus sugar<\/p><p>7. Slice duck meat into pieces, serve with duck sauce<\/p><p>8. You can also roll the spring onion and cucumber slices with meat and sauce inside the pancake<\/p>"
+            "text": "<p><strong>For guidance only, cooking appliances may vary.<\/strong><\/p><p><strong>Roasting<\/strong><\/p><p>Preheat the oven to fan 180°C. Place the duck on the oven grid for 80 minutes, breast side up, with a tray under for the dripping fat. After roasting, turn off the oven and leave the duck inside the oven with its door open for 20 more minutes to rest.<\/p><p><strong>Preparation<\/strong><\/p><p>Cut the spring onion and cucumber into slices. Line the steamer with greaseproof paper inside, and steam the pancakes for 3-5 minutes on top of a pot of boiling water. Alternatively, you can spray some water on the surface, and then put the pancakes in the microwave with a cover, 800w for 1 minute.<\/p><p><strong>Presentation<\/strong><\/p><p>Take the duck out of the oven. Don't forget to remove the bamboo stick and drain out the juice inside the duck. Carve duck skin from the duck's chest, serve with osmanthus sugar. Slice duck meat into pieces, serve with duck sauce. You can also roll the spring onion and cucumber slices with meat and sauce inside the pancake.<\/p>"
           }
         }
       },
@@ -408,9 +408,9 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "override_background_color": false,
-        "background_color": "transparent",
+        "background_color": "rgba(0,0,0,0)",
         "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "product-recommendations": {
