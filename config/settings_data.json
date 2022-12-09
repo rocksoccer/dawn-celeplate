@@ -110,12 +110,11 @@
         "blocks": {
           "49ed78d2-7527-4341-af2f-7d96540a75b2": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Get £5 off when you spend over £40 on your first order using code: FIRST5",
+              "text": "Pre-order your oven-ready Peking duck for your family this Chistmas now",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": ""
+              "link": "shopify:\/\/products\/oven-ready-peking-duck-for-family"
             }
           }
         },
