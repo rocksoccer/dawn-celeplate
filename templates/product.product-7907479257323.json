@@ -305,71 +305,27 @@
         "padding_bottom": 12
       }
     },
-    "9fdd8bb6-cbf2-4eb1-a97e-e700008722e7": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/AdobeStock_283756559_1156c395-8cee-48bd-a171-0d91aeddde55.jpg",
-        "video_url": "https:\/\/vimeo.com\/779587347",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "7a289fcd-b713-4e87-bd45-cd0acc4aa988": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16713983721707__7a289fcd-b713-4e87-bd45-cd0acc4aa988-167058860362e4767a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Choice for family<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16713983721707__7a289fcd-b713-4e87-bd45-cd0acc4aa988-167058860362e4767a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The best choice for your Christmas dinner table, treat your loved ones with something different.<\/p>"
-          }
-        },
-        "template--16713983721707__7a289fcd-b713-4e87-bd45-cd0acc4aa988-167058860362e4767a-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16713983721707__7a289fcd-b713-4e87-bd45-cd0acc4aa988-167058860362e4767a-0",
-        "template--16713983721707__7a289fcd-b713-4e87-bd45-cd0acc4aa988-167058860362e4767a-1",
-        "template--16713983721707__7a289fcd-b713-4e87-bd45-cd0acc4aa988-167058860362e4767a-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
     "e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023": {
       "type": "multicolumn",
       "blocks": {
         "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/IMG_9059.jpg",
+            "title": "The best choice for family",
+            "text": "<p>The best choice for your Christmas dinner table, treat your loved ones with something different.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "e210e9c0-ea29-470d-a8e9-01179a25b199": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-8_d16d1ae4-36a9-4139-a0bd-380f2cc79a7e.jpg",
+            "title": "The crispiest",
+            "text": "<p>After preparation and oven baking, you’ll be left with the crispiest and crunchiest duck skin you’ll ever have! <\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
@@ -379,8 +335,9 @@
         "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/duck_meat.png",
+            "title": "Juicy duck meat",
+            "text": "<p>Don’t be fooled by the crispy exterior! When cut our duck is full of moisture, definitely a must try! <\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
@@ -390,8 +347,33 @@
         "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/EDIT_PROG_A1-257.jpg",
+            "title": "Easy to cook",
+            "text": "<p>One step, from your oven to you. Celeplate has it all done for you, so you don't need to worry about complex steps at all.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "553ae886-e880-4fc3-876a-18a48e0f2eed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AdobeStock_433624273.jpg",
+            "title": "How its made",
+            "text": "<p>1. Our farm: Our duck is carefully selected from 25 quality duck farms worldwide<\/p><p>2. Seasoning: There are 6 steps to get your duck prepared and ready<\/p><p>3. Blanching: This ensures the skin is tightened and smooth<\/p><p>4. Sugarcoating: This allows the duck to get it's shiny and maroon colour<\/p><p>5. Maturing: This helps tighten up the skin and improves the taste <\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "2b97f822-9bc1-41c0-bdba-e18946ca8117": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ya_intro.png",
+            "title": "About Yā",
+            "text": "<p>Yā 鸭之, inspired by Beijing's historical food culture, we are the first brand to introduce you to the UK’s first oven ready Peking Duck!<\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
@@ -401,17 +383,20 @@
       },
       "block_order": [
         "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-0",
+        "e210e9c0-ea29-470d-a8e9-01179a25b199",
         "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-1",
-        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-2"
+        "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-2",
+        "553ae886-e880-4fc3-876a-18a48e0f2eed",
+        "2b97f822-9bc1-41c0-bdba-e18946ca8117"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "center_title": false,
         "desktop_width_percentage": 60,
         "mobile_width_percentage": 100,
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
@@ -428,65 +413,11 @@
         "card_background_color": "transparent"
       }
     },
-    "db19a8d8-112c-4948-89de-f113aa2092fb": {
-      "type": "image-with-text",
-      "blocks": {
-        "0979b6f8-0512-4c32-8294-921736157be0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "The crispiest",
-            "heading_size": "h1"
-          }
-        },
-        "eeca8a41-d153-4819-b0c5-4c73ef027d3a": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>After preparation and oven baking, you’ll be left with the crispiest and crunchiest duck skin you’ll ever have! <\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "0979b6f8-0512-4c32-8294-921736157be0",
-        "eeca8a41-d153-4819-b0c5-4c73ef027d3a"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-8.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
-      }
-    },
-    "b776d14d-c007-4f19-83e6-c6676aa5af84": {
+    "29308642-1038-4e62-875d-b01c4fa90a79": {
       "type": "rich-text",
       "blocks": {
-        "ca03488b-0dfb-4b27-afd4-ff54768bef95": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>The crispiest<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "b8fe2543-22dd-4715-a4a0-ae9b3e2e4f97": {
-          "type": "text",
-          "settings": {
-            "text": "<p>After preparation and oven baking, you’ll be left with the crispiest and crunchiest duck skin you’ll ever have! <\/p>"
-          }
-        },
-        "d5295083-d416-445a-bb23-f9d343ad79b2": {
+        "9a366cbb-0b7f-4b5f-aec7-15263d00d5f5": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": "",
@@ -495,12 +426,29 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "491d0881-f83e-4c5f-98ce-418c9f41911e": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "a589adf9-85f5-4c24-8175-b342b7e25b0c": {
+          "type": "html",
+          "settings": {
+            "html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/779587347?h=dd369c1ecd\" width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen><\/iframe>"
+          }
         }
       },
       "block_order": [
-        "ca03488b-0dfb-4b27-afd4-ff54768bef95",
-        "b8fe2543-22dd-4715-a4a0-ae9b3e2e4f97",
-        "d5295083-d416-445a-bb23-f9d343ad79b2"
+        "9a366cbb-0b7f-4b5f-aec7-15263d00d5f5",
+        "491d0881-f83e-4c5f-98ce-418c9f41911e",
+        "a589adf9-85f5-4c24-8175-b342b7e25b0c"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -527,339 +475,6 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
-      }
-    },
-    "6d38eed3-cee6-4861-9d9b-e4576e9b84fa": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16713983721707__6d38eed3-cee6-4861-9d9b-e4576e9b84fa-16705830196f2be434-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Juicy duck meat",
-            "heading_size": "h1"
-          }
-        },
-        "template--16713983721707__6d38eed3-cee6-4861-9d9b-e4576e9b84fa-16705830196f2be434-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Don’t be fooled by the crispy exterior! When cut our duck is full of moisture, definitely a must try.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16713983721707__6d38eed3-cee6-4861-9d9b-e4576e9b84fa-16705830196f2be434-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16713983721707__6d38eed3-cee6-4861-9d9b-e4576e9b84fa-16705830196f2be434-0",
-        "template--16713983721707__6d38eed3-cee6-4861-9d9b-e4576e9b84fa-16705830196f2be434-1",
-        "template--16713983721707__6d38eed3-cee6-4861-9d9b-e4576e9b84fa-16705830196f2be434-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/duck_meat.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
-      }
-    },
-    "135df58b-8ff2-4962-b9f7-11aa2776bf19": {
-      "type": "rich-text",
-      "blocks": {
-        "b195e4e2-e31e-4fa5-a90a-bd8a28770f83": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Juicy duck meat<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "a3e29790-9762-4481-8a9d-b34252eb0d92": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Don’t be fooled by the crispy exterior! When cut our duck is full of moisture, definitely a must try!<\/p>"
-          }
-        },
-        "a9940e71-0284-43b9-9aa2-222a1665aa5f": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "b195e4e2-e31e-4fa5-a90a-bd8a28770f83",
-        "a3e29790-9762-4481-8a9d-b34252eb0d92",
-        "a9940e71-0284-43b9-9aa2-222a1665aa5f"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "d1ab8cf4-cdec-4f30-9c5e-2deac12acda3": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/EDIT_PROG_A1-257_2.jpg",
-        "video_url": "https:\/\/vimeo.com\/779588576",
-        "description": "",
-        "full_width": true,
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "b2b9d0b4-76a7-471b-a390-591f440ce80b": {
-      "type": "rich-text",
-      "blocks": {
-        "49a33a3d-c3ee-4885-99e3-fa603fe60e24": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Easy to cook<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "ddce6a09-068c-4b72-a8f0-ad64d6a3f817": {
-          "type": "text",
-          "settings": {
-            "text": "<p>One step, from your oven to you. Celeplate has it all done for you, so you don't need to worry about complex steps at all.<\/p>"
-          }
-        },
-        "aa1d0aeb-f092-4945-b217-5d72d0b9e208": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "49a33a3d-c3ee-4885-99e3-fa603fe60e24",
-        "ddce6a09-068c-4b72-a8f0-ad64d6a3f817",
-        "aa1d0aeb-f092-4945-b217-5d72d0b9e208"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "b8eb569e-d6e6-4677-bfa8-6b60db6ff87e": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16713983721707__b8eb569e-d6e6-4677-bfa8-6b60db6ff87e-16705830196f2be434-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "How its made",
-            "heading_size": "h1"
-          }
-        },
-        "template--16713983721707__b8eb569e-d6e6-4677-bfa8-6b60db6ff87e-16705830196f2be434-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>1. Our farm: Our duck is carefully selected from 25 quality duck farms worldwide<\/p><p>2. Seasoning: There are 6 steps to get your duck prepared and ready<\/p><p>3. Blanching: This ensures the skin is tightened and smooth<\/p><p>4. Sugarcoating: This allows the duck to get it's shiny and maroon colour<\/p><p>5. Maturing: This helps tighten up the skin and improves the taste <\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16713983721707__b8eb569e-d6e6-4677-bfa8-6b60db6ff87e-16705830196f2be434-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16713983721707__b8eb569e-d6e6-4677-bfa8-6b60db6ff87e-16705830196f2be434-0",
-        "template--16713983721707__b8eb569e-d6e6-4677-bfa8-6b60db6ff87e-16705830196f2be434-1",
-        "template--16713983721707__b8eb569e-d6e6-4677-bfa8-6b60db6ff87e-16705830196f2be434-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/AdobeStock_433624273.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
-      }
-    },
-    "6d60e7c3-7405-4d9b-8609-7aad46da97b9": {
-      "type": "rich-text",
-      "blocks": {
-        "5564338d-f157-4749-9475-3721c6dc6bf9": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>How its made<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "bd9e4734-7f5a-4eb5-95a4-0aec5388e97e": {
-          "type": "text",
-          "settings": {
-            "text": "<p>1. Our farm: Our duck is carefully selected from 25 quality duck farms worldwide<\/p><p>2. Seasoning: There are 6 steps to get your duck prepared and ready<\/p><p>3. Blanching: This ensures the skin is tightened and smooth<\/p><p>4. Sugarcoating: This allows the duck to get it's shiny and maroon colour<\/p><p>5. Maturing: This helps tighten up the skin and improves the taste <\/p>"
-          }
-        },
-        "53ed36a3-2063-465c-8a69-2d6b011acbee": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "5564338d-f157-4749-9475-3721c6dc6bf9",
-        "bd9e4734-7f5a-4eb5-95a4-0aec5388e97e",
-        "53ed36a3-2063-465c-8a69-2d6b011acbee"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
-      }
-    },
-    "fac208ff-fec2-4cd5-874c-36dd11be0416": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16713983721707__fac208ff-fec2-4cd5-874c-36dd11be0416-16705830196f2be434-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "About Yā",
-            "heading_size": "h1"
-          }
-        },
-        "template--16713983721707__fac208ff-fec2-4cd5-874c-36dd11be0416-16705830196f2be434-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Yā 鸭之, inspired by Beijing's historical food culture, we are the first brand to introduce you to the UK’s first oven ready Peking Duck!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16713983721707__fac208ff-fec2-4cd5-874c-36dd11be0416-16705830196f2be434-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16713983721707__fac208ff-fec2-4cd5-874c-36dd11be0416-16705830196f2be434-0",
-        "template--16713983721707__fac208ff-fec2-4cd5-874c-36dd11be0416-16705830196f2be434-1",
-        "template--16713983721707__fac208ff-fec2-4cd5-874c-36dd11be0416-16705830196f2be434-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/ya_intro.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
-      }
-    },
-    "8a00d9c1-504d-41fe-88ff-661ce90976b4": {
-      "type": "rich-text",
-      "blocks": {
-        "8c84aebd-38d8-4366-b806-abbf97284613": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>About Yā 鸭之<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "c21099df-7400-4b6d-8fc2-036ca1ee30ae": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Yā 鸭之, inspired by Beijing's historical food culture, we are the first brand to introduce you to the UK’s first oven ready Peking Duck!<\/p>"
-          }
-        },
-        "60c3580d-b86b-459f-93d3-f23b789720c6": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "8c84aebd-38d8-4366-b806-abbf97284613",
-        "c21099df-7400-4b6d-8fc2-036ca1ee30ae",
-        "60c3580d-b86b-459f-93d3-f23b789720c6"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
       }
     },
     "16582608756ffd25d6": {
@@ -906,20 +521,9 @@
     "1658260513b99c1963",
     "1658260523d7001a3e",
     "1658260529146899e2",
-    "9fdd8bb6-cbf2-4eb1-a97e-e700008722e7",
-    "7a289fcd-b713-4e87-bd45-cd0acc4aa988",
     "e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023",
-    "db19a8d8-112c-4948-89de-f113aa2092fb",
-    "b776d14d-c007-4f19-83e6-c6676aa5af84",
+    "29308642-1038-4e62-875d-b01c4fa90a79",
     "product-recommendations",
-    "6d38eed3-cee6-4861-9d9b-e4576e9b84fa",
-    "135df58b-8ff2-4962-b9f7-11aa2776bf19",
-    "d1ab8cf4-cdec-4f30-9c5e-2deac12acda3",
-    "b2b9d0b4-76a7-471b-a390-591f440ce80b",
-    "b8eb569e-d6e6-4677-bfa8-6b60db6ff87e",
-    "6d60e7c3-7405-4d9b-8609-7aad46da97b9",
-    "fac208ff-fec2-4cd5-874c-36dd11be0416",
-    "8a00d9c1-504d-41fe-88ff-661ce90976b4",
     "16582608756ffd25d6"
   ]
 }
