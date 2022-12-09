@@ -346,8 +346,9 @@
     "9fdd8bb6-cbf2-4eb1-a97e-e700008722e7": {
       "type": "video",
       "settings": {
-        "heading": "Video",
+        "heading": "",
         "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/AdobeStock_283756559_1156c395-8cee-48bd-a171-0d91aeddde55.jpg",
         "video_url": "https:\/\/vimeo.com\/779555924",
         "description": "",
         "full_width": false,
