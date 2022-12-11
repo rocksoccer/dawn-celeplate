@@ -28,9 +28,18 @@
     opacity: {{ section.settings.image_overlay_opacity | divided_by: 100.0 }};
   }
 
+  #Banner-{{ section.id }} .banner__content {
+    flex-wrap: no-wrap;
+    flex-direction: row;
+  }
+
   @media screen and (max-width: 749px) {
     #Banner-{{ section.id }} {
       min-height: calc(100vh - {{ section.settings.mobile_min_height_offset }}rem);
+    }
+
+    #Banner-{{ section.id }} .banner__content {
+      flex-wrap: wrap;
     }
   }
 {%- endstyle -%}
@@ -94,7 +103,7 @@
     </div>
   {%- endif -%}
 
-  <div class="banner__content banner__content--{{ section.settings.desktop_content_position }} page-width" style="flex-wrap: no-wrap; flex-direction: column; justify-content: center;">
+  <div class="banner__content banner__content--{{ section.settings.desktop_content_position }} page-width" style="justify-content: center;">
     <div class="banner__box content-container content-container--full-width-mobile color-{{ section.settings.color_scheme }} gradient">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
@@ -121,6 +130,10 @@
     <div class="banner__box content-container content-container--full-width-mobile color-{{ section.settings.color_scheme }} gradient">
       {%- for block in section.blocks -%}
         {%- case block.type -%}
+          {%- when 'text_sticked_with_button' -%}
+            <div class="banner__text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
+              {{ block.settings.text }}
+            </div>
           {%- when 'buttons' -%}
             <div class="banner__buttons{% if block.settings.button_label_1 != blank and block.settings.button_label_2 != blank %} banner__buttons--multiple{% endif %}" {{ block.shopify_attributes }}>
               {%- if block.settings.button_label_1 != blank -%}
@@ -417,6 +430,39 @@
           ],
           "default": "body",
           "label": "t:sections.image-banner.blocks.text.settings.text_style.label"
+        }
+      ]
+    },
+    {
+      "type": "text_sticked_with_button",
+      "name": "Text sticked with button",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "html",
+          "id": "text",
+          "label": "t:sections.image-banner.blocks.text.settings.text.label"
+        },
+        {
+          "type": "select",
+          "id": "text_style",
+          "options": [
+            {
+              "value": "body",
+              "label": "t:sections.image-banner.blocks.text.settings.text_style.options__1.label"
+            },
+            {
+              "value": "subtitle",
+              "label": "t:sections.image-banner.blocks.text.settings.text_style.options__2.label"
+            },
+            {
+              "value": "caption-with-letter-spacing",
+              "label": "t:sections.image-banner.blocks.text.settings.text_style.options__3.label"
+            }
+          ],
+          "default": "body",
+          "label": "Text sticked with button",
+          "info": "The text always stays together with the button"
         }
       ]
     },
