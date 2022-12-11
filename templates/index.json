@@ -12,9 +12,17 @@
         },
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<span class=\"h1\">THE UK'S FIRST OVEN READY PEKING DUCK<\/span>",
             "text_style": "subtitle"
+          }
+        },
+        "37400d3b-cef3-434e-a132-eb2090135cfb": {
+          "type": "text_sticked_with_button",
+          "settings": {
+            "text": "<span class=\"h1\">THE UK'S FIRST OVEN READY PEKING DUCK<\/span>",
+            "text_style": "caption-with-letter-spacing"
           }
         },
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-3": {
@@ -31,6 +39,7 @@
       "block_order": [
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-0",
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-2",
+        "37400d3b-cef3-434e-a132-eb2090135cfb",
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-3"
       ],
       "settings": {
