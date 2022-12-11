@@ -31,6 +31,11 @@
   #Banner-{{ section.id }} .banner__content {
     flex-wrap: no-wrap;
     flex-direction: row;
+    column-gap: 20rem;
+  }
+
+  #Banner-{{ section.id }} .banner__content .banner__box:last-of-type {
+    text-align: start;
   }
 
   @media screen and (max-width: 749px) {
