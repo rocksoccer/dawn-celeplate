@@ -34,10 +34,6 @@
     column-gap: 20rem;
   }
 
-  #Banner-{{ section.id }} .banner__content .banner__box:last-of-type {
-    text-align: start;
-  }
-
   @media screen and (max-width: 749px) {
     #Banner-{{ section.id }} {
       min-height: calc(100vh - {{ section.settings.mobile_min_height_offset }}rem);
@@ -45,6 +41,12 @@
 
     #Banner-{{ section.id }} .banner__content {
       flex-wrap: wrap;
+    }
+  }
+
+  @media screen and (min-width: 750px) {
+    #Banner-{{ section.id }} .banner__content .banner__box:last-of-type {
+      text-align: start;
     }
   }
 {%- endstyle -%}
