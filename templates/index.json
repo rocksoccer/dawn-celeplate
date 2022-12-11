@@ -6,14 +6,14 @@
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-0": {
           "type": "heading_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Celeplate_logo_white_big.png",
+            "image": "shopify:\/\/shop_images\/YA_logo_English_01.png",
             "max_width": 13
           }
         },
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-2": {
           "type": "text",
           "settings": {
-            "text": "<span class=\"h1\"><br>CHRISTMAS WITH<br>YĀ 鸭之<br><br>THE UK'S FIRST OVEN READY PEKING DUCK<\/span>",
+            "text": "<span class=\"h1\">THE UK'S FIRST OVEN READY PEKING DUCK<\/span>",
             "text_style": "subtitle"
           }
         },
