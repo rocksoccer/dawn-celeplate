@@ -368,34 +368,23 @@
             "column_link": ""
           }
         },
-        "dda48139-09f3-46e8-8191-6b462540a47d": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "11c2d84a-104e-4dc9-8c8d-bf282c8d1473": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
         "553ae886-e880-4fc3-876a-18a48e0f2eed": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/WechatIMG3816.jpg",
             "title": "How's our duck prepared",
             "text": "<p>Our ducks have gone through six complex processing steps to achieve their current clean look. Among the process, our staffs will manually pluck the feather to ensure that the surface of the duck is feather-free when you receive it.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "dda48139-09f3-46e8-8191-6b462540a47d": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
@@ -421,9 +410,8 @@
         "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-1",
         "template--16713983721707__e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023-167058860332424118-2",
         "36b4fdf9-e564-4071-8070-2863453b2923",
-        "dda48139-09f3-46e8-8191-6b462540a47d",
-        "11c2d84a-104e-4dc9-8c8d-bf282c8d1473",
         "553ae886-e880-4fc3-876a-18a48e0f2eed",
+        "dda48139-09f3-46e8-8191-6b462540a47d",
         "2b97f822-9bc1-41c0-bdba-e18946ca8117"
       ],
       "settings": {
