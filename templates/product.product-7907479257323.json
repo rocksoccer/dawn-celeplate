@@ -358,6 +358,7 @@
         },
         "36b4fdf9-e564-4071-8070-2863453b2923": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/WX20221209-185333.png",
             "title": "How's our duck prepared",
@@ -382,6 +383,7 @@
         },
         "dda48139-09f3-46e8-8191-6b462540a47d": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
