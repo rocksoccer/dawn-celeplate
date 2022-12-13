@@ -30,6 +30,9 @@
 {%- endstyle -%}
 
 {% javascript %}
+  $(document).ready(function() {
+    alert("hello world");
+  });
   function toggleAccordion(checkbox_element) {
     let checkbox = $(checkbox_element);
     let number_of_sections = checkbox.data("number-of-sections");
