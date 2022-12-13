@@ -122,6 +122,16 @@
                 {%- endif -%}
               </p>
             {%- endif -%}
+          	<div>
+                <a href="{{article.url}}" class="button button--primary">Cooking Instructions</a>
+            </div>
+          {% comment %}
+            {%- if article.metafields.global.product_link_tag.size > 0 -%}
+                <div> 
+                    <a href="{{article.metafields.global.product_link_tag}}" class="button button--primary">Order Now</a>
+                </div>
+            {%- endif -%}
+          {% endcomment %}
             <div class="article-card__footer">
               {%- if article.comments_count > 0 and blog.comments_enabled? -%}
                 <span>{{ 'blogs.article.comments' | t: count: article.comments_count }}</span>
@@ -133,7 +143,7 @@
           <div class="card__badge {{ settings.badge_position }}">
             <span class="badge color-background-1">{{ 'blogs.article.blog' | t }}</span>
           </div>
-        {%- endif -%}  
+        {%- endif -%}
       </div>
     </div>
   </div>

@@ -25,12 +25,6 @@
           "type": "price",
           "settings": {}
         },
-        "cc3e2005-fcab-49a3-a9ae-903a28537940": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"product__tax caption rte\">Serves 2.<\/div>"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -43,29 +37,8 @@
         },
         "39bf9c01-f093-4d06-b0b8-061e3a966a68": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Free delivery within UK mainland from Tuesday to Friday. Place your order before 2 pm, get it delivered free the next day.",
-            "text_style": "body"
-          }
-        },
-        "40f0d1ba-bea6-4d71-9f79-87d6694ea9ec": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<p class=\"product__text\">Free delivery within <b>UK mainland<\/b> from Tuesday to Friday. Place your order before 2 pm, get it delivered free the next day.<\/p>"
-          }
-        },
-        "fe4b9266-bc50-42d4-ab0d-1618246b5818": {
-          "type": "text",
-          "settings": {
-            "text": "Available delivery slots will be shown when checking out. You will see the delivery options before your payment.",
-            "text_style": "body"
-          }
-        },
-        "40241fdb-5c53-44fc-bcc2-30ca2ea41928": {
-          "type": "text",
-          "settings": {
-            "text": "Scroll down for allergen details.",
+            "text": "Get delivery from Tuesday to Friday. Place your order before 2 pm, get it delivered the next day.",
             "text_style": "body"
           }
         },
@@ -78,27 +51,38 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Storage",
-            "icon": "snowflake",
-            "content": "<p>All keep refrigerated. Consume 5 days after the day you received the box.<\/p>",
+            "heading": "Shipping Fee",
+            "icon": "truck",
+            "content": "<p>No delivery fee applied.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Delivery Date",
+            "icon": "stopwatch",
+            "content": "<p>Avaliable delivery slots will be shown when checking out.<\/p><p>You will see the delivery options before your payment.<\/p>",
             "page": ""
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
-            "heading": "Our Packaging",
-            "icon": "box",
-            "content": "<p>We're conscious about our impact on the environment - since the very beginning, we've made efforts to lessen our footprint where possible and we're constantly looking for ways to improve. <\/p><p>Our packaging has also been independently proven to keep food contents below the all important 5°c for at least 24 hours and longer.<\/p><p>Find out more about our packaging <a href=\"https:\/\/www.woolcool.com\/food\/#performance\" target=\"_blank\" title=\"https:\/\/www.woolcool.com\/food\/#performance\">here<\/a>.<\/p>",
+            "heading": "Dimensions",
+            "icon": "ruler",
+            "content": "",
             "page": ""
           }
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
-            "heading": "Cooking Instructions",
-            "icon": "clipboard",
-            "content": "<p>Check our step by step instructions <a href=\"https:\/\/burgogi.co.uk\/pages\/cooking-instructions\" title=\"https:\/\/burgogi.co.uk\/pages\/cooking-instructions\">here.<\/a><\/p>",
+            "heading": "Care Instructions",
+            "icon": "heart",
+            "content": "",
             "page": ""
           }
         },
@@ -119,15 +103,12 @@
         "title",
         "caption",
         "price",
-        "cc3e2005-fcab-49a3-a9ae-903a28537940",
         "variant_picker",
         "quantity_selector",
         "39bf9c01-f093-4d06-b0b8-061e3a966a68",
-        "40f0d1ba-bea6-4d71-9f79-87d6694ea9ec",
-        "fe4b9266-bc50-42d4-ab0d-1618246b5818",
-        "40241fdb-5c53-44fc-bcc2-30ca2ea41928",
         "buy_buttons",
         "collapsible-row-0",
+        "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
@@ -500,21 +481,6 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "165830479570a621c3": {
-      "type": "apps",
-      "blocks": {
-        "4ce05a6f-3d70-4b33-b87e-add95ce73fbd": {
-          "type": "shopify:\/\/apps\/product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "4ce05a6f-3d70-4b33-b87e-add95ce73fbd"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -524,7 +490,6 @@
     "16505412732b4ebc0a",
     "1648147299c35d0ca1",
     "16505397441e4a4fde",
-    "product-recommendations",
-    "165830479570a621c3"
+    "product-recommendations"
   ]
 }

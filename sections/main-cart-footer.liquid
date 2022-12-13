@@ -12,6 +12,7 @@
           <textarea class="text-area field__input" name="note" form="cart" id="Cart-note" placeholder="{{ 'sections.cart.note' | t }}">{{ cart.note }}</textarea>
         </cart-note>
       {%- endif -%}
+      <span class="mw-cart-fees"></span> <!-- from Order Surcharge & Product Fees -->
 
       <div class="cart__blocks">
         {% for block in section.blocks %}
@@ -22,6 +23,7 @@
               <div class="js-contents" {{ block.shopify_attributes }}>
                 <div class="totals">
                   <h2 class="totals__subtotal">{{ 'sections.cart.subtotal' | t }}</h2>
+                  <span class="mw-hidden-fees"></span> <!-- from Order Surcharge & Product Fees -->
                   <p class="totals__subtotal-value">{{ cart.total_price | money_with_currency }}</p>
                 </div>
 
@@ -64,11 +66,11 @@
                 </button>
               </div>
 
-              {%- if additional_checkout_buttons -%}
+              <!-- {%- if additional_checkout_buttons -%}
                 <div class="cart__dynamic-checkout-buttons additional-checkout-buttons">
                   {{ content_for_additional_checkout_buttons }}
                 </div>
-              {%- endif -%}
+              {%- endif -%} -->
           {%- endcase -%}
         {% endfor %}
 

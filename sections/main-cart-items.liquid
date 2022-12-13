@@ -60,6 +60,7 @@
 
             <tbody>
               {%- for item in cart.items -%}
+              	{% if item.product.type  == 'mw_hidden_cart_fee' %}{% continue %}{% endif %} <!-- from Order Surcharge & Product Fees -->
                 <tr class="cart-item" id="CartItem-{{ item.index | plus: 1 }}">
                   <td class="cart-item__media">
                     {% if item.image %}
@@ -104,6 +105,9 @@
                         {{ item.original_price | money }}
                       </div>
                     {%- endif -%}
+
+                    <!-- from Order Surcharge & Product Fees -->
+                    {% if item.product.type != 'Product Fee' %} <span class="mw-product-fees" data-id="{{ item.id }}"></span> {% endif %}
 
                     {%- if item.product.has_only_default_variant == false or item.properties.size != 0 or item.selling_plan_allocation != nil -%}
                       <dl>

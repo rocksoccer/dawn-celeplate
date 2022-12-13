@@ -1,0 +1,57 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6d38ef28-873f-4786-a142-79628ef32927": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16642676228315__6d38ef28-873f-4786-a142-79628ef32927-16695720854603c6ce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Corporate gifting form<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16642676228315__6d38ef28-873f-4786-a142-79628ef32927-16695720854603c6ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Treat your team members or businesses with a Burgogi meal kit or a gift card and we’ll send them everything they need to have an exciting Korean culinary experience.<\/p><p><br\/>Fill in your details to find a flexible solution for any corporate budget  <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16642676228315__6d38ef28-873f-4786-a142-79628ef32927-16695720854603c6ce-0",
+        "template--16642676228315__6d38ef28-873f-4786-a142-79628ef32927-16695720854603c6ce-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165307955116251d0c": {
+      "type": "corporate-gifting",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6d38ef28-873f-4786-a142-79628ef32927",
+    "165307955116251d0c"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1656511743f1b29dd7": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1656511743eb2f6bbe-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Woolcool® Insulated Food Delivery Box Set",
+            "heading_size": "h2"
+          }
+        },
+        "1656511743eb2f6bbe-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A <a href=\"https:\/\/www.woolcool.com\/food\/#performance\" target=\"_blank\" title=\"https:\/\/www.woolcool.com\/food\/#performance\">Woolcool®<\/a> Insulated Food Delivery Box Set consists of a strong, robust outer cardboard box, containing two of our insulating Fleece Liners. A flexible and practical packaging solution to all chilled food businesses, the Insulated Food Box Set comes in six stock sizes and is sustainable, recyclable and reusable.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1656511743eb2f6bbe-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656511743eb2f6bbe-0",
+        "1656511743eb2f6bbe-1",
+        "1656511743eb2f6bbe-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1656512413864cdc5a": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "165651241378f3cfb9-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WOOLCOOL-TRIAL-GRAPHS-FOOD-SUMMER-65.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "165651241378f3cfb9-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WOOLCOOL-TRIAL-GRAPHS-FOOD-SUMMER-456.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "59d24f16-961b-4416-b078-04eba4d10fd4": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WOOLCOOL-TRIAL-GRAPHS-FOOD-SUMMER-EX-48.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "76bc744a-59ad-443f-8a15-cb07d2fcc532": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WOOLCOOL-TRIAL-GRAPHS-FOOD-SUMMER-SUS-48.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "165651241378f3cfb9-0",
+        "165651241378f3cfb9-1",
+        "59d24f16-961b-4416-b078-04eba4d10fd4",
+        "76bc744a-59ad-443f-8a15-cb07d2fcc532"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1656511743f1b29dd7",
+    "1656512413864cdc5a"
+  ]
+}

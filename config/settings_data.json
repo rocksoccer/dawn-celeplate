@@ -1,5 +1,130 @@
 {
-  "current": "Default",
+  "current": {
+    "colors_solid_button_labels": "#FFFFFF",
+    "colors_accent_1": "#ab9050",
+    "colors_accent_2": "#2e3c37",
+    "colors_text": "#2e3c37",
+    "colors_outline_button_labels": "#ab9050",
+    "type_header_font": "serif",
+    "heading_scale": 135,
+    "type_body_font": "assistant_n4",
+    "body_scale": 120,
+    "page_width": 1200,
+    "buttons_border_opacity": 100,
+    "buttons_radius": 4,
+    "media_border_thickness": 0,
+    "favicon": "shopify:\/\/shop_images\/Burgogi_Fire_icon_d70a1f61-9fdf-45d6-bcc6-e56843b6a556.png",
+    "currency_code_enabled": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Burgogi_Logo_Golden.png",
+    "checkout_accent_color": "#ab9050",
+    "checkout_button_color": "#ab9050",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "fde49a18-6bf4-4703-9d02-1d30a32c4a7f": {
+            "type": "announcement",
+            "settings": {
+              "text": "Free Next Day Delivery over £59 with Burgogi®",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "fde49a18-6bf4-4703-9d02-1d30a32c4a7f"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "inverse",
+          "logo": "shopify:\/\/shop_images\/Burgogi_Logo_Golden_84aa25f9-3840-4837-b73a-c29e98a04534.png",
+          "logo_width": 160,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true,
+          "margin_bottom": 0
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Quick links",
+              "menu": "quick-link-menu"
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Burgogi®",
+              "menu": "footer"
+            }
+          },
+          "3340f28e-4553-4cf5-a6ab-b3e1f1ce1c23": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact",
+              "subtext": "<p>Address: Unit 610-611<\/p><p>26 chase road, London, NW10 6BB<\/p><p>Tel: 02080803255<\/p><p>Email: Hello@burgogi.co.uk<\/p><p>Instagram: <a href=\"https:\/\/www.instagram.com\/celeplate\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/celeplate\/\">@celeplate<\/a><\/p>"
+            }
+          },
+          "footer-2": {
+            "type": "text",
+            "settings": {
+              "heading": "About us",
+              "subtext": "<p>Burgogi® is inspired by the flame-grilled street food of Seoul, fusing ingredients from South Korea to deliver unique flavour combinations and taste experiences.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1",
+          "3340f28e-4553-4cf5-a6ab-b3e1f1ce1c23",
+          "footer-2"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": false,
+          "newsletter_heading": "Subscribe to our emails",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": true,
+          "margin_top": 48,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "18171216174956455555": {
+        "type": "shopify:\/\/apps\/order-delivery-date\/blocks\/odd-block\/80605365-b4f4-42ba-9b84-3d39984a49dc",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
   "presets": {
     "Default": {
       "colors_solid_button_labels": "#ffffff",
@@ -135,7 +260,9 @@
           },
           "block_order": [
             "announcement-bar-0"
-          ]
+          ],
+          "settings": {
+          }
         },
         "header": {
           "type": "header",

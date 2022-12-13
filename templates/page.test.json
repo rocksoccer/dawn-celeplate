@@ -1,9 +1,10 @@
 {
   "sections": {
     "main": {
-      "type": "main-list-collections",
+      "type": "main-page",
       "settings": {
-        "image_ratio": "square"
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     }
   },
