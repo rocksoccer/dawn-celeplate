@@ -337,7 +337,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/duck_meat.png",
             "title": "Juicy duck meat",
-            "text": "<p>Don’t be fooled by the crispy exterior! When cut our duck is full of moisture, definitely a must try! 1<\/p>",
+            "text": "<p>Don’t be fooled by the crispy exterior! When cut our duck is full of moisture, definitely a must try!<\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
