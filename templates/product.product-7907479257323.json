@@ -281,10 +281,9 @@
         },
         "defad435-1576-4d49-ae15-169dfa9fd078": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "VIEW DETAILED INGREDIENTS & NUTRITIONS",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/ya-oven-ready-whole-peking-duck-ingredients-nutrition",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
