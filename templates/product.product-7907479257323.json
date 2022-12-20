@@ -242,6 +242,7 @@
       "settings": {
         "heading": "English",
         "heading_size": "h2",
+        "cover_image": "shopify:\/\/shop_images\/YA_Cooking_Instructions_03.jpg",
         "video_url": "https:\/\/vimeo.com\/782953160",
         "description": "",
         "full_width": false,
@@ -255,6 +256,7 @@
       "settings": {
         "heading": "中文",
         "heading_size": "h2",
+        "cover_image": "shopify:\/\/shop_images\/YA_Cooking_Instructions_03_1.jpg",
         "video_url": "https:\/\/vimeo.com\/782953449",
         "description": "",
         "full_width": false,
