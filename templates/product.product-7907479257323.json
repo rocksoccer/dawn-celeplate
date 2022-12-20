@@ -304,6 +304,150 @@
         "padding_bottom": 12
       }
     },
+    "089e5dad-be30-464a-89bf-4cc2186d0511": {
+      "type": "rich-text",
+      "blocks": {
+        "9bd97c7b-7e50-4827-96fa-312e57b68d35": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Why raw duck? Why Yā 鸭之？<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "ba8de64f-7f9d-471c-ab15-f2dba1a859c5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why is the Peking duck better than any other roast duck you can get in supermarkets for £30?<\/p><p>How are we different?<\/p><p>Why choose us?<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9bd97c7b-7e50-4827-96fa-312e57b68d35",
+        "ba8de64f-7f9d-471c-ab15-f2dba1a859c5"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 0
+      }
+    },
+    "21e4aa1c-9d82-4247-95b7-ce481be62147": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16718750974187__21e4aa1c-9d82-4247-95b7-ce481be62147-16715312500bb531d7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The best result",
+            "heading_size": "h2"
+          }
+        },
+        "template--16718750974187__21e4aa1c-9d82-4247-95b7-ce481be62147-16715312500bb531d7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Duck, especially our pecking duck, when roasted at home gets the juiciest meat & crispiest skin. Anywhere else, like the roast duck you might see in a Chinese supermarket, won’t be this juicy, golden & crispy.<\/p><p>Hence why we are sending you the whole raw duck - to get you and your beloved family the best Peking Duck straight out of the oven to your table.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718750974187__21e4aa1c-9d82-4247-95b7-ce481be62147-16715312500bb531d7-0",
+        "template--16718750974187__21e4aa1c-9d82-4247-95b7-ce481be62147-16715312500bb531d7-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-6.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "910b6ef6-7c21-4288-8379-71aab1a8a5ca": {
+      "type": "image-with-text",
+      "blocks": {
+        "c767f506-834f-4d00-9928-31e2a414a9f2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Amazing value with us",
+            "heading_size": "h2"
+          }
+        },
+        "c2bf07c9-f1d0-49a9-be7f-b329a421cf8d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In premium Chinese Peking Duck restaurants, ducks of this standard are priced over £100 for only <strong>half<\/strong> the portion.<\/p><p>Now at Yā 鸭之, with a way better price, and delivered straight to your door, you can bring the same Michelin standard cuisine to your family’s table. No need to deal with all the hassle of going out with kids… Simply just roast the raw whole duck we send you in the oven, and wait for 80 minutes. That’s all it takes to create a delicious centrepiece! <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "c767f506-834f-4d00-9928-31e2a414a9f2",
+        "c2bf07c9-f1d0-49a9-be7f-b329a421cf8d"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-2.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "648369ce-d419-43f1-abbf-ea42bc0e7a0b": {
+      "type": "image-with-text",
+      "blocks": {
+        "af227d45-67a6-4c83-b575-c5060f51a19d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Designed for your family",
+            "heading_size": "h2"
+          }
+        },
+        "2ac6c131-dcd5-4c0c-8333-00634f6162d9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What we are recommending is the <strong>best & first<\/strong> Peking Duck that is able to be made at home. By cooking Peking Duck at home, you’ll be able to experience the same juicy & crispy, perfect Peking Duck feast for your family.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "af227d45-67a6-4c83-b575-c5060f51a19d",
+        "2ac6c131-dcd5-4c0c-8333-00634f6162d9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WX20221220-122523.png",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
     "e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023": {
       "type": "multicolumn",
       "blocks": {
@@ -501,6 +645,10 @@
     "1658260513b99c1963",
     "1658260523d7001a3e",
     "1658260529146899e2",
+    "089e5dad-be30-464a-89bf-4cc2186d0511",
+    "21e4aa1c-9d82-4247-95b7-ce481be62147",
+    "910b6ef6-7c21-4288-8379-71aab1a8a5ca",
+    "648369ce-d419-43f1-abbf-ea42bc0e7a0b",
     "e66dafbd-4fa8-4b4d-a2d2-65a8eeb10023",
     "product-recommendations",
     "16582608756ffd25d6"
