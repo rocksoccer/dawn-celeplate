@@ -226,6 +226,43 @@
         "padding_bottom": 12
       }
     },
+    "9131e750-ad24-4dc7-8776-3d0cfbc522ef": {
+      "type": "accordion",
+      "settings": {
+        "heading": "Cooking Videos",
+        "expand_by_default": false,
+        "number_of_sections": 2,
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "collapse_top_border": true
+      }
+    },
+    "c1d07f38-9323-4870-8cf5-5668de4e7c24": {
+      "type": "video",
+      "settings": {
+        "heading": "English",
+        "heading_size": "h2",
+        "video_url": "https:\/\/vimeo.com\/782953160",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0385342c-7a78-4b45-b6c8-37bc31150bdb": {
+      "type": "video",
+      "settings": {
+        "heading": "中文",
+        "heading_size": "h2",
+        "video_url": "https:\/\/vimeo.com\/782953449",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16582605028fdc16b6": {
       "type": "accordion",
       "settings": {
@@ -641,6 +678,9 @@
     "a34639ef-5950-429c-adb9-aab83ee8e388",
     "1658259542695d2e5e",
     "1658260349a43e5800",
+    "9131e750-ad24-4dc7-8776-3d0cfbc522ef",
+    "c1d07f38-9323-4870-8cf5-5668de4e7c24",
+    "0385342c-7a78-4b45-b6c8-37bc31150bdb",
     "16582605028fdc16b6",
     "1658260513b99c1963",
     "1658260523d7001a3e",
