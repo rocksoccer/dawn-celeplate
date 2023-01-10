@@ -71,7 +71,7 @@
         "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Christmas_01.png",
+        "image": "shopify:\/\/shop_images\/CNY_01.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "image_grid_item_width_offset": "-8.3335",
@@ -562,31 +562,18 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Yamabahce_01.png",
             "title": "",
-            "text": "",
+            "text": "<p><\/p>",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Yamabahce<\/p>\n<p style=\"line-height: normal;\">Turkish<\/p>",
             "link_label": "",
             "link": "",
             "column_link": "shopify:\/\/collections\/yamabahce"
-          }
-        },
-        "990ac549-ebf6-4b85-81fc-f6e1f45c4244": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-2.jpg",
-            "title": "Yā 鸭之",
-            "text": "<p>Chinese<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": "shopify:\/\/products\/oven-ready-whole-peking-duck-for-family"
           }
         }
       },
       "block_order": [
         "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-0",
         "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-1",
-        "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-2",
-        "990ac549-ebf6-4b85-81fc-f6e1f45c4244"
+        "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-2"
       ],
       "settings": {
         "title": "TOP CUISINES",
