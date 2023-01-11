@@ -550,7 +550,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Burgogi_01.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Burgogi<\/p>\n<p style=\"line-height: normal;\">Korean<\/p>",
             "link_label": "",
             "link": "",
@@ -562,18 +562,31 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Yamabahce_01.png",
             "title": "",
-            "text": "<p><\/p>",
+            "text": "",
             "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Yamabahce<\/p>\n<p style=\"line-height: normal;\">Turkish<\/p>",
             "link_label": "",
             "link": "",
             "column_link": "shopify:\/\/collections\/yamabahce"
+          }
+        },
+        "ac1f2a84-bac4-4077-8b68-5329dcf1e621": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CP_29th_Nov_2022-2.jpg",
+            "title": "",
+            "text": "",
+            "html_text": "<p style=\"color: #7FABE1; font-size: large; line-height: normal; margin-bottom: 1rem;\">Ya 鸭之<\/p>\n<p style=\"line-height: normal;\">Chinese<\/p>",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
           }
         }
       },
       "block_order": [
         "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-0",
         "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-1",
-        "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-2"
+        "template--16260666327275__d7682567-d2e6-499b-8af5-d63290270fc8-16657857139e7627eb-2",
+        "ac1f2a84-bac4-4077-8b68-5329dcf1e621"
       ],
       "settings": {
         "title": "TOP CUISINES",
