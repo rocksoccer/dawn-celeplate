@@ -26,7 +26,7 @@
     <div class="cart__footer">
       <div class="cart__blocks">
         {%- if settings.show_cart_note -%}
-          <div>
+          <div style="padding: 5rem 2rem 1.8rem; background-color: #F6F6F6;">
             <cart-note class="cart__note field">
               <label for="Cart-note">{{ 'sections.cart.note' | t }}</label>
               <textarea class="text-area field__input" name="note" form="cart" id="Cart-note" placeholder="{{ 'sections.cart.note' | t }}">{{ cart.note }}</textarea>
@@ -35,7 +35,7 @@
         {%- endif -%}
 
         <cart-attributes>
-          <div style="background-color: #F6F6F6; padding: 1.8rem 2rem; margin-top: 1rem;">
+          <div style="background-color: #F6F6F6; padding: 1.8rem 2rem; margin-top: 1.8rem;">
             <label id="cart-delivery-datepicker_label" class="cart-delivery-datepicker" for="cart-delivery-datepicker">SELECT YOUR DELIVERY DATE</label>
             <input id="cart-delivery-datepicker-hidden" 
               name="cart-delivery-date-hidden" 
