@@ -24,30 +24,34 @@
 <div class="page-width{% if cart == empty %} is-empty{% endif %}" id="main-cart-footer" data-id="{{ section.id }}">
   <div>
     <div class="cart__footer">
-      {%- if settings.show_cart_note -%}
-        <cart-note class="cart__note field">
-          <label for="Cart-note">{{ 'sections.cart.note' | t }}</label>
-          <textarea class="text-area field__input" name="note" form="cart" id="Cart-note" placeholder="{{ 'sections.cart.note' | t }}">{{ cart.note }}</textarea>
-        </cart-note>
-      {%- endif -%}
+      <div class="cart__blocks">
+        {%- if settings.show_cart_note -%}
+          <div>
+            <cart-note class="cart__note field">
+              <label for="Cart-note">{{ 'sections.cart.note' | t }}</label>
+              <textarea class="text-area field__input" name="note" form="cart" id="Cart-note" placeholder="{{ 'sections.cart.note' | t }}">{{ cart.note }}</textarea>
+            </cart-note>
+          </div>
+        {%- endif -%}
 
-      <cart-attributes>
-        <div style="background-color: #F6F6F6; padding: 1.8rem 2rem;">
-          <label id="cart-delivery-datepicker_label" class="cart-delivery-datepicker" for="cart-delivery-datepicker">SELECT YOUR DELIVERY DATE</label>
-          <input id="cart-delivery-datepicker-hidden" 
-            name="cart-delivery-date-hidden" 
-            required 
-            form="cart"
-            class="cart-delivery-datepicker"
-            style="display: none;">
-          <input id="cart-delivery-datepicker" 
-            name="cart-delivery-date"
-            title="Please select delivery date"
-            class="cart-delivery-datepicker"
-            readonly>
-          <div id="cart-notification-form__error" class="cart-delivery-datepicker cart-notification-form__error cart-notification-form__error-hidden">Required</div>
-        </div>
-      </cart-attributes>
+        <cart-attributes>
+          <div style="background-color: #F6F6F6; padding: 1.8rem 2rem; margin-top: 1rem;">
+            <label id="cart-delivery-datepicker_label" class="cart-delivery-datepicker" for="cart-delivery-datepicker">SELECT YOUR DELIVERY DATE</label>
+            <input id="cart-delivery-datepicker-hidden" 
+              name="cart-delivery-date-hidden" 
+              required 
+              form="cart"
+              class="cart-delivery-datepicker"
+              style="display: none;">
+            <input id="cart-delivery-datepicker" 
+              name="cart-delivery-date"
+              title="Please select delivery date"
+              class="cart-delivery-datepicker"
+              readonly>
+            <div id="cart-notification-form__error" class="cart-delivery-datepicker cart-notification-form__error cart-notification-form__error-hidden">Required</div>
+          </div>
+        </cart-attributes>
+      </div>
 
       <div class="cart__blocks">
         {% for block in section.blocks %}
