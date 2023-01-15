@@ -99,7 +99,7 @@
     "currency_code_enabled": false,
     "cart_type": "notification",
     "show_vendor": false,
-    "show_cart_note": false,
+    "show_cart_note": true,
     "cart_delivery_date_picker_disabled_week_days": "1,6,7",
     "cart_delivery_date_picker_disabled_dates": "2022-12-13,2022-12-14,2022-12-15,2022-12-16,2022-12-27,2022-12-28,2023-01-03,2022-12-23",
     "checkout_accent_color": "#6792ad",
