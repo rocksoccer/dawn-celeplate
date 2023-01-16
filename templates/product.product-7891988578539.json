@@ -121,6 +121,7 @@
       "settings": {
         "enable_product_media": true,
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
         "mobile_thumbnails": "hide",
@@ -134,7 +135,7 @@
       "type": "apps",
       "blocks": {
         "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/spicegems-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
+          "type": "shopify:\/\/apps\/easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
           "settings": {
           }
         }
@@ -163,7 +164,7 @@
         "template--16260666097899__a34639ef-5950-429c-adb9-aab83ee8e388-1665844479e7d8b2fe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>1 x Rib Eye<\/p><p>1 x Prime Galbi<\/p><p>1 x Flat Iron Marinated with Bujang Sauce<\/p><p>1 x Pork Neck<\/p><p>1 x Flat Iron<\/p><p>1 x Ox Tongue<\/p><p>1 x Pork Neck Marinated in Spicy Sauce<\/p><p>1 x Marinated Galbi (with bone)<\/p><p>3 x Kimchi Pancake<\/p><p>3 x Seafood Pancake<\/p>"
+            "text": "<p>1 x Rib Eye<\/p><p>1 x Prime Galbi<\/p><p>1 x Flat Iron Marinated with Bujang Sauce<\/p><p>1 x Pork Neck<\/p><p>1 x Flat Iron<\/p><p>1 x Ox Tongue<\/p><p>1 x Pork Neck Marinated in Spicy Sauce<\/p><p>1 x Marinated Galbi<\/p><p>3 x Kimchi Pancake<\/p><p>3 x Seafood Pancake<\/p>"
           }
         }
       },
