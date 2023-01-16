@@ -122,6 +122,7 @@
       "settings": {
         "enable_product_media": true,
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "small",
         "mobile_thumbnails": "hide",
@@ -135,7 +136,7 @@
       "type": "apps",
       "blocks": {
         "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/spicegems-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
+          "type": "shopify:\/\/apps\/easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
           "settings": {
           }
         }
@@ -158,58 +159,26 @@
         "collapse_top_border": false
       }
     },
-    "1658221557854215e8": {
-      "type": "multicolumn",
+    "4221f0ac-31a6-445f-bda0-196820094e3d": {
+      "type": "rich-text",
       "blocks": {
-        "16582215571d751c54-0": {
-          "type": "column",
+        "template--16718749303019__4221f0ac-31a6-445f-bda0-196820094e3d-1673888019bcc8fcfb-1": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Korean_Table_BBQ_01_fd4459d3-6143-46af-9b83-01d0f056eb80.png",
-            "title": "Korean Table BBQ",
-            "text": "<p>Traditional Korean BBQ is grilling meat at the dining table over gas or charcoal. Burgogi Korean Table BBQ meal kit’s beautifully marinated and finely sliced meat offers the same great taste over a hot pan. The unique cuts of meat and fragrant sauces in the Burgogi meal kit showcase Korean cuisine’s balance of flavours and textures. Follow Burgogi’s travel guide for an authentic Korean BBQ adventure in your home.<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "16582215571d751c54-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Good_K-lassic_07_25c7edf0-8d07-4665-bf4f-3d099985d990.png",
-            "title": "Kimchi and Seafood Pancakes",
-            "text": "<p>Kimchi and seafood pancakes are traditional Korean dishes. Kimchi pancake is a savoury pancake made with wheat flour and loads of kimchi. it's hot, spicy, crispy, a little sweet, sour and salty. Seafood pancake mixed with savoury seafood, spring onion and flour. It’s one of Korea’s favourite appetizers that are good for sharing with a lot of friends when you’re all together waiting for your BBQ!<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": ""
+            "text": "<p>1 x Rib Eye<\/p><p>1 x Prime Galbi<\/p><p>1 x Flat Iron Marinated with Bujang Sauce<\/p><p>1 x Pork Neck<\/p><p>1 x Flat Iron<\/p><p>1 x Ox Tongue<\/p><p>1 x Pork Neck Marinated in Spicy Sauce<\/p><p>1 x Marinated Galbi<\/p><p>3 x Kimchi Pancake<\/p><p>3 x Seafood Pancake<\/p>"
           }
         }
       },
       "block_order": [
-        "16582215571d751c54-0",
-        "16582215571d751c54-1"
+        "template--16718749303019__4221f0ac-31a6-445f-bda0-196820094e3d-1673888019bcc8fcfb-1"
       ],
       "settings": {
-        "title": "",
-        "center_title": false,
-        "desktop_width_percentage": 60,
-        "mobile_width_percentage": 100,
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "override_background_color": false,
-        "background_color": "transparent",
-        "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "1658259542695d2e5e": {
@@ -363,7 +332,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
         "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -383,7 +352,7 @@
     "main",
     "1658491360911f410d",
     "16582564410dbad73c",
-    "1658221557854215e8",
+    "4221f0ac-31a6-445f-bda0-196820094e3d",
     "1658259542695d2e5e",
     "1658260349a43e5800",
     "16582605028fdc16b6",
