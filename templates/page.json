@@ -1,43 +1,7 @@
 {
   "sections": {
-    "8d52693e-657a-4112-8203-90839d9672e5": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Yā 鸭之 Cooking Instruction Videos<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "English Sub",
-            "button_link": "shopify:\/\/pages\/eng-ya-cooking-video",
-            "button_style_secondary": false,
-            "button_label_2": "中文字幕",
-            "button_link_2": "shopify:\/\/pages\/chinese-ya-cooking-video",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-0",
-        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -45,7 +9,6 @@
     }
   },
   "order": [
-    "8d52693e-657a-4112-8203-90839d9672e5",
     "main"
   ]
 }
