@@ -237,6 +237,48 @@
         "collapse_top_border": true
       }
     },
+    "eaaec450-20e0-40e7-b9c5-96d244281da6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718750974187__eaaec450-20e0-40e7-b9c5-96d244281da6-16745805870fb4d20b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16718750974187__eaaec450-20e0-40e7-b9c5-96d244281da6-16745805870fb4d20b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16718750974187__eaaec450-20e0-40e7-b9c5-96d244281da6-16745805870fb4d20b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Yā 鸭之 Cooking Instruction Videos",
+            "button_link": "shopify:\/\/pages\/ya-鸭之-cooking-instruction-videos",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16718750974187__eaaec450-20e0-40e7-b9c5-96d244281da6-16745805870fb4d20b-0",
+        "template--16718750974187__eaaec450-20e0-40e7-b9c5-96d244281da6-16745805870fb4d20b-1",
+        "template--16718750974187__eaaec450-20e0-40e7-b9c5-96d244281da6-16745805870fb4d20b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "c1d07f38-9323-4870-8cf5-5668de4e7c24": {
       "type": "video",
       "settings": {
@@ -681,6 +723,7 @@
     "1658259542695d2e5e",
     "1658260349a43e5800",
     "9131e750-ad24-4dc7-8776-3d0cfbc522ef",
+    "eaaec450-20e0-40e7-b9c5-96d244281da6",
     "c1d07f38-9323-4870-8cf5-5668de4e7c24",
     "0385342c-7a78-4b45-b6c8-37bc31150bdb",
     "16582605028fdc16b6",
