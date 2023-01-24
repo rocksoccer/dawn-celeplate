@@ -10,12 +10,6 @@
             "heading_size": "h1"
           }
         },
-        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Cooking instructions with English sub<\/p>"
-          }
-        },
         "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-2": {
           "type": "button",
           "settings": {
@@ -26,31 +20,11 @@
             "button_link_2": "shopify:\/\/pages\/chinese-subya-鸭之-cooking-instuction-video-with",
             "button_style_secondary_2": false
           }
-        },
-        "bb78f2fe-85c8-4144-a74c-94c0c9661802": {
-          "type": "text",
-          "settings": {
-            "text": "<p>烤鸭烹饪步骤参考（中文字幕）<\/p>"
-          }
-        },
-        "bdc84678-09bf-43e6-a67c-d313ca794b6c": {
-          "type": "button",
-          "settings": {
-            "button_label": "Watch now",
-            "button_link": "shopify:\/\/pages\/chinese-subya-鸭之-cooking-instuction-video-with",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-0",
-        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-1",
-        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-2",
-        "bb78f2fe-85c8-4144-a74c-94c0c9661802",
-        "bdc84678-09bf-43e6-a67c-d313ca794b6c"
+        "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-2"
       ],
       "settings": {
         "desktop_content_position": "center",
