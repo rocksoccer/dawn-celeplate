@@ -19,11 +19,11 @@
         "template--16718749532395__8d52693e-657a-4112-8203-90839d9672e5-16745805870fb4d20b-2": {
           "type": "button",
           "settings": {
-            "button_label": "Watch now",
+            "button_label": "English Sub",
             "button_link": "shopify:\/\/pages\/ya-鸭之-cooking-instuction-video-with-eng-sub",
             "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
+            "button_label_2": "中文字幕",
+            "button_link_2": "shopify:\/\/pages\/chinese-subya-鸭之-cooking-instuction-video-with",
             "button_style_secondary_2": false
           }
         },
