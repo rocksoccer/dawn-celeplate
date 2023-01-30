@@ -162,7 +162,7 @@
         "template--16718749368555__ca131895-fd73-4e49-81a3-919a7388120b-1675102535a24ed9cc-1": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p><strong>Korean pancake set<\/strong><br\/>Selection of Seafood and Kimchi Pancakes<br\/>Country of origin: South Korea<br\/>Net weight: 180g +- 5%<br\/>Portion size: 90g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C. Once opened consume within 2 days. Keep covered. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/><\/p><p>Main allergens: <strong>Shrimp, Anchovy, Squid, Soybean, Wheat, Sesame, Crab<\/strong>.<br\/><\/p><p>Ingredients: Kimchi Pancakes 50% (Kimchi (Cabbage, Red Pepper Powder, Garlic, Spring Onion, Salt, Salted <strong>Shrimp<\/strong>, <strong>Anchovy<\/strong> Extract (<strong>Anchovy<\/strong>, Salt),Radish, Sugar, Ginger), <strong>Wheat<\/strong> Flour, <strong>Squid<\/strong> (Todarodes Pacificus), Pan Cake Mix Powder(<strong>Wheat<\/strong> Flour, Baking Powder(Corn Starch)), <strong>Soybean<\/strong>),Salt, Sugar, Baking Powder(Coen Starch)), <strong>Soybean<\/strong> Oil, Spring Onion, Flavor Enhancer (E621), Sugar, Seasoning (Salt, Clam, Glucose, Garlic, <strong>Shrimp<\/strong> Powder(<strong>Shrimp<\/strong>),Pepper Powder, <strong>Squid<\/strong>, <strong>Anchovy<\/strong> Powder, Bonito Powder, Yeast Powder, Corn Starch, Sugar, Flavor Enhancer(E621),Crab Extract, <strong>Soybean<\/strong>, <strong>Shrimp<\/strong> Extract, Garlic, Radish, Palm Oil)), Seafood Pancakes 50% (Pan Cake Mix Powder (<strong>Wheat<\/strong> Flour, Seasoning (Salt, <strong>Wheat<\/strong> Flour, <strong>Soybean<\/strong>), Salt, Sugar, Baking Powder(Corn Starch)), <strong>Wheat<\/strong> Flour, Spring Onion, Leek, Onion, Carrot, <strong>Soybean<\/strong> Oil, Pepper, <strong>Shrimp<\/strong>, <strong>Shrimp<\/strong> Extract (<strong>Shrimp<\/strong>, <strong>Soybean<\/strong>, Salt, Yeast, Palm Oil, Glucose, Sugar, Flavor Enhancer(E621), Onion, Corn Starch, Caramel Color, <strong>Sesame<\/strong> Oil, Garlic, Black Pepper Powder), Salt, Flavor Enhancer (E621),Seasoning (Salt, Clam, Glucose, Garlic, <strong>Shrimp<\/strong> Powder (<strong>Shrimp<\/strong>), Pepper Powder, <strong>Squid<\/strong> (Todarodes Pacificus), <strong>Anchovy<\/strong> Powder, Bonito Powder, Yeast Powder, Corn Starch, Sugar, Flavor Enhancer (E621), <strong>Crab<\/strong> Extract, <strong>Soybean<\/strong>, <strong>Shrimp<\/strong> Extract, Garlic, Radish, Palm Oil))<\/p>"
+            "text": "<p><strong>Sesame Oil with Seed<\/strong>Sesame Oil with Seed<br\/>Net weight: 40g +- 5%<br\/>Portion size: 20g<br\/>Number of portions in one package: 2<br\/>Storage: Store in a cool dry place, and out of direct sunlight. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<br\/><br\/>Main allergens: <strong>Sesame<\/strong>.<br\/>Ingredients: Sesame seeds.<\/p>"
           }
         }
       },
@@ -170,7 +170,7 @@
         "template--16718749368555__ca131895-fd73-4e49-81a3-919a7388120b-1675102535a24ed9cc-1"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
@@ -195,7 +195,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
         "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
