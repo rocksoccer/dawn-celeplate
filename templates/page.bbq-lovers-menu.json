@@ -2,13 +2,196 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "7e5bb03a-0546-45f1-a140-dff3bfd195d9": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1b34cbce-e847-4ccc-a3e1-c486befce1db": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-0",
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-1",
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-2",
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-3",
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-4",
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-5",
+        "template--16747987599595__1b34cbce-e847-4ccc-a3e1-c486befce1db-167510536189d7c55f-6"
+      ],
+      "settings": {
+        "product": "korean-table-bbq-고기구이-lover-s-menu",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6ee877d2-9d22-4d94-ad7d-69909af0a1d2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Add your favourite meat",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-meat",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3ec64ced-1460-450f-9fac-3130309a88d7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Add your favourite sauces",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-sauce",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8271ffe6-4840-4854-ba42-be02a8f56309": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Add more to your own box",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-others",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "7e5bb03a-0546-45f1-a140-dff3bfd195d9",
+    "1b34cbce-e847-4ccc-a3e1-c486befce1db",
+    "6ee877d2-9d22-4d94-ad7d-69909af0a1d2",
+    "3ec64ced-1460-450f-9fac-3130309a88d7",
+    "8271ffe6-4840-4854-ba42-be02a8f56309"
   ]
 }
