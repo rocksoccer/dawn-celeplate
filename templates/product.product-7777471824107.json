@@ -122,6 +122,7 @@
       "settings": {
         "enable_product_media": true,
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "small",
         "mobile_thumbnails": "hide",
@@ -135,7 +136,7 @@
       "type": "apps",
       "blocks": {
         "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
+          "type": "shopify:\/\/apps\/easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
           "settings": {
           }
         }
@@ -149,16 +150,19 @@
     },
     "16582564410dbad73c": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "Meal kit Details",
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658221557854215e8": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16582215571d751c54-0": {
           "type": "column",
@@ -168,7 +172,8 @@
             "text": "<p>A selection of distinctive ready-to-eat Korean side dishes.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "16582215571d751c54-1": {
@@ -179,7 +184,8 @@
             "text": "<p>Kimchi fried rice, also known as Kimchi bokkeumbap, is a popular variety of fried rice prepared with Korean pickled cabbage, kimchi and a other ingredients. Although there are a wide range of fried rice dishes that are frequently prepared in Korean cuisine but Kimchi fried rice is a very popular variety among the others.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "16582215571d751c54-2": {
@@ -190,7 +196,8 @@
             "text": "<p>Kimchi and seafood pancakes are traditional Korean dishes. Kimchi pancake is a savoury pancake made with wheat flour and loads of kimchi. it's hot, spicy, crispy, a little sweet, sour and salty. Seafood pancake mixed with savoury seafood, spring onion and flour. It’s one of Korea’s favourite appetizers that are good for sharing with a lot of friends when you’re all together waiting for your BBQ!<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "366364b9-e5f4-4982-bd73-a90583cab3a6": {
@@ -201,7 +208,8 @@
             "text": "<p>Beautifully marinated beef short ribs, crunchy enoki mushrooms, delicate spring onion, delightfully tangy ssamjang and fragrant sesame oil are balanced by the mildly peppery lettuce. Burgogi’s Galbi Steak Lettuce Wrap is a mini feast in one bite.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         }
       },
@@ -213,6 +221,9 @@
       ],
       "settings": {
         "title": "",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -225,21 +236,28 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 12,
-        "padding_bottom": 12
+        "padding_bottom": 12,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
       }
     },
     "1658259542695d2e5e": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "Cooking Instructions",
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658260349a43e5800": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16582603491b061838-2": {
           "type": "button",
@@ -267,16 +285,19 @@
     },
     "16582605028fdc16b6": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "Storage",
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658260513b99c1963": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1658260513ab6dd4c6-1": {
           "type": "text",
@@ -299,16 +320,19 @@
     },
     "1658260523d7001a3e": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "Allergens",
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658260529146899e2": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "65eddaa2-5962-45c2-9378-8350de721d41": {
           "type": "button",
@@ -375,12 +399,15 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_product_serve_content": true,
         "show_product_short_description": true,
         "show_rating": false,
+        "show_shadow": true,
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
