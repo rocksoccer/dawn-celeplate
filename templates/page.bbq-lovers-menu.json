@@ -10,6 +10,26 @@
     },
     "7e5bb03a-0546-45f1-a140-dff3bfd195d9": {
       "type": "image-banner",
+      "blocks": {
+        "cc4dcb36-c41b-4fc7-a724-3592e0cfb40a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Romance from South Korea",
+            "heading_size": "h2"
+          }
+        },
+        "ee463216-b843-4b0d-814e-6099d0e7ab5c": {
+          "type": "text",
+          "settings": {
+            "text": "Korean Table BBQ 고기구이 has always been a classic Korean dish, mostly noticed in Korean dramas.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "cc4dcb36-c41b-4fc7-a724-3592e0cfb40a",
+        "ee463216-b843-4b0d-814e-6099d0e7ab5c"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/PROG_-_Will_Bai_Monday_3rd_Oct_22-17.jpg",
         "image_overlay_opacity": 0,
@@ -20,7 +40,7 @@
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
