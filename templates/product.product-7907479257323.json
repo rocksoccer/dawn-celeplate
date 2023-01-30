@@ -196,10 +196,20 @@
       "blocks": {
         "16582603491b061838-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "VIEW COOKING INSTRUCTIONS",
-            "button_link": "",
+            "button_label": "English Cooking Instructions",
+            "button_link": "shopify:\/\/pages\/english-ya-cooking-instructions",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "f660da16-0aa9-4cd4-9acd-ba3585832087": {
+          "type": "button",
+          "settings": {
+            "button_label": "中文烹饪指南",
+            "button_link": "shopify:\/\/pages\/chinese-ya-cooking-instructions",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -208,6 +218,7 @@
         },
         "965c36fb-96c9-48b9-8bf6-2442646f3fb3": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>For guidance only, cooking appliances may vary.<\/strong><\/p><p><strong>If your duck is frozen, please let it defrost in the fridge for 48 hours with its breast side up.<\/strong><\/p><p><strong>Roasting<\/strong><\/p><p>Preheat the oven to fan 180°C. Place the chilled raw duck on the oven grid for 80 minutes, breast side up, with a tray under for the dripping fat. After roasting, turn off the oven and leave the duck inside the oven with its door open for 20 more minutes to rest.<\/p><p><strong>Preparation<\/strong><\/p><p>Cut the spring onion and cucumber into slices. Line the steamer with greaseproof paper inside, and steam the pancakes for 3-5 minutes on top of a pot of boiling water. Alternatively, you can spray some water on the surface, and then put the pancakes in the microwave with a cover, 800w for 1 minute.<\/p><p><strong>Presentation<\/strong><\/p><p>Take the duck out of the oven. Don't forget to remove the bamboo stick and drain out the juice inside the duck. Carve duck skin from the duck's chest, serve with osmanthus sugar. Slice duck meat into pieces, serve with duck sauce. You can also roll the spring onion and cucumber slices with meat and sauce inside the pancake.<\/p>"
           }
@@ -215,6 +226,7 @@
       },
       "block_order": [
         "16582603491b061838-2",
+        "f660da16-0aa9-4cd4-9acd-ba3585832087",
         "965c36fb-96c9-48b9-8bf6-2442646f3fb3"
       ],
       "settings": {
