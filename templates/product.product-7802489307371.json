@@ -122,6 +122,7 @@
       "settings": {
         "enable_product_media": true,
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "small",
         "mobile_thumbnails": "hide",
@@ -135,48 +136,6 @@
       "type": "apps",
       "settings": {
         "include_margins": true
-      }
-    },
-    "1658259542695d2e5e": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Cooking Instructions",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "1658260349a43e5800": {
-      "type": "rich-text",
-      "blocks": {
-        "3f011485-4a54-41c6-a868-6d0780eae793": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pancakes need to be heated up in the pan for 4 minutes (no additional oil needed). <\/p><p>Flip the pancakes often until they are golden and crispy.<\/p><p>Serve with Yuzu Pancake Sauce.<br\/> <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "3f011485-4a54-41c6-a868-6d0780eae793"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "16582605028fdc16b6": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Storage",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "1658260513b99c1963": {
@@ -199,16 +158,6 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "1658260523d7001a3e": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Allergens",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16
       }
     },
     "1658260529146899e2": {
@@ -263,6 +212,28 @@
         "padding_bottom": 28
       }
     },
+    "ca131895-fd73-4e49-81a3-919a7388120b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718749368555__ca131895-fd73-4e49-81a3-919a7388120b-1675102535a24ed9cc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Korean pancake collection that contains 3 Kimchi Pancakes and 3 Seafood Pancakes. Korean Pancakes are crispy on the outside, soft and moist in the middle, and chock-full of fresh lightly-cooked vegetables.<\/p><p>Please order Yuzu Pancake Sauce separately.<\/p><p> <\/p><p><strong>Korean pancake set<\/strong><br\/>Selection of Seafood and Kimchi Pancakes<br\/>Country of origin: South Korea<br\/>Net weight: 180g +- 5%<br\/>Portion size: 90g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C. Once opened consume within 2 days. Keep covered. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/><\/p><p>Main allergens: <strong>Shrimp, Anchovy, Squid, Soybean, Wheat, Sesame, Crab<\/strong>.<br\/><\/p><p>Ingredients: Kimchi Pancakes 50% (Kimchi (Cabbage, Red Pepper Powder, Garlic, Spring Onion, Salt, Salted <strong>Shrimp<\/strong>, <strong>Anchovy<\/strong> Extract (<strong>Anchovy<\/strong>, Salt),Radish, Sugar, Ginger), <strong>Wheat<\/strong> Flour, <strong>Squid<\/strong> (Todarodes Pacificus), Pan Cake Mix Powder(<strong>Wheat<\/strong> Flour, Baking Powder(Corn Starch)), <strong>Soybean<\/strong>),Salt, Sugar, Baking Powder(Coen Starch)), <strong>Soybean<\/strong> Oil, Spring Onion, Flavor Enhancer (E621), Sugar, Seasoning (Salt, Clam, Glucose, Garlic, <strong>Shrimp<\/strong> Powder(<strong>Shrimp<\/strong>),Pepper Powder, <strong>Squid<\/strong>, <strong>Anchovy<\/strong> Powder, Bonito Powder, Yeast Powder, Corn Starch, Sugar, Flavor Enhancer(E621),Crab Extract, <strong>Soybean<\/strong>, <strong>Shrimp<\/strong> Extract, Garlic, Radish, Palm Oil)), Seafood Pancakes 50% (Pan Cake Mix Powder (<strong>Wheat<\/strong> Flour, Seasoning (Salt, <strong>Wheat<\/strong> Flour, <strong>Soybean<\/strong>), Salt, Sugar, Baking Powder(Corn Starch)), <strong>Wheat<\/strong> Flour, Spring Onion, Leek, Onion, Carrot, <strong>Soybean<\/strong> Oil, Pepper, <strong>Shrimp<\/strong>, <strong>Shrimp<\/strong> Extract (<strong>Shrimp<\/strong>, <strong>Soybean<\/strong>, Salt, Yeast, Palm Oil, Glucose, Sugar, Flavor Enhancer(E621), Onion, Corn Starch, Caramel Color, <strong>Sesame<\/strong> Oil, Garlic, Black Pepper Powder), Salt, Flavor Enhancer (E621),Seasoning (Salt, Clam, Glucose, Garlic, <strong>Shrimp<\/strong> Powder (<strong>Shrimp<\/strong>), Pepper Powder, <strong>Squid<\/strong> (Todarodes Pacificus), <strong>Anchovy<\/strong> Powder, Bonito Powder, Yeast Powder, Corn Starch, Sugar, Flavor Enhancer (E621), <strong>Crab<\/strong> Extract, <strong>Soybean<\/strong>, <strong>Shrimp<\/strong> Extract, Garlic, Radish, Palm Oil))<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718749368555__ca131895-fd73-4e49-81a3-919a7388120b-1675102535a24ed9cc-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16582608756ffd25d6": {
       "type": "featured-collection",
       "settings": {
@@ -279,12 +250,15 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_product_serve_content": true,
         "show_product_short_description": true,
         "show_rating": false,
+        "show_shadow": true,
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -296,13 +270,10 @@
   "order": [
     "main",
     "1658491360911f410d",
-    "1658259542695d2e5e",
-    "1658260349a43e5800",
-    "16582605028fdc16b6",
     "1658260513b99c1963",
-    "1658260523d7001a3e",
     "1658260529146899e2",
     "product-recommendations",
+    "ca131895-fd73-4e49-81a3-919a7388120b",
     "16582608756ffd25d6"
   ]
 }
