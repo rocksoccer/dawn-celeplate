@@ -132,6 +132,28 @@
         "padding_bottom": 12
       }
     },
+    "7bc7d4e5-f9ec-49d7-a556-7fc8430232cc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718749925611__7bc7d4e5-f9ec-49d7-a556-7fc8430232cc-1675103542293afb03-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Prime Galbi<\/strong><br\/>Boneless Beef Chuck Short Ribs<br\/>Country of origin: UK<br\/>Slaughterhouse license number: GB 4109<br\/>Cutting plant license number: GB2496<br\/>Net weight: 90g +- 5%<br\/>Portion size: 45g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: None.<br\/>Ingredients: Boneless Beef Chuck Short Ribs (100%).<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718749925611__7bc7d4e5-f9ec-49d7-a556-7fc8430232cc-1675103542293afb03-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1658491360911f410d": {
       "type": "apps",
       "blocks": {
@@ -238,9 +260,9 @@
         "padding_top": 12,
         "padding_bottom": 12,
         "override_background_color": false,
-        "background_color": "transparent",
+        "background_color": "rgba(0,0,0,0)",
         "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "1658259542695d2e5e": {
@@ -412,7 +434,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
         "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -430,6 +452,7 @@
   },
   "order": [
     "main",
+    "7bc7d4e5-f9ec-49d7-a556-7fc8430232cc",
     "1658491360911f410d",
     "16582564410dbad73c",
     "1658221557854215e8",
