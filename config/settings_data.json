@@ -110,6 +110,7 @@
         "blocks": {
           "49ed78d2-7527-4341-af2f-7d96540a75b2": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Pre-order Yā 鸭之 Peking Duck from 26th January",
               "text_alignment": "center",
