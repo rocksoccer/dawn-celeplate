@@ -238,9 +238,9 @@
         "padding_top": 12,
         "padding_bottom": 12,
         "override_background_color": false,
-        "background_color": "transparent",
+        "background_color": "rgba(0,0,0,0)",
         "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "1658259542695d2e5e": {
@@ -395,6 +395,28 @@
         "padding_bottom": 28
       }
     },
+    "442cf48a-4e65-4b79-b2e2-d0921cb22a5d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16747964760299__442cf48a-4e65-4b79-b2e2-d0921cb22a5d-1675102535a24ed9cc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Burgogi Salt special<\/strong><br\/>Sea Salt with Mineral Salt<br\/>Net weight: 3g +- 5%<br\/>Portion size: 1.5g<br\/>Number of portions in one package: 2<br\/>Storage: Store in a cool dry place. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: None.<br\/>Ingredients: Sea Salt, Himalayan Mineral Salt.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16747964760299__442cf48a-4e65-4b79-b2e2-d0921cb22a5d-1675102535a24ed9cc-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "16582608756ffd25d6": {
       "type": "featured-collection",
       "settings": {
@@ -412,7 +434,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
         "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -440,6 +462,7 @@
     "1658260523d7001a3e",
     "1658260529146899e2",
     "product-recommendations",
+    "442cf48a-4e65-4b79-b2e2-d0921cb22a5d",
     "16582608756ffd25d6"
   ]
 }
