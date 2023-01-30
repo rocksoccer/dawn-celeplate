@@ -122,6 +122,7 @@
       "settings": {
         "enable_product_media": true,
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "small",
         "mobile_thumbnails": "hide",
@@ -135,7 +136,7 @@
       "type": "apps",
       "blocks": {
         "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
+          "type": "shopify:\/\/apps\/easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
           "settings": {
           }
         }
@@ -155,7 +156,8 @@
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658221557854215e8": {
@@ -170,7 +172,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "16582215571d751c54-1": {
@@ -181,7 +184,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "16582215571d751c54-2": {
@@ -192,7 +196,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "00573e42-0023-4c41-b5fa-9515e670f15c": {
@@ -203,7 +208,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         }
       },
@@ -215,6 +221,9 @@
       ],
       "settings": {
         "title": "",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -227,62 +236,11 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "1658259542695d2e5e": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Cooking Instructions",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "1658260349a43e5800": {
-      "type": "rich-text",
-      "blocks": {
-        "16582603491b061838-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "VIEW COOKING INSTRUCTIONS",
-            "button_link": "shopify:\/\/pages\/lahmacun",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "dddadfd6-e288-4d4e-9f42-784eb38fa74b": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Ox Tongue<\/strong><\/p><p>Pan fry ox tongue with 1 tsp oil for 15s each side. Serve with cumin dip and chilli spice.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16582603491b061838-2",
-        "dddadfd6-e288-4d4e-9f42-784eb38fa74b"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "16582605028fdc16b6": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Storage",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 12,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
       }
     },
     "1658260513b99c1963": {
@@ -291,56 +249,12 @@
         "1658260513ab6dd4c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Keep refrigerated below 5°C. Once opened consume within 2 days.<\/p><p>Keep covered, store at the bottom of the refrigerator.<\/p><p>Do not exceed use by date.<\/p><p>Not suitable for home freezing.<\/p><p>For use by date see the front of pack.<\/p>"
+            "text": "<p><strong>Ox Tongue<\/strong><br\/>Ox Tongue Fillet<br\/>Country of origin: UK<br\/>Slaughterhouse license number: GB 4109<br\/>Cutting plant license number: GB2496<br\/>Net weight: 100g +- 5%<br\/>Portion size: 50g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: None.<br\/>Ingredients: Ox Tongue Fillet (100%).<\/p>"
           }
         }
       },
       "block_order": [
         "1658260513ab6dd4c6-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "1658260523d7001a3e": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Allergens",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
-    "1658260529146899e2": {
-      "type": "rich-text",
-      "blocks": {
-        "16582605290744eb35-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Main allergens: <strong>None.<\/strong><\/p><p>Ingredients: Ox Tongue Fillet (100%).<\/p>"
-          }
-        },
-        "defad435-1576-4d49-ae15-169dfa9fd078": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIEW DETAILED INGREDIENTS & NUTRITIONS",
-            "button_link": "shopify:\/\/pages\/korean-table-bbq-ingredients-nutritions",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16582605290744eb35-1",
-        "defad435-1576-4d49-ae15-169dfa9fd078"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -385,12 +299,15 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_product_serve_content": true,
         "show_product_short_description": true,
         "show_rating": false,
+        "show_shadow": true,
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
@@ -404,12 +321,7 @@
     "1658491360911f410d",
     "16582564410dbad73c",
     "1658221557854215e8",
-    "1658259542695d2e5e",
-    "1658260349a43e5800",
-    "16582605028fdc16b6",
     "1658260513b99c1963",
-    "1658260523d7001a3e",
-    "1658260529146899e2",
     "product-recommendations",
     "16582608756ffd25d6"
   ]
