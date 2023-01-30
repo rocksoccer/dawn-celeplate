@@ -243,87 +243,18 @@
         "card_background_color": "transparent"
       }
     },
-    "1658260349a43e5800": {
-      "type": "rich-text",
-      "blocks": {
-        "16582603491b061838-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "VIEW COOKING INSTRUCTIONS",
-            "button_link": "shopify:\/\/pages\/lahmacun",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "dcc0523d-4213-418b-9f0b-092f39b4d542": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Flat Iron Marinated in Bujang Sauce<\/strong><\/p><p>Pan fry half of the king oyster mushrooms for 30s each side with 1 tsp oil. Pan fry marinated flat iron for 10s each side. Wrap some king oyster mushroom, flat iron and spring onionin a lettuce leaf to serve.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16582603491b061838-2",
-        "dcc0523d-4213-418b-9f0b-092f39b4d542"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
     "1658260513b99c1963": {
       "type": "rich-text",
       "blocks": {
         "1658260513ab6dd4c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Keep refrigerated below 5°C. Once opened consume within 2 days.<\/p><p>Keep covered, store at the bottom of the refrigerator.<\/p><p>Do not exceed use by date.<\/p><p>Not suitable for home freezing.<\/p><p>For use by date see the front of pack.<\/p>"
+            "text": "<p><strong>Flat Iron marinated with buljang sauce<\/strong><br\/>Beef Iron Flat Fillet marinated in Sweet Soy Sauce with Onion and Black Pepper<br\/>Country of origin: UK<br\/>Slaughterhouse license number: GB 4109<br\/>Cutting plant license number: GB2496<br\/>Net weight: 90g +- 5%<br\/>Portion size: 45g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: <strong>Soy, Soybeans, Wheat, Fermented Ethyl Alcohol<\/strong>.<br\/>Ingredients: Beef Flat Iron Steak (80%), Buljang Sauce 20% (<strong>Soy<\/strong> Sauce 29.2% (Water 49%, <strong>Soy<\/strong> Sauce (<strong>Soybeans<\/strong>) 36%, Salt 6.7%, Brewed Soy Sauce (<strong>Soybeans<\/strong>, <strong>Wheat<\/strong>) 3.9%, High Fructose Corn Syrup 3.7%, Monosodium Glutamate(E621), Caramel Colour (E150c), <strong>Fermented Ethyl Alcohol<\/strong> 0.2%, Disodium 5'-Ribonucleotide (E635), Ethyl P-Hydroxybenzoate (E214, Preservative)), Onion 18.3%, Sugar, Corn Syrup, Spring Onion, Pineapple, Apples, Sesame Oil, Garlic, Black Pepper 1.1%.).<\/p>"
           }
         }
       },
       "block_order": [
         "1658260513ab6dd4c6-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "1658260529146899e2": {
-      "type": "rich-text",
-      "blocks": {
-        "16582605290744eb35-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Main allergens: <strong>Soy<\/strong>, <strong>Soybeans, Wheat, Fermented Ethyl Alcohol.<\/strong><\/p><p>Ingredients: Beef Flat Iron Steak (80%), Buljang Sauce 20% (<strong>Soy<\/strong> Sauce 29.2% (Water 49%, <strong>Soy<\/strong> Sauce (<strong>Soybeans<\/strong>) 36%, Salt 6.7%, Brewed Soy Sauce (<strong>Soybeans<\/strong>, <strong>Wheat<\/strong>) 3.9%, High Fructose Corn Syrup 3.7%, Monosodium Glutamate(E621), Caramel Colour (E150c), <strong>Fermented Ethyl Alcohol<\/strong> 0.2%, Disodium 5'-Ribonucleotide (E635), Ethyl P-Hydroxybenzoate (E214, Preservative)), Onion 18.3%, Sugar, Corn Syrup, Spring Onion, Pineapple, Apples, Sesame Oil, Garlic, Black Pepper 1.1%.).<\/p>"
-          }
-        },
-        "defad435-1576-4d49-ae15-169dfa9fd078": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIEW DETAILED INGREDIENTS & NUTRITIONS",
-            "button_link": "shopify:\/\/pages\/korean-table-bbq-ingredients-nutritions",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16582605290744eb35-1",
-        "defad435-1576-4d49-ae15-169dfa9fd078"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -390,9 +321,7 @@
     "1658491360911f410d",
     "16582564410dbad73c",
     "1658221557854215e8",
-    "1658260349a43e5800",
     "1658260513b99c1963",
-    "1658260529146899e2",
     "product-recommendations",
     "16582608756ffd25d6"
   ]
