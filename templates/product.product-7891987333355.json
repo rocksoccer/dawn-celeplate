@@ -270,38 +270,6 @@
         "collapse_top_border": true
       }
     },
-    "2fe2f0a7-915b-4cae-94c6-109d511aaba7": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Add your favourite meat",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "korean-table-bbq-meat",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1658260529146899e2": {
       "type": "rich-text",
       "blocks": {
@@ -335,6 +303,38 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 12
+      }
+    },
+    "2fe2f0a7-915b-4cae-94c6-109d511aaba7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Add your favourite meat",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-meat",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0": {
@@ -474,8 +474,8 @@
     "16582605028fdc16b6",
     "1658260513b99c1963",
     "1658260523d7001a3e",
-    "2fe2f0a7-915b-4cae-94c6-109d511aaba7",
     "1658260529146899e2",
+    "2fe2f0a7-915b-4cae-94c6-109d511aaba7",
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0",
     "ea6a908a-bf7a-4d29-99f9-35fe46bc45ff",
     "product-recommendations",
