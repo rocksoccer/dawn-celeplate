@@ -346,6 +346,38 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "83ce5fbb-1330-4cfd-a73f-e603e308462b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Add your favourite meat",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-meat",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -360,6 +392,7 @@
     "1658260523d7001a3e",
     "1658260529146899e2",
     "product-recommendations",
-    "16582608756ffd25d6"
+    "16582608756ffd25d6",
+    "83ce5fbb-1330-4cfd-a73f-e603e308462b"
   ]
 }
