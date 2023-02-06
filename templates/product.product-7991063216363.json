@@ -196,10 +196,9 @@
       "blocks": {
         "16582603491b061838-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "VIEW COOKING INSTRUCTIONS",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/burgogis-valentine-special-cooking-instructions",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -208,6 +207,7 @@
         },
         "195f3f75-0dd3-485d-9626-f8141db40e58": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>1. Wash the spring onions and enoki mushrooms; chop the spring onions; cut off the roots of the enoki mushrooms.<\/p><p>2. Place all the ingredients and sauces according to the reference picture above, then add the soup baseon top. Let it boil for 5 minutes and serve.<\/p><p>3. The ramen noodles and cheese slices can be cooked with the other ingredients, or added at the end. If ramen and cheese are added at the end, please add an extra 4 minutes after putting them in.<\/p>"
           }
