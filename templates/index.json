@@ -14,7 +14,7 @@
         "37400d3b-cef3-434e-a132-eb2090135cfb": {
           "type": "text_sticked_with_button",
           "settings": {
-            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">A Korean<br>date night<br>For<br>Valentine's day<\/span>",
+            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">A Korean<br>date night in<br>For<br>Valentine's day<\/span>",
             "text_style": "caption-with-letter-spacing"
           }
         },
