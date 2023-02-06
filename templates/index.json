@@ -5,6 +5,7 @@
       "blocks": {
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-0": {
           "type": "heading_image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/YA_logo_English_01.png",
             "max_width": 15
