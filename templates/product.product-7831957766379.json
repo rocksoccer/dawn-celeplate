@@ -238,9 +238,9 @@
         "padding_top": 12,
         "padding_bottom": 12,
         "override_background_color": false,
-        "background_color": "transparent",
+        "background_color": "rgba(0,0,0,0)",
         "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "1658260513b99c1963": {
@@ -249,7 +249,7 @@
         "1658260513ab6dd4c6-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Marinated Galbi<\/strong><br\/>Beef Chuck Short Ribs marinated in Sweet Soy Sauce with Onion and Black Pepper<br\/>Country of origin: UK<br\/>Slaughterhouse license number: GB 4109<br\/>Cutting plant license number: GB2496<br\/>Net weight: 90g +- 5%<br\/>Portion size: 45g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p> <\/p><p>Main allergens: Soybeans, Wheat, Fermented Ethyl Alcohol, Sesame.<\/p><p>Ingredients: Beef Rib 89.3%, Sweet Soy Sauce With Onion And Black Pepper 10.7% (Soy Sauce 29.2% ( Water 49%, Soy Sauce (<strong>Soybeans<\/strong>) 36%, Salt 6.7%, Brewed Soy Sauce (<strong>Soybeans, Wheat<\/strong>) 3.9%, High Fructose Corn Syrup 3.7%, Monosodium Glutamate(E621), Caramel Colour (E150c), <strong>Fermented Ethyl Alcohol<\/strong> 0.2%, Disodium 5'-Ribonucleotide (E635), Ethyl P-Hydroxybenzoate (E214, Preservative)), Onion 18.3%, Sugar, Corn Syrup, Spring Onion, Pineapple, Apples, <strong>Sesame <\/strong>Oil, Garlic, Black Pepper 1.1%.)<\/p>"
+            "text": "<p><strong>Marinated Galbi<\/strong><br\/>Beef Chuck Short Ribs marinated in Sweet Soy Sauce with Onion and Black Pepper<br\/>Country of origin: UK<br\/>Slaughterhouse license number: GB 4109<br\/>Cutting plant license number: GB2496<br\/>Net weight: 90g +- 5%<br\/>Portion size: 45g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p> <\/p><p>Main allergens: Soybeans, Wheat, Fermented Ethyl Alcohol, Sesame.<\/p><p>Ingredients: Beef Rib 89.3%, Sweet Soy Sauce With Onion And Black Pepper 10.7% (Soy Sauce 29.2% ( Water 49%, Soy Sauce (<strong>Soybeans<\/strong>) 36%, Salt 6.7%, Brewed Soy Sauce (<strong>Soybeans, Wheat<\/strong>) 3.9%, High Fructose Corn Syrup 3.7%, Monosodium Glutamate(E621), Caramel Colour (E150c), <strong>Fermented Ethyl Alcohol<\/strong> 0.2%, Disodium 5'-Ribonucleotide (E635), Ethyl P-Hydroxybenzoate (E214, Preservative)), Onion 18.3%, Sugar, Corn Syrup, Spring Onion, Pineapple, Apples, <strong>Sesame <\/strong>Oil, Garlic, Black Pepper 1.1%.)<\/p><p><br\/><strong>Cooking Instructions<\/strong><\/p><p>Pan fry marinated galbi with 1 tsp oil for 10s each side. Wrap some king oyster mushroom, galbi and spring onion in a lettuce leaf to serve.<\/p>"
           }
         }
       },
@@ -300,7 +300,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
         "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
