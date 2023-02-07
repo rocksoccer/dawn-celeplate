@@ -238,9 +238,9 @@
         "padding_top": 12,
         "padding_bottom": 12,
         "override_background_color": false,
-        "background_color": "transparent",
+        "background_color": "rgba(0,0,0,0)",
         "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "1658260349a43e5800": {
@@ -261,7 +261,7 @@
         "ab24535c-8d5c-4984-ad28-d8544a6cb6f9": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Pork Neck marinated in spicy sauce<\/strong><br\/>Pork Neck Marinated in Spicy Red Pepper Sauce<br\/>Country of origin: Belgium<br\/>Slaughterhouse license number: GB 4109<br\/>Cutting plant license number: GB2496<br\/>Net weight: 130g +- 5%<br\/>Portion size: 65g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: <strong>Wheat, Soybeans, Mustard, Sesame<\/strong>.<br\/>Ingredients: Pork Neck Fillet Raw (92.3%), Dark Galbi Sauce (7.7%) (Red Pepper Paste (Water, Corn Syrup, <strong>Wheat<\/strong> Flour, <strong>Wheat<\/strong>, Salt, Red Pepper Powder, Soybean, Alcohol ( Perservative), Garlic, Onion Monosodium Glutamate (E621)), Sugar, Soy Sauce (Water 49%, Soy Sauce (<strong>Soybeans<\/strong>) 36%, Salt 6.7%, Brewed Soy Sauce (<strong>Soybeans<\/strong>, <strong>Wheat<\/strong>) 3.9%, High Fructose Corn Syrup 3.7%, Monosodium Glutamate(E621), Caramel Colour (E150c),  Fermented Ethyl Alcohol 0.2%, Disodium 5'-Ribonucleotide (E635), Ethyl P-Hydroxybenzoate (E214, Perservative)), Corn Syrup, Mijak Mirin (<strong>Wheat<\/strong>), Chilli Powder, Garlic, Onion, Pineapple, Curry Powder (<strong>Mustard<\/strong>), Leeks, <strong>Sesame<\/strong> Oil.<\/p>"
+            "text": "<p><strong>Pork Neck marinated in spicy sauce<\/strong><br\/>Pork Neck Marinated in Spicy Red Pepper Sauce<br\/>Country of origin: Belgium<br\/>Slaughterhouse license number: GB 4109<br\/>Cutting plant license number: GB2496<br\/>Net weight: 130g +- 5%<br\/>Portion size: 65g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: <strong>Wheat, Soybeans, Mustard, Sesame<\/strong>.<br\/>Ingredients: Pork Neck Fillet Raw (92.3%), Dark Galbi Sauce (7.7%) (Red Pepper Paste (Water, Corn Syrup, <strong>Wheat<\/strong> Flour, <strong>Wheat<\/strong>, Salt, Red Pepper Powder, Soybean, Alcohol ( Perservative), Garlic, Onion Monosodium Glutamate (E621)), Sugar, Soy Sauce (Water 49%, Soy Sauce (<strong>Soybeans<\/strong>) 36%, Salt 6.7%, Brewed Soy Sauce (<strong>Soybeans<\/strong>, <strong>Wheat<\/strong>) 3.9%, High Fructose Corn Syrup 3.7%, Monosodium Glutamate(E621), Caramel Colour (E150c),  Fermented Ethyl Alcohol 0.2%, Disodium 5'-Ribonucleotide (E635), Ethyl P-Hydroxybenzoate (E214, Perservative)), Corn Syrup, Mijak Mirin (<strong>Wheat<\/strong>), Chilli Powder, Garlic, Onion, Pineapple, Curry Powder (<strong>Mustard<\/strong>), Leeks, <strong>Sesame<\/strong> Oil.<\/p><p><br\/><strong>Cooking Instructions<\/strong><\/p><p>Pan fry pork neck marinated in spicy sauce with 1 tsp oil for 25s each side. Wrap with lettuce and spring onion to serve.<\/p>"
           }
         }
       },
@@ -313,7 +313,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
         "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
