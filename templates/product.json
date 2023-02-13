@@ -81,7 +81,7 @@
         "bbdda6eb-b428-4016-8bdc-267fa56a3a5e": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"product-form__buttons\">\n  <a name=\"add\" class=\"product-form__submit button button--full-width button--primary\" href=\"https:\/\/google.com\">\n    <span>GET IT ON CELEPLATE<\/span>\n  <\/a>\n<\/div>"
+            "custom_liquid": "<div class=\"product-form__buttons\">\n  <a name=\"add\" class=\"product-form__submit button button--full-width button--primary\" href=\"{{ product.metafields.custom.celeplate_redirect.value}}\">\n    <span>GET IT ON CELEPLATE<\/span>\n  <\/a>\n<\/div>"
           }
         },
         "collapsible-row-0": {
