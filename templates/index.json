@@ -5,7 +5,6 @@
       "blocks": {
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-0": {
           "type": "heading_image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/YA_logo_English_01.png",
             "max_width": 15
@@ -14,7 +13,7 @@
         "37400d3b-cef3-434e-a132-eb2090135cfb": {
           "type": "text_sticked_with_button",
           "settings": {
-            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">A Korean<br>date night in<br>For<br>Valentine's day<\/span>",
+            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">THE UK's FIRST<br>OVEN-READY<br>PEKING DUCK<\/span>",
             "text_style": "caption-with-letter-spacing"
           }
         },
@@ -35,7 +34,7 @@
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMB_wlWZ24.gif",
+        "image": "shopify:\/\/shop_images\/IMB_SyVzXh.gif",
         "image_overlay_opacity": 10,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -47,81 +46,6 @@
         "stack_images_on_mobile": false,
         "show_text_below": false,
         "mobile_min_height_offset": 16
-      }
-    },
-    "d131eb1c-febe-49b1-b98b-b00c5258f86f": {
-      "type": "image-with-text-enhanced",
-      "blocks": {
-        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "DATE NIGHT",
-            "heading_size": "h1"
-          }
-        },
-        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>There’s nothing more romantic than being with your lover, indulging in a tasty dinner with a nice view. At Celeplate, with many romantic collections to choose from, you are bound to find a meal kit to add that romantic element to your dream date. Scented candles, chocolate, and a delicious meal - a recipe for an unforgettable date! <br\/><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-0",
-        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Dating_night_01.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "image_grid_item_width_offset": "-8.3335",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 4,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0,
-        "mobile_text_section_padding_left": 1.5,
-        "mobile_text_section_padding_bottom": 1.5,
-        "section_background_color": "rgba(0,0,0,0)",
-        "text_area_background_color": "#ffffff"
-      }
-    },
-    "41e7ffe1-7c5a-41e1-9b24-de96256475ca": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "date-night",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "rgba(0,0,0,0)",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 4,
-        "padding_bottom": 36
       }
     },
     "4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2": {
@@ -185,6 +109,81 @@
         "color_scheme": "background-1",
         "override_color_scheme_background": true,
         "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "d131eb1c-febe-49b1-b98b-b00c5258f86f": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DATE NIGHT",
+            "heading_size": "h1"
+          }
+        },
+        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There’s nothing more romantic than being with your lover, indulging in a tasty dinner with a nice view. At Celeplate, with many romantic collections to choose from, you are bound to find a meal kit to add that romantic element to your dream date. Scented candles, chocolate, and a delicious meal - a recipe for an unforgettable date! <br\/><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-0",
+        "template--16260666327275__d131eb1c-febe-49b1-b98b-b00c5258f86f-166547270230c67162-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dating_night_01.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "41e7ffe1-7c5a-41e1-9b24-de96256475ca": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "date-night",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -723,10 +722,10 @@
   },
   "order": [
     "9fb05fcf-7937-46d1-9400-1dbe9d387d99",
-    "d131eb1c-febe-49b1-b98b-b00c5258f86f",
-    "41e7ffe1-7c5a-41e1-9b24-de96256475ca",
     "4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2",
     "d01b7f0a-6ec6-4b8c-8e9e-895a90244d30",
+    "d131eb1c-febe-49b1-b98b-b00c5258f86f",
+    "41e7ffe1-7c5a-41e1-9b24-de96256475ca",
     "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
     "1661555440e5d6051b",
