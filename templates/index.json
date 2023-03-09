@@ -54,11 +54,86 @@
         "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-0": {
           "type": "heading",
           "settings": {
-            "heading": "FAMILY GATHERING",
+            "heading": "HOTPOT FEAST",
             "heading_size": "h1"
           }
         },
         "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you're looking to recreate the hotpot experience at home, we've got you covered. We offer a range of soup bases and sauces inspired by the flavors of Japan, Korea, and China. Choose from our selection of savory and sweet broths, spicy and flavorful sauces, and unique dipping sauces to create the perfect hotpot. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-0",
+        "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/japanese_2.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "#f6f6f6",
+        "text_area_background_color": "#f6f6f6"
+      }
+    },
+    "7783c591-b06b-4010-b884-3f069fae8409": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "hotpot-feast",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": true,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "76c78c63-3203-465c-889e-bd9082fb9224": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "984b1eed-f875-4978-953d-f90a1951c28c": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAMILY GATHERING",
+            "heading_size": "h1"
+          }
+        },
+        "2ebb3068-064d-4cd3-938c-4ee2d1bb906f": {
           "type": "text",
           "settings": {
             "text": "<p>Time with family is often taken for granted, especially when life gets in the way. Celeplate make having a quality meal with loved ones easy and a thing to look forward to! Many family-friendly meal options make bringing the family together no longer a hassle. Creating an overall fantastic experience for everyone! <\/p>",
@@ -67,8 +142,8 @@
         }
       },
       "block_order": [
-        "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-0",
-        "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-1"
+        "984b1eed-f875-4978-953d-f90a1951c28c",
+        "2ebb3068-064d-4cd3-938c-4ee2d1bb906f"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/CNY_01.png",
@@ -723,6 +798,8 @@
   "order": [
     "9fb05fcf-7937-46d1-9400-1dbe9d387d99",
     "4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2",
+    "7783c591-b06b-4010-b884-3f069fae8409",
+    "76c78c63-3203-465c-889e-bd9082fb9224",
     "d01b7f0a-6ec6-4b8c-8e9e-895a90244d30",
     "d131eb1c-febe-49b1-b98b-b00c5258f86f",
     "41e7ffe1-7c5a-41e1-9b24-de96256475ca",
