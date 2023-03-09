@@ -140,7 +140,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "family-gathering",
+        "collection": "hotpot-meat",
         "products_to_show": 12,
         "columns_desktop": 3,
         "full_width": false,
@@ -166,6 +166,7 @@
     },
     "c7c526f7-100e-48d1-88cd-797880d6bd00": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Friends_party_02.png",
         "image_overlay_opacity": 0,
@@ -185,6 +186,7 @@
       "blocks": {
         "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>PARTY WITH FRIENDS<\/p>",
             "heading_size": "h1"
@@ -192,6 +194,7 @@
         },
         "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Life can sometimes be fast-paced or filled with pressure, but a moment with friends brings back that element of fun and joy! Celeplate provides you with cultural dishes that spark a pleasant dining experience with your guests. With meal kits being both time and labour-saving, this allows you to be the ultimate host. Focusing your time on catching up with your mates, whilst the meal more or less handles itself. <\/p><p>Make your dining table more authentic with a gift set carefully selected for you by Celeplate.<\/p>"
           }
@@ -212,10 +215,11 @@
     },
     "64f928a8-fb4e-42e2-9904-47a0678c8b1a": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "<p><\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "party-with-friends",
