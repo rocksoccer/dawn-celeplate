@@ -337,6 +337,38 @@
         "padding_bottom": 36
       }
     },
+    "7f5654a9-8b67-4a14-b1f5-681f97f3787d": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Add More Sauce for your hotpot",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "hotpot-meat",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "53de710a-4271-4efc-a3bd-c1622a621e6c": {
       "type": "accordion",
       "disabled": true,
@@ -533,6 +565,7 @@
     "1658260523d7001a3e",
     "1658260529146899e2",
     "69f6116d-9da7-46ea-9cc2-8f2279b06d48",
+    "7f5654a9-8b67-4a14-b1f5-681f97f3787d",
     "53de710a-4271-4efc-a3bd-c1622a621e6c",
     "2b0268b2-02c7-4194-bcd4-c8210cef9aa5",
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0",
