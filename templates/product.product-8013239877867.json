@@ -313,7 +313,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "korean-table-bbq-meat",
+        "collection": "hotpot-meat",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
@@ -400,14 +400,14 @@
         "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-0": {
           "type": "heading",
           "settings": {
-            "heading": "ABOUT BURGOGI",
+            "heading": "A TASTE OF JAPAN",
             "heading_size": "h1"
           }
         },
         "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Korean barbecue is the ultimate comfort food. Imagine being in a small roadside restaurant, the grill is placed in the middle, friends gather around the table, and the aroma of the sizzling meat on the grill is mouth-watering. Diners use fresh lettuce leaves to wrap up meat and vegetables and eat the whole wrap in one bite.<\/p>",
+            "text": "<p>The soup base of Sukiyaki is an essential element of the dish as it provides the flavor and aroma that makes the hotpot so irresistible. The soup is traditionally made from soy sauce, mirin, sugar, and sake, which creates a savory and slightly sweet taste. Some variations include using dashi (Japanese stock) or miso to add extra depth to the broth.<\/p>",
             "text_style": "body"
           }
         }
@@ -417,7 +417,7 @@
         "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_03.png",
+        "image": "shopify:\/\/shop_images\/japanese_intro_2.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -438,14 +438,14 @@
         "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-0": {
           "type": "heading",
           "settings": {
-            "heading": "BURGOGI'S GOAL",
+            "heading": "SUKIYAKI",
             "heading_size": "h1"
           }
         },
         "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>It is Burgogi’s goal to give you the exhilarating experience of eating in a Korean barbecue joint. The combination of savoury, sweet, tangy and mellow flavours explodes like fireworks in their mouths. It’s a meal of sharing and celebration.<\/p>",
+            "text": "<p>Sukiyaki is often served with dipping sauces that complement the flavors of the dish. One such sauce is raw egg, which is beaten and used as a dip for the cooked beef and vegetables. Other popular sauces include ponzu sauce, made from citrus juice and soy sauce, and goma sauce, made from sesame seeds, soy sauce, and sugar. These sauces add a tangy and nutty flavor to the dish, enhancing the overall taste experience.<\/p>",
             "text_style": "body"
           }
         }
@@ -455,7 +455,7 @@
         "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_02.png",
+        "image": "shopify:\/\/shop_images\/japanese_intro.png",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
