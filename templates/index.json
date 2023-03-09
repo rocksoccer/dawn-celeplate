@@ -50,11 +50,12 @@
     },
     "4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2": {
       "type": "image-with-text-enhanced",
+      "disabled": true,
       "blocks": {
         "template--16260666327275__4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2-16655620857587ffb1-0": {
           "type": "heading",
           "settings": {
-            "heading": "HOTPOT FEAST",
+            "heading": "Your best slice beef exproeme",
             "heading_size": "h1"
           }
         },
@@ -93,6 +94,7 @@
     },
     "7783c591-b06b-4010-b884-3f069fae8409": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
