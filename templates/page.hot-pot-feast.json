@@ -11,7 +11,7 @@
     "8b200bbd-8dd4-4c8e-a0c0-c84d53924333": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/japanese_2.png",
+        "image": "shopify:\/\/shop_images\/shabushabu_2.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -30,7 +30,7 @@
         "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Here comes the hotpot season<\/p>",
+            "heading": "<p>Prime Beef Hotpot Experience<\/p>",
             "heading_size": "h1"
           }
         },
@@ -88,6 +88,7 @@
     },
     "1632b083-7f8e-4442-9fdd-e06a606171e9": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Wagyu_2.png",
         "image_overlay_opacity": 0,
@@ -157,7 +158,7 @@
         "show_product_short_description": true,
         "show_rating": false,
         "show_shadow": true,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 4,
