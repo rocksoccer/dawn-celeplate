@@ -125,6 +125,81 @@
         "padding_bottom": 36
       }
     },
+    "f4862e6a-f131-4a34-bf6b-3a7192d6017a": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "PARTY WITH FRIENDS",
+            "heading_size": "h1"
+          }
+        },
+        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Life can sometimes be fast-paced or filled with pressure, but a moment with friends brings back that element of fun and joy! <\/p><p>Celeplate provides you with cultural dishes that spark a pleasant dining experience with your guests. With meal kits being both time and labour-saving, this allows you to be the ultimate host. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-0",
+        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Friends_party_01.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "eabde4ce-7326-44ae-be0a-5fc3095a59c2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "party-with-friends",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
     "76c78c63-3203-465c-889e-bd9082fb9224": {
       "type": "image-with-text-enhanced",
       "blocks": {
@@ -261,81 +336,6 @@
         "color_scheme": "background-1",
         "override_color_scheme_background": false,
         "override_section_background_color": "rgba(0,0,0,0)",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 4,
-        "padding_bottom": 36
-      }
-    },
-    "f4862e6a-f131-4a34-bf6b-3a7192d6017a": {
-      "type": "image-with-text-enhanced",
-      "blocks": {
-        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "PARTY WITH FRIENDS",
-            "heading_size": "h1"
-          }
-        },
-        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Life can sometimes be fast-paced or filled with pressure, but a moment with friends brings back that element of fun and joy! <\/p><p>Celeplate provides you with cultural dishes that spark a pleasant dining experience with your guests. With meal kits being both time and labour-saving, this allows you to be the ultimate host. <\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-0",
-        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Friends_party_01.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "image_grid_item_width_offset": "-8.3335",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 4,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0,
-        "mobile_text_section_padding_left": 1.5,
-        "mobile_text_section_padding_bottom": 1.5,
-        "section_background_color": "rgba(0,0,0,0)",
-        "text_area_background_color": "#ffffff"
-      }
-    },
-    "eabde4ce-7326-44ae-be0a-5fc3095a59c2": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "<p><\/p>",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "party-with-friends",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "#f6f6f6",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -801,12 +801,12 @@
     "9fb05fcf-7937-46d1-9400-1dbe9d387d99",
     "4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2",
     "7783c591-b06b-4010-b884-3f069fae8409",
+    "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
+    "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
     "76c78c63-3203-465c-889e-bd9082fb9224",
     "d01b7f0a-6ec6-4b8c-8e9e-895a90244d30",
     "d131eb1c-febe-49b1-b98b-b00c5258f86f",
     "41e7ffe1-7c5a-41e1-9b24-de96256475ca",
-    "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
-    "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
     "1661555440e5d6051b",
     "1662588804d21a679e",
     "1658347841ead12aab",
