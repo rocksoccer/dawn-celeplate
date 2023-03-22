@@ -5,6 +5,7 @@
       "blocks": {
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-0": {
           "type": "heading_image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/YA_logo_English_01.png",
             "max_width": 15
@@ -13,7 +14,7 @@
         "37400d3b-cef3-434e-a132-eb2090135cfb": {
           "type": "text_sticked_with_button",
           "settings": {
-            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">THE UK's FIRST<br>OVEN-READY<br>PEKING DUCK<\/span>",
+            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">Start summer <br>with<br>Wagyu Beef &amp;<br>Iberian Pork<\/span>",
             "text_style": "caption-with-letter-spacing"
           }
         },
@@ -21,7 +22,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "DISCOVER MORE",
-            "button_link_1": "shopify:\/\/products\/oven-ready-whole-peking-duck-for-family",
+            "button_link_1": "shopify:\/\/products\/korean-table-bbq",
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -34,8 +35,8 @@
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMB_SyVzXh.gif",
-        "image_overlay_opacity": 40,
+        "image": "shopify:\/\/shop_images\/wagyu_2.jpg",
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
