@@ -15,6 +15,7 @@
   Spurit['Discountmanager'].snippet.userId = '387973';
   Spurit['Discountmanager'].snippet.signature = '17d344b3682465133f47edc22d990020';
   Spurit['Discountmanager'].snippet.domain = 'https://discountmanager.amai.com';
+  Spurit['Discountmanager'].snippet.flashSaleUrl = 'https://celeplate.co.uk/pages/flash_sales';
   Spurit['Discountmanager'].snippet.shopHash = '74dbae931d72746282297f02330ba47a';
 
   Spurit['Discountmanager'].snippet.appDataFile = '{{"dmr.js" | asset_url }}';
@@ -33,8 +34,8 @@
   Spurit['Discountmanager'].snippet.product = {{product.id}};
   {% endif %}
 </script>
-{% assign commonLoad = false %}
-{% if request.page_type == 'collection' or request.page_type == 'search' or request.page_type == 'product' or request.page_type == 'cart' or request.page_type == 'index' %}
+{% assign commonLoad = true %}
+{% if request.page_type == 'collection' or request.page_type == 'search' or request.page_type == 'product' or request.page_type == 'cart' or request.page_type == 'index' or request.page_type == 'page' %}
 {% if commonLoad %}
   <script src="https://amaicdn.com/discountmanager/common.js"></script>
   <link href="https://amaicdn.com/discountmanager/common.css" rel="stylesheet" type="text/css" media="all">
