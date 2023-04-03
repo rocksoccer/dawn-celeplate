@@ -101,7 +101,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_delivery_date_picker_disabled_week_days": "1,6,7",
-    "cart_delivery_date_picker_disabled_dates": "2023-01-17,2023-01-18,2023-01-19,2023-01-20,2023-01-21,2023-01-22,2023-01-23,2023-01-24,2023-01-25",
+    "cart_delivery_date_picker_disabled_dates": "2023-04-07,2023-04-11",
     "checkout_accent_color": "#6792ad",
     "checkout_button_color": "#6792ad",
     "sections": {
@@ -204,24 +204,6 @@
 
     ],
     "blocks": {
-      "11432920177897217407": {
-        "type": "shopify:\/\/apps\/product-addons\/blocks\/speedup_link\/0099190e-a0cb-49e7-8d26-026c9d26f337",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6897675550240258559": {
-        "type": "shopify:\/\/apps\/promolayer\/blocks\/app-embed\/e4a9128f-b151-4feb-ad9e-ef8fbb63bf07",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "1476460571416118356": {
-        "type": "shopify:\/\/apps\/email-pop-up-live-chat-sms\/blocks\/app-embed\/81f7f7b6-2c8e-4c5e-8541-1e81b7e0d680",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "10436698916776057164": {
         "type": "shopify:\/\/apps\/appstle-subscriptions\/blocks\/appstle-subscription-helper\/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
         "disabled": false,
