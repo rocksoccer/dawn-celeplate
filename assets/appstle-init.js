@@ -17,7 +17,7 @@
       };
 
 
-      appstleLoadScript("https://cdn.shopify.com/s/files/1/0654/7338/0587/t/6/assets/appstle-subscription.js?v=1678105179");
+      appstleLoadScript("https://cdn.shopify.com/s/files/1/0654/7338/0587/t/6/assets/appstle-subscription.js?v=1680687247");
 
 
       window.RS = Window.RS || {};
@@ -186,6 +186,7 @@
                 "background": "transparent",
             },
             "customCSS": "",
+            "elementCSS": "[]",
             "customerPortalCss": "",
             "priceSelector": "",
             "landingPagePriceSelector": "",
