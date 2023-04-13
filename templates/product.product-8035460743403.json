@@ -1,15 +1,66 @@
 {
   "sections": {
+    "42e00bd5-dde5-4a98-9a5f-2a93958fa01a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16797576233195__42e00bd5-dde5-4a98-9a5f-2a93958fa01a-16813907445f219c2a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Design Your Own Korean Table BBQ",
+            "heading_size": "h1"
+          }
+        },
+        "template--16797576233195__42e00bd5-dde5-4a98-9a5f-2a93958fa01a-16813907445f219c2a-1": {
+          "type": "text",
+          "settings": {
+            "text": "With this option, you can now select the meats and sauces that you like and create a unique and personalized dining experience. Choose from a variety of meats, and pair them with your favorite sauces. It's the perfect way to customize your meal and enjoy the flavors that you love.",
+            "text_style": "body"
+          }
+        },
+        "template--16797576233195__42e00bd5-dde5-4a98-9a5f-2a93958fa01a-16813907445f219c2a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16797576233195__42e00bd5-dde5-4a98-9a5f-2a93958fa01a-16813907445f219c2a-0",
+        "template--16797576233195__42e00bd5-dde5-4a98-9a5f-2a93958fa01a-16813907445f219c2a-1",
+        "template--16797576233195__42e00bd5-dde5-4a98-9a5f-2a93958fa01a-16813907445f219c2a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/meat_bg.png",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "right",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-product",
+      "disabled": true,
       "blocks": {
         "title": {
           "type": "title",
+          "disabled": true,
           "settings": {
           }
         },
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "by {{ product.vendor }}",
             "text_style": "uppercase"
@@ -17,6 +68,7 @@
         },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
@@ -24,23 +76,27 @@
         },
         "ca79fb43-21ea-4efe-8f2c-39367b791341": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<p>\n{{ product.metafields.custom.serve_content.value }}\n<hr style=\"background-color: rgb(var(--color-base-accent-2));\">\n<\/p>"
           }
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
         },
         "1f10a208-5842-48f8-894d-d3c6b7338dbe": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -304,7 +360,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Premium thinly sliced meat selection",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "<p>Meet all your expectations of high-quality meat.<\/p>",
         "show_description": false,
         "description_style": "body",
@@ -336,7 +392,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Expertly prepared Korean Sauces and Dips",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "<p>Please choose our carefully prepared Korean sauce to add more flavor to your BBQ.<\/p>",
         "show_description": false,
         "description_style": "body",
@@ -368,7 +424,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "More to your Korean Table BBQ",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "<p>In addition to meat and sauce, you can also choose more Korean-style appetizers and vegetables.<\/p>",
         "show_description": false,
         "description_style": "body",
@@ -394,6 +450,52 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "421962fe-8b68-4348-b6c3-b0bdf5166612": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16797576233195__421962fe-8b68-4348-b6c3-b0bdf5166612-1681391140f45d8436-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Looking for a complete Korean BBQ experience?",
+            "heading_size": "h2"
+          }
+        },
+        "template--16797576233195__421962fe-8b68-4348-b6c3-b0bdf5166612-1681391140f45d8436-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Korean table bbq meal kit has prepared a rich variety of high-quality meat, Korean sauces and vegetables for you.<\/p><p>Experience authentic Korean barbecue with one click.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16797576233195__421962fe-8b68-4348-b6c3-b0bdf5166612-1681391140f45d8436-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get It Now",
+            "button_link": "shopify:\/\/products\/korean-table-bbq"
+          }
+        }
+      },
+      "block_order": [
+        "template--16797576233195__421962fe-8b68-4348-b6c3-b0bdf5166612-1681391140f45d8436-0",
+        "template--16797576233195__421962fe-8b68-4348-b6c3-b0bdf5166612-1681391140f45d8436-1",
+        "template--16797576233195__421962fe-8b68-4348-b6c3-b0bdf5166612-1681391140f45d8436-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/square_bbq.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 8,
+        "mobile_padding_right": 8
       }
     },
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0": {
@@ -524,6 +626,7 @@
     }
   },
   "order": [
+    "42e00bd5-dde5-4a98-9a5f-2a93958fa01a",
     "main",
     "1658491360911f410d",
     "16582564410dbad73c",
@@ -537,6 +640,7 @@
     "e41781f6-5ff2-4adb-966b-f0277879df0c",
     "ab221f3f-48e5-4551-b9b3-760a9b793461",
     "ddb425f5-fa72-47ea-8555-805c71ebe8dd",
+    "421962fe-8b68-4348-b6c3-b0bdf5166612",
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0",
     "ea6a908a-bf7a-4d29-99f9-35fe46bc45ff",
     "product-recommendations",
