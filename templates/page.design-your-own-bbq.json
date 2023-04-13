@@ -1,0 +1,428 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "8b200bbd-8dd4-4c8e-a0c0-c84d53924333": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dating_night_02.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "c4b938da-0852-4f78-a8a4-a881d82a59c3": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>VALENTINE'S DATE NIGHT<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There’s nothing more romantic than being with your lover, indulging in a tasty dinner with a nice view. At Celeplate, you can share your favourite dish with someone special! With many romantic collections to choose from, you are bound to find a meal kit to add that romantic element to your dream date. Scented candles, chocolate, and a delicious meal - a recipe for an unforgettable date! <\/p><p>Make your dining experience more authentic with a gift set carefully selected for you by Celeplate. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0",
+        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 12
+      }
+    },
+    "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "date-night",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "1632b083-7f8e-4442-9fdd-e06a606171e9": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Family_gathering_02.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "63f1aa60-6a4e-4ef4-8038-e72ea00e2048": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>PARTY WITH FRIENDS<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Life can sometimes be fast-paced or filled with pressure, but a moment with friends brings back that element of fun and joy! Celeplate provides you with cultural dishes that spark a pleasant dining experience with your guests. With meal kits being both time and labour-saving, this allows you to be the ultimate host. Focusing your time on catching up with your mates, whilst the meal more or less handles itself. <\/p><p>Make your dining table more authentic with a gift set carefully selected for you by Celeplate.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-0",
+        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 12
+      }
+    },
+    "64f928a8-fb4e-42e2-9904-47a0678c8b1a": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "party-with-friends",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "370022f9-bdfd-4cae-abc0-6172f38742d7": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>FAMILY GATHERING<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Time with family is often taken for granted, especially when life gets in the way.<\/p><p>Celeplate make having a quality meal with loved ones easy, and a thing to look forward to! With many family-friendly meal options, bringing the family together is no longer a hassle. Whilst the adults chat and catch up, the children can be kept at bay with our cultural toys and educational books- which can be selected alongside your desired meal. Creating an overall amazing experience for everyone! <\/p><p>Make your dining table more authentic with a gift set carefully selected for you by Celeplate.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-0",
+        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 12
+      }
+    },
+    "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "family-gathering",
+        "products_to_show": 12,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "link",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "b1ee5682-5a3c-4ebf-8e83-b4f817208fa4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Wagyu",
+            "heading_size": "h1"
+          }
+        },
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Rich Marbling, Tender, Buttery Flavour",
+            "text_style": "body"
+          }
+        },
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Try it now",
+            "button_link_1": "shopify:\/\/products\/wagyu-beef-chuck-100g",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-0",
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-1",
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/darker.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "2fdca9a9-26cd-4dd0-ae2f-749c44790485": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Discover our new-in premium meat selections",
+        "heading_size": "h2",
+        "description": "<p>Designed to deliver a unique and memorable Korean BBQ experience, or more possibilities. Browse our selection today and discover the perfect addition to your next barbecue or culinary creation.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-meat",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    },
+    "9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Design Your Own BBQ",
+            "heading_size": "h2"
+          }
+        },
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Design your own summer Korean BBQ at celeplate and discover your preferred meat choices for a personalized experience.",
+            "text_style": "body"
+          }
+        },
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Design Now",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-0",
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-1",
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/meat_bg.png",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "right",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "903de041-2233-45d3-99eb-5cf7f2b50f36": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16793277890795__903de041-2233-45d3-99eb-5cf7f2b50f36-1681381683b7203150-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Looking for a complete Korean BBQ experience?",
+            "heading_size": "h2"
+          }
+        },
+        "template--16793277890795__903de041-2233-45d3-99eb-5cf7f2b50f36-1681381683b7203150-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Korean table bbq meal kit has prepared a rich variety of high-quality meat, Korean sauces and vegetables for you. <\/p><p>Experience authentic Korean barbecue with one click.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16793277890795__903de041-2233-45d3-99eb-5cf7f2b50f36-1681381683b7203150-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/products\/korean-table-bbq"
+          }
+        }
+      },
+      "block_order": [
+        "template--16793277890795__903de041-2233-45d3-99eb-5cf7f2b50f36-1681381683b7203150-0",
+        "template--16793277890795__903de041-2233-45d3-99eb-5cf7f2b50f36-1681381683b7203150-1",
+        "template--16793277890795__903de041-2233-45d3-99eb-5cf7f2b50f36-1681381683b7203150-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/square_bbq.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 52,
+        "padding_bottom": 52,
+        "mobile_padding_left": 8,
+        "mobile_padding_right": 8
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8b200bbd-8dd4-4c8e-a0c0-c84d53924333",
+    "c4b938da-0852-4f78-a8a4-a881d82a59c3",
+    "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc",
+    "1632b083-7f8e-4442-9fdd-e06a606171e9",
+    "63f1aa60-6a4e-4ef4-8038-e72ea00e2048",
+    "64f928a8-fb4e-42e2-9904-47a0678c8b1a",
+    "370022f9-bdfd-4cae-abc0-6172f38742d7",
+    "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b",
+    "b1ee5682-5a3c-4ebf-8e83-b4f817208fa4",
+    "2fdca9a9-26cd-4dd0-ae2f-749c44790485",
+    "9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6",
+    "903de041-2233-45d3-99eb-5cf7f2b50f36"
+  ]
+}
