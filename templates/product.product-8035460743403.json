@@ -46,11 +46,13 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false
           }
@@ -133,12 +135,14 @@
     },
     "1658491360911f410d": {
       "type": "apps",
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
     },
     "16582564410dbad73c": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "What's in the box",
         "expand_by_default": false,
@@ -150,9 +154,11 @@
     },
     "a34639ef-5950-429c-adb9-aab83ee8e388": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--16260666097899__a34639ef-5950-429c-adb9-aab83ee8e388-1665844479e7d8b2fe-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Mains<\/strong><\/p><ul><li>1 x Rib Eye<\/li><li>1 x Prime Galbi<\/li><li>1 x Flat Iron Marinated with Bujang Sauce<\/li><li>1 x Pork Neck<\/li><li>1 x Flat Iron<\/li><li>1 x Ox Tongue<\/li><li>1 x Pork Neck Marinated in Spicy Sauce<\/li><li>1 x Marinated Galbi<\/li><\/ul><p><strong>Sauces<\/strong><\/p><ul><li>Ssamjang BBQ Paste<\/li><li>Cumin Salt<\/li><li>Burgogi Salt Special<\/li><li>Shichimi Spice Salt<\/li><li>Sesame Oil<\/li><li>Yuzu Pancake Sauce<\/li><\/ul><p><strong>Veg & Others<\/strong><\/p><ul><li>3 x Kimchi Pancake<\/li><li>3 x Seafood Pancake<\/li><li>Enoki Mushroom<\/li><li>Lettuce<\/li><li>Spring onion<\/li><\/ul>"
           }
@@ -172,6 +178,7 @@
     },
     "1658259542695d2e5e": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "Cooking Instructions",
         "expand_by_default": false,
@@ -183,9 +190,11 @@
     },
     "1658260349a43e5800": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16582603491b061838-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "VIEW COOKING INSTRUCTIONS",
             "button_link": "shopify:\/\/pages\/korean-table-bbq-cooking-instructions",
@@ -210,6 +219,7 @@
     },
     "16582605028fdc16b6": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "Storage",
         "expand_by_default": false,
@@ -221,9 +231,11 @@
     },
     "1658260513b99c1963": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1658260513ab6dd4c6-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Keep refrigerated. <\/p><p>Not suitable for home freezing. Please find detailed storage information in the cooking instuctions.<\/p>"
           }
@@ -243,6 +255,7 @@
     },
     "1658260523d7001a3e": {
       "type": "accordion",
+      "disabled": true,
       "settings": {
         "heading": "Allergens",
         "expand_by_default": false,
@@ -254,6 +267,7 @@
     },
     "1658260529146899e2": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16582605290744eb35-1": {
           "type": "text",
