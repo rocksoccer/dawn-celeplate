@@ -13,7 +13,7 @@
         "template--16797576233195__42e00bd5-dde5-4a98-9a5f-2a93958fa01a-16813907445f219c2a-1": {
           "type": "text",
           "settings": {
-            "text": "With this option, you can now select the meats and sauces that you like and create a unique and personalized dining experience. Choose from a variety of meats, and pair them with your favorite sauces. It's the perfect way to customize your meal and enjoy the flavors that you love.",
+            "text": "Create a unique and personalized dining experience. Choose from a variety of meats, and pair them with your favorite sauces.",
             "text_style": "body"
           }
         },
@@ -45,7 +45,7 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "main": {
@@ -623,6 +623,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "8d2926f4-f3a7-4320-b8b5-5b9d01d28157": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-0",
+        "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-1",
+        "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/darker.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
     }
   },
   "order": [
@@ -644,6 +692,7 @@
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0",
     "ea6a908a-bf7a-4d29-99f9-35fe46bc45ff",
     "product-recommendations",
-    "16582608756ffd25d6"
+    "16582608756ffd25d6",
+    "8d2926f4-f3a7-4320-b8b5-5b9d01d28157"
   ]
 }
