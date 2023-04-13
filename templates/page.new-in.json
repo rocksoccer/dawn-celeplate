@@ -360,6 +360,54 @@
         "mobile_padding_left": 8,
         "mobile_padding_right": 8
       }
+    },
+    "9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Design Your Own BBQ",
+            "heading_size": "h2"
+          }
+        },
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Design your own summer Korean BBQ at celeplate and discover your preferred meat choices for a personalized experience.",
+            "text_style": "body"
+          }
+        },
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Design Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-0",
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-1",
+        "template--16793277890795__9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6-1681377411ca58ca8e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/meat_bg.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "right",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -374,6 +422,7 @@
     "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b",
     "b1ee5682-5a3c-4ebf-8e83-b4f817208fa4",
     "2fdca9a9-26cd-4dd0-ae2f-749c44790485",
-    "903de041-2233-45d3-99eb-5cf7f2b50f36"
+    "903de041-2233-45d3-99eb-5cf7f2b50f36",
+    "9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6"
   ]
 }
