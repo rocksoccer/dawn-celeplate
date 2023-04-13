@@ -241,6 +241,109 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "12cd2c5f-eb00-4597-967b-5530a8bda6b1": {
+      "type": "image-banner-enhanced",
+      "disabled": true,
+      "blocks": {
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-0": {
+          "type": "heading_image",
+          "settings": {
+            "max_width": 10
+          }
+        },
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-2": {
+          "type": "text",
+          "settings": {
+            "text": "sss",
+            "text_style": "body"
+          }
+        },
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-3": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-0",
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-1",
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-2",
+        "template--16793277890795__12cd2c5f-eb00-4597-967b-5530a8bda6b1-168137737009e03270-3"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "mobile_min_height_offset": 10
+      }
+    },
+    "b1ee5682-5a3c-4ebf-8e83-b4f817208fa4": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Premium Wagyu",
+            "heading_size": "h1"
+          }
+        },
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Rich Marbling, Tender, Buttery Flavour",
+            "text_style": "body"
+          }
+        },
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Try it now",
+            "button_link_1": "shopify:\/\/products\/wagyu-beef-chuck-100g",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-0",
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-1",
+        "template--16793277890795__b1ee5682-5a3c-4ebf-8e83-b4f817208fa4-1681377411ca58ca8e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/newin_banner_without_shadow.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -253,6 +356,8 @@
     "64f928a8-fb4e-42e2-9904-47a0678c8b1a",
     "370022f9-bdfd-4cae-abc0-6172f38742d7",
     "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b",
-    "c7c526f7-100e-48d1-88cd-797880d6bd00"
+    "c7c526f7-100e-48d1-88cd-797880d6bd00",
+    "12cd2c5f-eb00-4597-967b-5530a8bda6b1",
+    "b1ee5682-5a3c-4ebf-8e83-b4f817208fa4"
   ]
 }
