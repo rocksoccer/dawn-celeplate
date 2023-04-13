@@ -278,7 +278,7 @@
         "show_text_box": false,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
@@ -288,7 +288,7 @@
       "settings": {
         "title": "Discover our new-in premium meat selections",
         "heading_size": "h2",
-        "description": "<p>Our new products are designed to deliver a unique and memorable Korean BBQ experience, or more possibilities.<\/p><p>Browse our selection today and discover the perfect addition to your next barbecue or culinary creation.<\/p>",
+        "description": "<p>Designed to deliver a unique and memorable Korean BBQ experience, or more possibilities. Browse our selection today and discover the perfect addition to your next barbecue or culinary creation.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "korean-table-bbq-meat",
