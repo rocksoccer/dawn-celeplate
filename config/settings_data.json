@@ -178,7 +178,7 @@
           "newsletter_heading": "",
           "show_social": true,
           "enable_country_selector": false,
-          "enable_language_selector": false,
+          "enable_language_selector": true,
           "payment_enable": false,
           "margin_top": 48,
           "padding_top": 36,
@@ -212,12 +212,6 @@
       },
       "3847134708050210359": {
         "type": "shopify:\/\/apps\/transcy-ai-language-translate\/blocks\/switcher_embed_block\/bce4f1c0-c18c-43b0-b0b2-a1aefaa44573",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "17442089763355273418": {
-        "type": "shopify:\/\/apps\/vify-professional-gift-cards\/blocks\/gift-card-issue\/43d9e0cc-139a-4d15-b0b8-63f2863afb32",
         "disabled": false,
         "settings": {
         }
