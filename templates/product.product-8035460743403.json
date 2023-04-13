@@ -500,6 +500,7 @@
     },
     "8d2926f4-f3a7-4320-b8b5-5b9d01d28157": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-0": {
           "type": "heading",
