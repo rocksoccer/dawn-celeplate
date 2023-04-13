@@ -408,6 +408,60 @@
         "mobile_padding_left": 8,
         "mobile_padding_right": 8
       }
+    },
+    "d0b3b6d0-1377-47bc-8bf0-d290baf9c9f5": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16793277890795__d0b3b6d0-1377-47bc-8bf0-d290baf9c9f5-168138621417c38972-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spicy_stew.png",
+            "heading": "Korean Spicy Stew",
+            "heading_size": "h1",
+            "subheading": "Budae Jjigae 부대찌개 or Korean Spicy Stew, is a trendy dish in South Korea.",
+            "button_label": "Check It Out",
+            "link": "shopify:\/\/products\/budae-jjigae-korean-spicy-stew",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16793277890795__d0b3b6d0-1377-47bc-8bf0-d290baf9c9f5-168138621417c38972-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bbq.png",
+            "heading": "Signiture Prime Galbi",
+            "heading_size": "h1",
+            "subheading": "Our best seller, with marbling, firm, nutty flavor.",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/products\/prime-galbi",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16793277890795__d0b3b6d0-1377-47bc-8bf0-d290baf9c9f5-168138621417c38972-0",
+        "template--16793277890795__d0b3b6d0-1377-47bc-8bf0-d290baf9c9f5-168138621417c38972-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -423,6 +477,7 @@
     "b1ee5682-5a3c-4ebf-8e83-b4f817208fa4",
     "2fdca9a9-26cd-4dd0-ae2f-749c44790485",
     "9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6",
-    "903de041-2233-45d3-99eb-5cf7f2b50f36"
+    "903de041-2233-45d3-99eb-5cf7f2b50f36",
+    "d0b3b6d0-1377-47bc-8bf0-d290baf9c9f5"
   ]
 }
