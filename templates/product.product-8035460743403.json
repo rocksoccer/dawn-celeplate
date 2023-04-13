@@ -630,24 +630,24 @@
         "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "New-in: Premium Wagyu",
             "heading_size": "h1"
           }
         },
         "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Rich Marbling, Tender, Buttery Flavour",
             "text_style": "body"
           }
         },
         "template--16797576233195__8d2926f4-f3a7-4320-b8b5-5b9d01d28157-16813907445f219c2a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Try It Now",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
