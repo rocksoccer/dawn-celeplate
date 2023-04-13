@@ -303,9 +303,9 @@
     "e41781f6-5ff2-4adb-966b-f0277879df0c": {
       "type": "featured-collection",
       "settings": {
-        "title": "Add your favourite meat",
-        "heading_size": "h2",
-        "description": "",
+        "title": "Premium thinly sliced meat selection",
+        "heading_size": "h1",
+        "description": "<p>Meet all your expectations of high-quality meat.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "korean-table-bbq-meat",
@@ -335,9 +335,9 @@
     "ab221f3f-48e5-4551-b9b3-760a9b793461": {
       "type": "featured-collection",
       "settings": {
-        "title": "Add your favourite sauces",
-        "heading_size": "h2",
-        "description": "",
+        "title": "Expertly prepared Korean Sauces and Dips",
+        "heading_size": "h1",
+        "description": "<p>Please choose our carefully prepared Korean sauce to add more flavor to your BBQ.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "korean-table-bbq-sauce",
@@ -367,9 +367,9 @@
     "ddb425f5-fa72-47ea-8555-805c71ebe8dd": {
       "type": "featured-collection",
       "settings": {
-        "title": "Add more to your own box",
-        "heading_size": "h2",
-        "description": "",
+        "title": "More to your Korean Table BBQ",
+        "heading_size": "h1",
+        "description": "<p>In addition to meat and sauce, you can also choose more Korean-style appetizers and vegetables.<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "korean-table-bbq-others",
