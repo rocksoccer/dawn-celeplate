@@ -312,7 +312,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 52,
-        "padding_bottom": 52
+        "padding_bottom": 28
       }
     },
     "58348668-c715-4a4e-93a3-ce77c32a0d01": {
@@ -344,7 +344,39 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 52,
-        "padding_bottom": 52
+        "padding_bottom": 28
+      }
+    },
+    "3297c254-cb46-48ec-8a63-8ae7a2dca891": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "More to your Korean Table BBQ",
+        "heading_size": "h2",
+        "description": "<p>In addition to meat and sauce, you can also choose more Korean-style appetizers and vegetables.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-others",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 52,
+        "padding_bottom": 28
       }
     },
     "903de041-2233-45d3-99eb-5cf7f2b50f36": {
@@ -487,6 +519,7 @@
     "9d91d2e7-6bda-4e6c-a034-5a63cf2ff4a6",
     "2cf80746-a607-481b-a906-65e7d33511a4",
     "58348668-c715-4a4e-93a3-ce77c32a0d01",
+    "3297c254-cb46-48ec-8a63-8ae7a2dca891",
     "903de041-2233-45d3-99eb-5cf7f2b50f36",
     "b1ee5682-5a3c-4ebf-8e83-b4f817208fa4",
     "2fdca9a9-26cd-4dd0-ae2f-749c44790485"
