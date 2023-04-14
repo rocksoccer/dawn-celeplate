@@ -254,7 +254,10 @@
     {% render 'fast_bundle_service' %}
 {% endif %}
 
-</head>
+
+                      {% include 'bss-product-labels-configs' %}
+                        </head>
+                 
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -312,5 +315,5 @@
     {%- endif -%}
   {% render 'spurit_dmr_theme_snippet' %}
 {% render 'recurpay' %}
-</body>
+{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}</body>
 </html>
