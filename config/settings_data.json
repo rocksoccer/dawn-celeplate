@@ -172,6 +172,9 @@
           "footer-1",
           "4c60230b-4a8f-4e7c-b169-156e12758e56"
         ],
+        "custom_css": [
+
+        ],
         "settings": {
           "color_scheme": "inverse",
           "newsletter_enable": false,

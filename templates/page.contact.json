@@ -16,10 +16,33 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "b68b1251-f8ad-436e-bd3c-30e796707f57": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16718749958379__b68b1251-f8ad-436e-bd3c-30e796707f57-16816717049f101f18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Celebration Meal LTD trading as Celeplate. <\/p><p>Address: Unit 610-611. 26 Chase Road. London. NW10 6BB <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718749958379__b68b1251-f8ad-436e-bd3c-30e796707f57-16816717049f101f18-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "b68b1251-f8ad-436e-bd3c-30e796707f57"
   ]
 }
