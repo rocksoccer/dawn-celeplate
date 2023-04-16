@@ -744,7 +744,7 @@
           </div>
         {%- endif -%}
       </a> 
-      <div style="margin-right: -12px; max-height: 4.4rem;">
+      <div style="max-height: 4.4rem;">
         {%- if section.settings.enable_language_selector and localization.available_languages.size > 1 -%}
           <noscript>
             {%- form 'localization', id: 'FooterLanguageFormNoScript', class: 'localization-form' -%}
@@ -1151,7 +1151,7 @@
     {
       "type": "checkbox",
       "id": "enable_language_selector",
-      "default": true,
+      "default": false,
       "label": "t:sections.footer.settings.enable_language_selector.label"
     }
   ]
