@@ -726,7 +726,7 @@
         readonly>
       <div id="cart-notification-form__error" class="header-cart-delivery-datepicker cart-notification-form__error cart-notification-form__error-hidden">Required</div>
 
-      <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble">
+      <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart link focus-inset" id="cart-icon-bubble" style="margin-right: 0;">
         {%- liquid
           if cart == empty
             render 'icon-cart-empty'
