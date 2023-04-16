@@ -744,7 +744,7 @@
           </div>
         {%- endif -%}
       </a> 
-      <div style="margin-left: 12px; margin-right: -12px;">
+      <div style="margin-right: -12px; max-height: 4.4rem;">
         {%- if section.settings.enable_language_selector and localization.available_languages.size > 1 -%}
           <noscript>
             {%- form 'localization', id: 'FooterLanguageFormNoScript', class: 'localization-form' -%}
@@ -767,7 +767,7 @@
             {%- form 'localization', id: 'FooterLanguageForm', class: 'localization-form', style: 'padding: 0;' -%}
               <div class="no-js-hidden">
                 {% comment %} <h2 class="caption-large text-body" id="FooterLanguageLabel">{{ 'localization.language_label' | t }}</h2> {% endcomment %}
-                <div class="disclosure">
+                <div class="disclosure" style="margin-left: 12px;">
                   <button type="button" class="disclosure__button localization-form__select localization-selector link link--text caption-large" aria-expanded="false" aria-controls="FooterLanguageList" aria-describedby="FooterLanguageLabel">
                     <img src="https://cdn-icons-png.flaticon.com/512/2793/2793765.png" style="width: 2rem; height: 2rem;filter: invert(1);">
                     {% comment %} {{ localization.language.endonym_name | capitalize }} {% endcomment %}
