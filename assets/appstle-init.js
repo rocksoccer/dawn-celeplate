@@ -37,7 +37,7 @@
         },
         "enableCartWidgetFeature": "false",
         "useUrlWithCustomerId": "true",
-        "atcButtonSelector": "",
+        "atcButtonSelector": "dummy-selectorabcde",
         "moneyFormat": "{% raw %}\u00A3{{amount}}{% endraw %}",
         "oneTimePurchaseText": "One Time Purchase",
         "shop": "celeplate-prod.myshopify.com",
