@@ -134,16 +134,6 @@
     },
     "1658491360911f410d": {
       "type": "apps",
-      "blocks": {
-        "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "63f8dbf6-d12f-47a5-b01d-cea8a8b84770"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -283,6 +273,81 @@
         "padding_bottom": 28
       }
     },
+    "3cd28c8f-8953-47e3-8f92-dbd202f6c63d": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-5": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "f6980af6-ffd0-45fa-87e5-af9c8abdcc8a": {
+          "type": "text",
+          "settings": {
+            "text": "Check out this fully customized Korean table bbq box building experience for an expert like you!",
+            "text_style": "body"
+          }
+        },
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-0",
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-1",
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-2",
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-3",
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-4",
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-5",
+        "f6980af6-ffd0-45fa-87e5-af9c8abdcc8a",
+        "template--16718749597931__3cd28c8f-8953-47e3-8f92-dbd202f6c63d-168233311004bd8bc5-6"
+      ],
+      "settings": {
+        "product": "design-your-korean-table-bbq",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16582608756ffd25d6": {
       "type": "featured-collection",
       "settings": {
@@ -323,6 +388,7 @@
     "1658221557854215e8",
     "1658260513b99c1963",
     "product-recommendations",
+    "3cd28c8f-8953-47e3-8f92-dbd202f6c63d",
     "16582608756ffd25d6"
   ]
 }
