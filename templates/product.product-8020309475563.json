@@ -447,17 +447,17 @@
             "show_dynamic_checkout": true
           }
         },
-        "template--16783799484651__8a85178f-c8a4-4bdc-8142-a9fe7172274d-168233311004bd8bc5-6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "add3fa7f-ecde-4132-8410-04591456c43f": {
           "type": "text",
           "settings": {
             "text": "Check out this fully customized Korean table bbq box building experience for an expert like you!",
             "text_style": "body"
+          }
+        },
+        "template--16783799484651__8a85178f-c8a4-4bdc-8142-a9fe7172274d-168233311004bd8bc5-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
@@ -468,8 +468,8 @@
         "template--16783799484651__8a85178f-c8a4-4bdc-8142-a9fe7172274d-168233311004bd8bc5-3",
         "template--16783799484651__8a85178f-c8a4-4bdc-8142-a9fe7172274d-168233311004bd8bc5-4",
         "template--16783799484651__8a85178f-c8a4-4bdc-8142-a9fe7172274d-168233311004bd8bc5-5",
-        "template--16783799484651__8a85178f-c8a4-4bdc-8142-a9fe7172274d-168233311004bd8bc5-6",
-        "add3fa7f-ecde-4132-8410-04591456c43f"
+        "add3fa7f-ecde-4132-8410-04591456c43f",
+        "template--16783799484651__8a85178f-c8a4-4bdc-8142-a9fe7172274d-168233311004bd8bc5-6"
       ],
       "settings": {
         "product": "design-your-korean-table-bbq",
