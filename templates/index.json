@@ -49,88 +49,6 @@
         "mobile_min_height_offset": 16
       }
     },
-    "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cele_1.png",
-            "title": "1",
-            "text": "<h5>You pick your favourites for your Celebration.<\/h5>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cele_2.png",
-            "title": "2",
-            "text": "<h5>Schedule the delivery date at check out.<\/h5>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cele_3.png",
-            "title": "3",
-            "text": "<h5>We delivery the box on the day you have selected.<\/h5>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "0a8ae6ab-d225-4ccd-b5a8-1486a6b31c3a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cele4.png",
-            "title": "4",
-            "text": "<h5>Simple steps for amazing presentation and taste!<\/h5>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-0",
-        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-1",
-        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-2",
-        "0a8ae6ab-d225-4ccd-b5a8-1486a6b31c3a"
-      ],
-      "settings": {
-        "title": "HOW IT WORKS",
-        "center_title": true,
-        "desktop_width_percentage": 60,
-        "mobile_width_percentage": 100,
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "circle",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 8,
-        "override_background_color": false,
-        "background_color": "transparent",
-        "override_card_background_color": false,
-        "card_background_color": "transparent"
-      }
-    },
     "4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2": {
       "type": "image-with-text-enhanced",
       "disabled": true,
@@ -281,6 +199,88 @@
         "swipe_on_mobile": false,
         "padding_top": 4,
         "padding_bottom": 36
+      }
+    },
+    "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cele_1.png",
+            "title": "1",
+            "text": "<h5>You pick your favourites for your Celebration.<\/h5>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cele_2.png",
+            "title": "2",
+            "text": "<h5>Schedule the delivery date at check out.<\/h5>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cele_3.png",
+            "title": "3",
+            "text": "<h5>We delivery the box on the day you have selected.<\/h5>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "0a8ae6ab-d225-4ccd-b5a8-1486a6b31c3a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cele4.png",
+            "title": "4",
+            "text": "<h5>Simple steps for amazing presentation and taste!<\/h5>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-0",
+        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-1",
+        "template--16718750679275__d1ff9c98-ff03-4179-8b7e-e7696afbf9d2-168233436122d72d84-2",
+        "0a8ae6ab-d225-4ccd-b5a8-1486a6b31c3a"
+      ],
+      "settings": {
+        "title": "HOW IT WORKS",
+        "center_title": true,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 8,
+        "override_background_color": false,
+        "background_color": "rgba(0,0,0,0)",
+        "override_card_background_color": false,
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "1d0fe31d-70f2-4e40-b695-c0f29b87ddb1": {
@@ -957,11 +957,11 @@
   },
   "order": [
     "9fb05fcf-7937-46d1-9400-1dbe9d387d99",
-    "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2",
     "4dc7e7d7-e1ae-4ac9-b91f-5f365acbd9c2",
     "7783c591-b06b-4010-b884-3f069fae8409",
     "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
+    "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2",
     "1d0fe31d-70f2-4e40-b695-c0f29b87ddb1",
     "715ad7e1-8208-4291-85ff-0e736873d055",
     "76c78c63-3203-465c-889e-bd9082fb9224",
