@@ -101,7 +101,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_delivery_date_picker_disabled_week_days": "1,6,7",
-    "cart_delivery_date_picker_disabled_dates": "2023-04-07,2023-04-11",
+    "cart_delivery_date_picker_disabled_dates": "2023-05-02,2023-05-9",
     "checkout_accent_color": "#6792ad",
     "checkout_button_color": "#6792ad",
     "sections": {
