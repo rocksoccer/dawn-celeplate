@@ -357,8 +357,8 @@
             "button_label_1": "Pre-paid plans",
             "button_link_1": "",
             "button_label_2": "Pay as you go plans",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_link_2": "shopify:\/\/pages\/butcher-shop",
+            "button_style_secondary_2": true
           }
         }
       },
