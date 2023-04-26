@@ -16,7 +16,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/darker.png",
             "image_mobile": "shopify:\/\/shop_images\/butcher_block.png",
-            "heading": "Butcher's Block",
+            "heading": "Celeplate Butcher's Block",
             "heading_size": "h1",
             "subheading": "Where every cut is a work of art. For meat that's more than just a meal, visit our butcher shop, where we craft every cut into a masterpiece.",
             "button_label": "",
@@ -101,7 +101,7 @@
         "dot_color": "#000000",
         "dot_color_active": "#000000",
         "dot_show_slider_buttons": true,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our butcher's block",
