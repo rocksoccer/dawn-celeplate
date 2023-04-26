@@ -14,10 +14,30 @@
         "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/meat_bg.png",
+            "image": "shopify:\/\/shop_images\/darker.png",
+            "image_mobile": "shopify:\/\/shop_images\/butcher_block.png",
             "heading": "Butcher's Block",
             "heading_size": "h1",
             "subheading": "Where every cut is a work of art.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "9dae8781-084a-4acc-b618-18e38fce7f2e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/meat_bg.png",
+            "image_mobile": "shopify:\/\/shop_images\/deisgn.png",
+            "heading": "Subscribe and Save",
+            "heading_size": "h1",
+            "subheading": "Check out our monthly subscription plans! You can get up to 30% off your orders with the convenience of having delicious meals delivered to you on a regular basis!",
             "button_label": "",
             "link": "",
             "button_style_secondary": false,
@@ -25,23 +45,6 @@
             "show_text_box": false,
             "text_alignment": "right",
             "image_overlay_opacity": 10,
-            "color_scheme": "background-2",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -66,7 +69,7 @@
       },
       "block_order": [
         "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-0",
-        "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-1",
+        "9dae8781-084a-4acc-b618-18e38fce7f2e",
         "e5d78f71-dd4b-401b-9c57-cc933caf24d4"
       ],
       "settings": {
