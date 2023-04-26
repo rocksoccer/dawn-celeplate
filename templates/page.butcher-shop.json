@@ -263,7 +263,7 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
+        "padding_top": 52,
         "padding_bottom": 0,
         "mobile_padding_left": 0,
         "mobile_padding_right": 0
@@ -325,7 +325,62 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 20
+        "padding_bottom": 52
+      }
+    },
+    "618c299d-f98a-4cbf-aea8-770f693a749c": {
+      "type": "image-banner-enhanced",
+      "blocks": {
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-0": {
+          "type": "heading_image",
+          "settings": {
+            "max_width": 10
+          }
+        },
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe and save",
+            "heading_size": "h1"
+          }
+        },
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-2": {
+          "type": "text",
+          "settings": {
+            "text": "With our pay-as-you-go plans, you can cancel or reschedule for your own celebration date at any time. With our pre-paid plans, you can save up to 30% on your regular deliveries with easy rescheduling options as well.",
+            "text_style": "body"
+          }
+        },
+        "ecd4eeb4-7c13-43b2-8e44-fed3fdcec273": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Pre-paid subscription plans",
+            "button_link_1": "",
+            "button_label_2": "Pay as you go subscription plans",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-0",
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-1",
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-2",
+        "ecd4eeb4-7c13-43b2-8e44-fed3fdcec273"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/8meat30.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "mobile_min_height_offset": 50
       }
     }
   },
@@ -337,6 +392,7 @@
     "895348b9-ac0b-417b-b3c4-3a557a380276",
     "a749b6b8-4ce3-4669-a504-aeb48b13feb3",
     "197b6279-ea2e-4463-8f99-89c2782d8be1",
-    "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a"
+    "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a",
+    "618c299d-f98a-4cbf-aea8-770f693a749c"
   ]
 }
