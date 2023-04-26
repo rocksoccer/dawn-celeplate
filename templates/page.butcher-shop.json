@@ -222,6 +222,111 @@
         "padding_top": 0,
         "padding_bottom": 20
       }
+    },
+    "a749b6b8-4ce3-4669-a504-aeb48b13feb3": {
+      "type": "image-with-text",
+      "blocks": {
+        "a2f33181-f33e-4750-9ee4-c71ea4862c06": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop with meat's type",
+            "heading_size": "h2"
+          }
+        },
+        "db650577-c8f9-45e2-a500-8f9e72dd0479": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking for the best quality meat to elevate your dining experience? <\/p><p>Look no further than our selection of premium cuts, including UK grass-fed beef, Iberian pork, and more. We take pride in offering only the highest quality meats that are sure to impress your taste buds. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "9bb84a95-fd4c-478c-b7fa-0cdbd713018c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a2f33181-f33e-4750-9ee4-c71ea4862c06",
+        "db650577-c8f9-45e2-a500-8f9e72dd0479",
+        "9bb84a95-fd4c-478c-b7fa-0cdbd713018c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/meat_selection.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "197b6279-ea2e-4463-8f99-89c2782d8be1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shop-with-meats-type",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a": {
+      "type": "rich-text",
+      "blocks": {
+        "151d0e53-f2b6-4fea-a43f-a3876ce453a8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "151d0e53-f2b6-4fea-a43f-a3876ce453a8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
     }
   },
   "order": [
@@ -229,6 +334,9 @@
     "5961bf31-ff49-4538-8ebc-90ba8be490da",
     "8da25f4d-78a0-4033-9b89-a0ef73195030",
     "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2",
-    "895348b9-ac0b-417b-b3c4-3a557a380276"
+    "895348b9-ac0b-417b-b3c4-3a557a380276",
+    "a749b6b8-4ce3-4669-a504-aeb48b13feb3",
+    "197b6279-ea2e-4463-8f99-89c2782d8be1",
+    "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a"
   ]
 }
