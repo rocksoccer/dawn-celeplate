@@ -125,7 +125,7 @@
           "type": "heading",
           "settings": {
             "heading": "Shop with meal's type",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-1": {
@@ -193,7 +193,7 @@
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     }
