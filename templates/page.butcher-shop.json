@@ -151,7 +151,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/square_bbq.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
