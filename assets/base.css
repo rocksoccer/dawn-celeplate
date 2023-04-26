@@ -2963,3 +2963,11 @@ details-disclosure > details {
     outline: transparent solid 1px;
   }
 }
+
+  .card__heading a {
+
+    font-size: 16px !important;
+
+}
+
+
