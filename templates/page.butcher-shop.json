@@ -354,9 +354,9 @@
         "ecd4eeb4-7c13-43b2-8e44-fed3fdcec273": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Pre-paid subscription plans",
+            "button_label_1": "Pre-paid plans",
             "button_link_1": "",
-            "button_label_2": "Pay as you go subscription plans",
+            "button_label_2": "Pay as you go plans",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
