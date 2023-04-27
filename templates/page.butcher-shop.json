@@ -137,6 +137,7 @@
         },
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Explore now",
             "button_link": ""
@@ -302,19 +303,19 @@
         "mobile_padding_right": 0
       }
     },
-    "197b6279-ea2e-4463-8f99-89c2782d8be1": {
+    "df1ab4f6-de25-4b77-8af9-15eba6452a03": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "UK Grass-fed Beef",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "shop-with-meats-type",
+        "collection": "beef",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -329,13 +330,78 @@
         "show_shadow": true,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2a11a22c-ec34-491b-8d15-731428362ce6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Premium Pork",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pork",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "57bae22d-6caa-4eac-b2d4-a752cdaa196c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Seafood",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "beef",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
     "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "151d0e53-f2b6-4fea-a43f-a3876ce453a8": {
           "type": "button",
@@ -425,7 +491,9 @@
     "4514b6d9-ba22-4331-af73-7be126fa61d1",
     "895348b9-ac0b-417b-b3c4-3a557a380276",
     "a749b6b8-4ce3-4669-a504-aeb48b13feb3",
-    "197b6279-ea2e-4463-8f99-89c2782d8be1",
+    "df1ab4f6-de25-4b77-8af9-15eba6452a03",
+    "2a11a22c-ec34-491b-8d15-731428362ce6",
+    "57bae22d-6caa-4eac-b2d4-a752cdaa196c",
     "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a",
     "618c299d-f98a-4cbf-aea8-770f693a749c"
   ]
