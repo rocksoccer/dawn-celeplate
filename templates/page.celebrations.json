@@ -164,6 +164,22 @@
         "padding_bottom": 36
       }
     },
+    "c7c526f7-100e-48d1-88cd-797880d6bd00": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Friends_party_02.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "370022f9-bdfd-4cae-abc0-6172f38742d7": {
       "type": "rich-text",
       "blocks": {
@@ -225,22 +241,6 @@
         "padding_top": 4,
         "padding_bottom": 36
       }
-    },
-    "c7c526f7-100e-48d1-88cd-797880d6bd00": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Friends_party_02.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
     }
   },
   "order": [
@@ -251,8 +251,8 @@
     "8b200bbd-8dd4-4c8e-a0c0-c84d53924333",
     "c4b938da-0852-4f78-a8a4-a881d82a59c3",
     "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc",
+    "c7c526f7-100e-48d1-88cd-797880d6bd00",
     "370022f9-bdfd-4cae-abc0-6172f38742d7",
-    "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b",
-    "c7c526f7-100e-48d1-88cd-797880d6bd00"
+    "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b"
   ]
 }
