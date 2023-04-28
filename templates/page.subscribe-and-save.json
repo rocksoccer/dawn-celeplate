@@ -291,7 +291,16 @@
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How do I manage my subscription?",
+            "icon": "question_mark",
+            "row_content": "<p><\/p><p>To manage your subscription, simply <strong>log in to your account<\/strong> on our website using the email address associated with your subscription order. From there, through 'manage subscription' button, you can make changes, such as updating your delivery address, changing the frequency of your deliveries, or skipping a delivery. <\/p><p>It's important to note that when you place a subscription order, an account is <strong>not<\/strong> automatically created for you. You will need to create an account using the email address associated with your subscription order to manage your subscription.<\/p><p>Please note that you can also find a \"Manage Subscription\" button in the emails we send you. This will allow you to easily access your account and make any necessary changes. <\/p><p>Additionally, for security reasons, your portal's link will be renewed every 7 days. Please pay attention to the link renewal emails we will be sending you frequently, and make sure to use the most recent link when accessing your account.<\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "e8441aa2-1f38-4d00-ac1f-aecf8b99f947": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How is payment processed for my subscription?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -302,7 +311,8 @@
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-0",
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-1",
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-2",
-        "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-3"
+        "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-3",
+        "e8441aa2-1f38-4d00-ac1f-aecf8b99f947"
       ],
       "settings": {
         "caption": "",
