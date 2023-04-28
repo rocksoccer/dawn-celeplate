@@ -282,9 +282,9 @@
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Can I skip a delivery or pause my subscription?",
+            "icon": "lock",
+            "row_content": "<p><\/p><p>Yes, you can skip a delivery or pause your subscription at any time by logging into your account and adjusting your delivery schedule. <\/p><p>You can also contact our customer service team to assist you with this. This is particularly helpful if you are going on vacation or need to adjust your delivery schedule for any reason.<\/p><p><\/p>",
             "page": ""
           }
         },
