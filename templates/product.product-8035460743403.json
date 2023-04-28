@@ -364,7 +364,7 @@
         "description": "<p>Meet all your expectations of high-quality meat.<\/p>",
         "show_description": false,
         "description_style": "body",
-        "collection": "korean-table-bbq-meat",
+        "collection": "bbq-cuts",
         "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
