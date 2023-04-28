@@ -91,7 +91,7 @@
         "color_scheme": "background-1",
         "full_width": false,
         "padding_top": 80,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "main": {
@@ -115,7 +115,7 @@
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At Celeplate, we know that life can be unpredictable, and that's why we've designed our pay as you go plan to be flexible and hassle-free. <\/p><p>With our plan, you have the freedom to swap products freely, reschedule your delivery anytime, skip a delivery when you need to, and even cancel your subscription anytime. <\/p><p>We understand that things can change, and we want to make sure that our subscription fits your needs, not the other way around.<\/p>",
+            "text": "<p>At Celeplate, we know that life can be unpredictable, and that's why we've designed our pay as you go plan to be flexible and hassle-free. <\/p><p>With our plan, you have the freedom to <strong>swap<\/strong> products freely, <strong>reschedule<\/strong> your delivery anytime, <strong>skip<\/strong> a delivery when you need to, and even cancel your subscription anytime. <\/p><p>We understand that things can change, and we want to make sure that our subscription fits your needs, not the other way around.<\/p>",
             "text_style": "body"
           }
         },
