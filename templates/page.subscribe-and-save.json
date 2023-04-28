@@ -64,15 +64,14 @@
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-1": {
           "type": "text",
           "settings": {
-            "text": "<h5>At Celeplate, we know that life can be unpredictable, and that's why we've designed our pay as you go plan to be flexible and hassle-free. With our plan, you have the freedom to swap products freely, reschedule your delivery anytime, skip a delivery when you need to, and even cancel your subscription anytime. We understand that things can change, and we want to make sure that our subscription fits your needs, not the other way around.<\/h5><h5>And when it comes to customer service, we've got you covered. Our team is here to help you with any questions or concerns you may have, and we're committed to making your experience with Celeplate as smooth as possible. Plus, with our pay as you go plan, we take the payment right before your delivery, so you don't have to worry about a thing. So why wait? Sign up today and start enjoying hassle-free, customizable meat and seafood delivery.<\/h5>",
+            "text": "<p>At Celeplate, we know that life can be unpredictable, and that's why we've designed our pay as you go plan to be flexible and hassle-free. With our plan, you have the freedom to swap products freely, reschedule your delivery anytime, skip a delivery when you need to, and even cancel your subscription anytime. We understand that things can change, and we want to make sure that our subscription fits your needs, not the other way around.<\/p>",
             "text_style": "body"
           }
         },
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Explore now",
+            "button_label": "Discover now",
             "button_link": ""
           }
         }
@@ -83,13 +82,13 @@
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/square_bbq.png",
+        "image": "shopify:\/\/shop_images\/butcher_block.png",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 0,
