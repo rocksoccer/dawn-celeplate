@@ -133,7 +133,7 @@
         "settings": {
           "color_scheme": "inverse",
           "logo": "shopify:\/\/shop_images\/Celeplate_logo_white_big.png",
-          "logo_width": 150,
+          "logo_width": 90,
           "logo_position": "top-left",
           "menu": "main-menu",
           "menu_type_desktop": "mega",
