@@ -1,121 +1,111 @@
 {
   "sections": {
+    "a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Subscribe and Save<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>We believe that high-quality meat shouldn't just be reserved for special occasions. It should be a part of your everyday meals, too. That's why we offer a hassle-free subscription service that delivers premium quality meat to your doorstep on a regular basis.<\/h5><h5> Each box is thoughtfully curated by our expert butchers and inspired by the changing seasons, so you can experience a variety of flavors and textures throughout the year.<\/h5><h5>We've got a subscription plan to suit every taste and budget.<\/h5>"
+          }
+        },
+        "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-0",
+        "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-1",
+        "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 80,
+        "padding_bottom": 52
+      }
+    },
+    "995edc79-04b5-4864-ac4f-cf115692014b": {
+      "type": "image-banner-enhanced",
+      "disabled": true,
+      "blocks": {
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-0": {
+          "type": "heading_image",
+          "settings": {
+            "max_width": 10
+          }
+        },
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subcribe and Save",
+            "heading_size": "h1"
+          }
+        },
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-2": {
+          "type": "text",
+          "settings": {
+            "text": "Up to 30% off!",
+            "text_style": "body"
+          }
+        },
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-3": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-0",
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-1",
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-2",
+        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/deisgn.png",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "mobile_min_height_offset": 10
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
-      }
-    },
-    "5961bf31-ff49-4538-8ebc-90ba8be490da": {
-      "type": "slideshow-enhanced",
-      "blocks": {
-        "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/darker.png",
-            "image_mobile": "shopify:\/\/shop_images\/butcher_block.png",
-            "heading": "Celeplate Butcher's Block",
-            "heading_size": "h1",
-            "subheading": "Where every cut is a work of art. For meat that's more than just a meal, visit our butcher shop, where we craft every cut into a masterpiece.",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 20,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "9dae8781-084a-4acc-b618-18e38fce7f2e": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/30_off.png",
-            "image_mobile": "shopify:\/\/shop_images\/8meat30.png",
-            "heading": "Subscribe and Save",
-            "heading_size": "h1",
-            "subheading": "Check out our monthly subscription plans! You can get up to 30% off your orders with the convenience of having delicious meals delivered to you on a regular basis!",
-            "button_label": "Discover more",
-            "link": "https:\/\/celeplate.co.uk\/",
-            "button_style_secondary": false,
-            "box_align": "middle-right",
-            "show_text_box": false,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "4127bdca-8247-4344-8baa-6f4b7af13953": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WAGYU.png",
-            "image_mobile": "shopify:\/\/shop_images\/wg_mobile.png",
-            "heading": "Wagyu Beef Chuck",
-            "heading_size": "h1",
-            "subheading": "Raised and slaughtered in the UK, is thinly sliced and expertly prepared. The beef's marbling, even distribution of fat, and high muscle content.",
-            "button_label": "Discover more",
-            "link": "shopify:\/\/products\/wagyu-beef-chuck-100g",
-            "button_style_secondary": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 10,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "276db588-7c80-48dc-8534-9ab781c23a10": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/fi.png",
-            "image_mobile": "shopify:\/\/shop_images\/flat_iron_mobile.png",
-            "heading": "Premium Flat Iron",
-            "heading_size": "h1",
-            "subheading": "Relatively low in fat content but rich in high-quality protein.",
-            "button_label": "Discover more",
-            "link": "shopify:\/\/products\/flat-iron",
-            "button_style_secondary": true,
-            "box_align": "middle-right",
-            "show_text_box": false,
-            "text_alignment": "right",
-            "image_overlay_opacity": 20,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-0",
-        "9dae8781-084a-4acc-b618-18e38fce7f2e",
-        "4127bdca-8247-4344-8baa-6f4b7af13953",
-        "276db588-7c80-48dc-8534-9ab781c23a10"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "dots",
-        "dot_color": "#000000",
-        "dot_color_active": "#000000",
-        "dot_show_slider_buttons": true,
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our butcher's block",
-        "common_text": "",
-        "common_button": "",
-        "common_button_href": "",
-        "common_button_background_color": "#000000",
-        "slideshow_padding_top": 0,
-        "common_text_and_button_padding_top": 0,
-        "common_text_and_button_padding_bottom": 0,
-        "common_text_and_button_padding_left": 0,
-        "common_text_and_button_padding_right": 0,
-        "section_background": "transparent",
-        "background": "transparent"
       }
     },
     "8da25f4d-78a0-4033-9b89-a0ef73195030": {
@@ -227,34 +217,6 @@
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 36
-      }
-    },
-    "895348b9-ac0b-417b-b3c4-3a557a380276": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--16804654383339__895348b9-ac0b-417b-b3c4-3a557a380276-1682520973997ead7c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Explore now",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16804654383339__895348b9-ac0b-417b-b3c4-3a557a380276-1682520973997ead7c-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 20
       }
     },
     "a749b6b8-4ce3-4669-a504-aeb48b13feb3": {
@@ -484,12 +446,12 @@
     }
   },
   "order": [
+    "a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b",
+    "995edc79-04b5-4864-ac4f-cf115692014b",
     "main",
-    "5961bf31-ff49-4538-8ebc-90ba8be490da",
     "8da25f4d-78a0-4033-9b89-a0ef73195030",
     "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2",
     "4514b6d9-ba22-4331-af73-7be126fa61d1",
-    "895348b9-ac0b-417b-b3c4-3a557a380276",
     "a749b6b8-4ce3-4669-a504-aeb48b13feb3",
     "df1ab4f6-de25-4b77-8af9-15eba6452a03",
     "2a11a22c-ec34-491b-8d15-731428362ce6",
