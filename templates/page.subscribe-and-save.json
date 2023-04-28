@@ -311,7 +311,7 @@
           "settings": {
             "heading": "What would happen if I cancelled a Pre-paid subscription?",
             "icon": "chat_bubble",
-            "row_content": "<p><\/p><p>If you cancel a Pre-paid subscription, you will not be billed for any future deliveries. <\/p><p>However, please note that if you have unused credits in your account, you can request a partial refund through your initial order or contact us at <a href=\"mailto:hello@celeplate.co.uk\">hello@celeplate.co.uk<\/a>. We will process your request as soon as possible.<\/p><p><\/p>",
+            "row_content": "<p><\/p><p>If you cancel a Pre-paid subscription, you will not be billed for any future deliveries. <\/p><p>However, please note that if you have unused credits in your account, you can request a partial refund through your initial order or <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">contact us<\/a>. We will process your request as soon as possible.<\/p><p><\/p>",
             "page": ""
           }
         }
