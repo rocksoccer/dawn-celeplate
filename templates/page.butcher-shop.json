@@ -185,7 +185,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "korean-table-bbq-meat",
-        "products_to_show": 4,
+        "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
@@ -210,6 +210,7 @@
     },
     "4514b6d9-ba22-4331-af73-7be126fa61d1": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "For Hotpots",
         "heading_size": "h2",
