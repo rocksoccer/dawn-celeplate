@@ -273,9 +273,9 @@
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How often will I receive deliveries?",
+            "icon": "box",
+            "row_content": "<p><\/p><p>For our Pay As You Go plan, you can choose however often you want to receive deliveries, whether that be weekly, bi-weekly or monthly. <\/p><p>For our Pre-paid plan, you can choose the frequency of your deliveries based on the plan you choose. You can even adjust the frequency of your deliveries at any time through your customer portal. <\/p><p>By subscribing, you will also be able to take advantage of our discounted prices, as well as our hassle-free rescheduling, skipping, and cancellation options.<\/p><p><\/p>",
             "page": ""
           }
         },
