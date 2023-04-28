@@ -214,55 +214,50 @@
         "padding_bottom": 36
       }
     },
-    "6b66bf53-8ff9-408b-b20b-d92601c4558f": {
-      "type": "image-with-text-enhanced",
+    "135128ec-0ba1-496c-8efb-f0ba48ef5839": {
+      "type": "image-with-text",
       "blocks": {
-        "e282ae7d-7319-4894-9959-4b0f42c562a4": {
+        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-0": {
           "type": "heading",
           "settings": {
             "heading": "SUBSCRIPTION",
             "heading_size": "h1"
           }
         },
-        "72e649c8-de5e-41af-8017-f8e2c95dca00": {
+        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-1": {
           "type": "text",
           "settings": {
             "text": "<p>We believe that high-quality meat shouldn't just be reserved for special occasions. It should be a part of your everyday meals, too. That's why we offer a hassle-free subscription service that delivers premium quality meat to your doorstep on a regular basis.<\/p><p>Each box is thoughtfully curated by our expert butchers and inspired by the changing seasons, so you can experience a variety of flavors and textures throughout the year.<\/p><p>We've got a subscription plan to suit every taste and budget.<\/p>",
             "text_style": "body"
           }
         },
-        "858c5fd5-8853-408c-bf32-8f3bcfde8e87": {
+        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-2": {
           "type": "button",
           "settings": {
-            "button_label": "Discover options",
+            "button_label": "Discover more",
             "button_link": "shopify:\/\/pages\/subscribe-and-save"
           }
         }
       },
       "block_order": [
-        "e282ae7d-7319-4894-9959-4b0f42c562a4",
-        "72e649c8-de5e-41af-8017-f8e2c95dca00",
-        "858c5fd5-8853-408c-bf32-8f3bcfde8e87"
+        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-0",
+        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-1",
+        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/8_meat_square.png",
+        "image": "shopify:\/\/shop_images\/8meat30.png",
         "height": "small",
-        "desktop_image_width": "medium",
-        "image_grid_item_width_offset": "-8.3335",
-        "layout": "image_first",
+        "desktop_image_width": "small",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 4,
+        "padding_top": 36,
+        "padding_bottom": 36,
         "mobile_padding_left": 0,
-        "mobile_padding_right": 0,
-        "mobile_text_section_padding_left": 1.5,
-        "mobile_text_section_padding_bottom": 1.5,
-        "section_background_color": "rgba(0,0,0,0)",
-        "text_area_background_color": "#ffffff"
+        "mobile_padding_right": 0
       }
     },
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54": {
@@ -554,7 +549,7 @@
     "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2",
     "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
-    "6b66bf53-8ff9-408b-b20b-d92601c4558f",
+    "135128ec-0ba1-496c-8efb-f0ba48ef5839",
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54",
     "b66eb8dd-a4af-49e0-a061-1611982ea4a0",
     "c3b72c80-f28c-4d73-8a9b-dc2efaf0cbf1",
