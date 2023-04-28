@@ -43,63 +43,6 @@
         "padding_bottom": 52
       }
     },
-    "995edc79-04b5-4864-ac4f-cf115692014b": {
-      "type": "image-banner-enhanced",
-      "disabled": true,
-      "blocks": {
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-0": {
-          "type": "heading_image",
-          "settings": {
-            "max_width": 10
-          }
-        },
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subcribe and Save",
-            "heading_size": "h1"
-          }
-        },
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-2": {
-          "type": "text",
-          "settings": {
-            "text": "Up to 30% off!",
-            "text_style": "body"
-          }
-        },
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-3": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-0",
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-1",
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-2",
-        "template--16806112133355__995edc79-04b5-4864-ac4f-cf115692014b-16826846879f7680fd-3"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/deisgn.png",
-        "image_overlay_opacity": 30,
-        "image_height": "large",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false,
-        "mobile_min_height_offset": 10
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -114,14 +57,14 @@
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-0": {
           "type": "heading",
           "settings": {
-            "heading": "Discover Meal Options",
+            "heading": "Pay as you go subscription",
             "heading_size": "h2"
           }
         },
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to our meat selection! <\/p><p>We offer a variety of cuts, each one a work of art, perfect for Korean table BBQ or any other type of BBQ you prefer. <\/p><p>We also have an array of hotpots to choose from, so you can enjoy a warm and comforting meal during the colder months. <\/p>",
+            "text": "<h5>At Celeplate, we know that life can be unpredictable, and that's why we've designed our pay as you go plan to be flexible and hassle-free. With our plan, you have the freedom to swap products freely, reschedule your delivery anytime, skip a delivery when you need to, and even cancel your subscription anytime. We understand that things can change, and we want to make sure that our subscription fits your needs, not the other way around.<\/h5><h5>And when it comes to customer service, we've got you covered. Our team is here to help you with any questions or concerns you may have, and we're committed to making your experience with Celeplate as smooth as possible. Plus, with our pay as you go plan, we take the payment right before your delivery, so you don't have to worry about a thing. So why wait? Sign up today and start enjoying hassle-free, customizable meat and seafood delivery.<\/h5>",
             "text_style": "body"
           }
         },
@@ -151,8 +94,8 @@
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
+        "mobile_padding_left": 20,
+        "mobile_padding_right": 20
       }
     },
     "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2": {
@@ -447,7 +390,6 @@
   },
   "order": [
     "a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b",
-    "995edc79-04b5-4864-ac4f-cf115692014b",
     "main",
     "8da25f4d-78a0-4033-9b89-a0ef73195030",
     "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2",
