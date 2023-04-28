@@ -127,19 +127,22 @@
       },
       "header": {
         "type": "header",
+        "custom_css": [
+
+        ],
         "settings": {
           "color_scheme": "inverse",
           "logo": "shopify:\/\/shop_images\/Celeplate_logo_white_big.png",
-          "logo_width": 90,
-          "logo_position": "middle-left",
+          "logo_width": 150,
+          "logo_position": "top-left",
           "menu": "main-menu",
-          "menu_type_desktop": "dropdown",
+          "menu_type_desktop": "mega",
           "show_line_separator": false,
           "enable_sticky_header": true,
           "mobile_logo_position": "center",
           "margin_bottom": 0,
           "padding_top": 20,
-          "padding_bottom": 20,
+          "padding_bottom": 8,
           "enable_language_selector": true
         }
       },
