@@ -282,9 +282,9 @@
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I skip a delivery or pause my subscription?",
+            "heading": "Can I skip\/reschedule a delivery or pause\/cancel my subscription?",
             "icon": "lock",
-            "row_content": "<p><\/p><p>Yes, you can skip a delivery or pause your subscription at any time by logging into your account and adjusting your delivery schedule. <\/p><p>You can also contact our customer service team to assist you with this. This is particularly helpful if you are going on vacation or need to adjust your delivery schedule for any reason.<\/p><p><\/p>",
+            "row_content": "<p><\/p><p>Yes, you can skip, reschedule a delivery or pause, cancel your subscription at any time by logging into your account and adjusting your delivery schedule. <\/p><p>You can also contact our customer service team to assist you with this. This is particularly helpful if you are going on vacation or need to adjust your delivery schedule for any reason.<\/p><p>At Celeplate, we work hard to fulfill your orders in a timely and efficient manner. Once an order has been fulfilled and shipped, we are unable to cancel it. However, for any scheduled orders in the future, you can easily cancel them through our customer portal or by contacting our customer service team. <\/p><p>Please note that if it's your first order and the close date hasn't passed yet, cancellation may not be possible. We apologize for any inconvenience this may cause and are committed to ensuring your satisfaction with our products and services.<\/p><p><\/p>",
             "page": ""
           }
         },
