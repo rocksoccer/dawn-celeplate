@@ -1,0 +1,500 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "5961bf31-ff49-4538-8ebc-90ba8be490da": {
+      "type": "slideshow-enhanced",
+      "blocks": {
+        "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/darker.png",
+            "image_mobile": "shopify:\/\/shop_images\/butcher_block.png",
+            "heading": "Celeplate Butcher's Block",
+            "heading_size": "h1",
+            "subheading": "Where every cut is a work of art. For meat that's more than just a meal, visit our butcher shop, where we craft every cut into a masterpiece.",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "9dae8781-084a-4acc-b618-18e38fce7f2e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/30_off.png",
+            "image_mobile": "shopify:\/\/shop_images\/8meat30.png",
+            "heading": "Subscribe and Save",
+            "heading_size": "h1",
+            "subheading": "Check out our monthly subscription plans! You can get up to 30% off your orders with the convenience of having delicious meals delivered to you on a regular basis!",
+            "button_label": "Discover more",
+            "link": "https:\/\/celeplate.co.uk\/",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "4127bdca-8247-4344-8baa-6f4b7af13953": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WAGYU.png",
+            "image_mobile": "shopify:\/\/shop_images\/wg_mobile.png",
+            "heading": "Wagyu Beef Chuck",
+            "heading_size": "h1",
+            "subheading": "Raised and slaughtered in the UK, is thinly sliced and expertly prepared. The beef's marbling, even distribution of fat, and high muscle content.",
+            "button_label": "Discover more",
+            "link": "shopify:\/\/products\/wagyu-beef-chuck-100g",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "276db588-7c80-48dc-8534-9ab781c23a10": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fi.png",
+            "image_mobile": "shopify:\/\/shop_images\/flat_iron_mobile.png",
+            "heading": "Premium Flat Iron",
+            "heading_size": "h1",
+            "subheading": "Relatively low in fat content but rich in high-quality protein.",
+            "button_label": "Discover more",
+            "link": "shopify:\/\/products\/flat-iron",
+            "button_style_secondary": true,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16804654383339__5961bf31-ff49-4538-8ebc-90ba8be490da-168251514651f0ed72-0",
+        "9dae8781-084a-4acc-b618-18e38fce7f2e",
+        "4127bdca-8247-4344-8baa-6f4b7af13953",
+        "276db588-7c80-48dc-8534-9ab781c23a10"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "dot_color": "#000000",
+        "dot_color_active": "#000000",
+        "dot_show_slider_buttons": true,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our butcher's block",
+        "common_text": "",
+        "common_button": "",
+        "common_button_href": "",
+        "common_button_background_color": "#000000",
+        "slideshow_padding_top": 0,
+        "common_text_and_button_padding_top": 0,
+        "common_text_and_button_padding_bottom": 0,
+        "common_text_and_button_padding_left": 0,
+        "common_text_and_button_padding_right": 0,
+        "section_background": "transparent",
+        "background": "transparent"
+      }
+    },
+    "8da25f4d-78a0-4033-9b89-a0ef73195030": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Meal Options",
+            "heading_size": "h2"
+          }
+        },
+        "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to our meat selection! <\/p><p>We offer a variety of cuts, each one a work of art, perfect for Korean table BBQ or any other type of BBQ you prefer. <\/p><p>We also have an array of hotpots to choose from, so you can enjoy a warm and comforting meal during the colder months. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Explore now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-0",
+        "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-1",
+        "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/square_bbq.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "For BBQs",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-meat",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4514b6d9-ba22-4331-af73-7be126fa61d1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "For Hotpots",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "hotpot-meat-1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "895348b9-ac0b-417b-b3c4-3a557a380276": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16804654383339__895348b9-ac0b-417b-b3c4-3a557a380276-1682520973997ead7c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16804654383339__895348b9-ac0b-417b-b3c4-3a557a380276-1682520973997ead7c-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "a749b6b8-4ce3-4669-a504-aeb48b13feb3": {
+      "type": "image-with-text",
+      "blocks": {
+        "a2f33181-f33e-4750-9ee4-c71ea4862c06": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meat Categories",
+            "heading_size": "h2"
+          }
+        },
+        "db650577-c8f9-45e2-a500-8f9e72dd0479": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking for the best quality meat to elevate your dining experience? <\/p><p>Look no further than our selection of premium cuts, including UK grass-fed beef, Iberian pork, and more. We take pride in offering only the highest quality meats that are sure to impress your taste buds. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "9bb84a95-fd4c-478c-b7fa-0cdbd713018c": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "a2f33181-f33e-4750-9ee4-c71ea4862c06",
+        "db650577-c8f9-45e2-a500-8f9e72dd0479",
+        "9bb84a95-fd4c-478c-b7fa-0cdbd713018c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/8_meat_square.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 52,
+        "padding_bottom": 0,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "df1ab4f6-de25-4b77-8af9-15eba6452a03": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "UK Grass-fed Beef",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "beef",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2a11a22c-ec34-491b-8d15-731428362ce6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Premium Pork",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pork",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "57bae22d-6caa-4eac-b2d4-a752cdaa196c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Seafood",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "beef",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "rgba(0,0,0,0)",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "151d0e53-f2b6-4fea-a43f-a3876ce453a8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "151d0e53-f2b6-4fea-a43f-a3876ce453a8"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "618c299d-f98a-4cbf-aea8-770f693a749c": {
+      "type": "image-banner-enhanced",
+      "blocks": {
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-0": {
+          "type": "heading_image",
+          "settings": {
+            "max_width": 10
+          }
+        },
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe and save",
+            "heading_size": "h1"
+          }
+        },
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-2": {
+          "type": "text",
+          "settings": {
+            "text": "With our pay-as-you-go plans, you can cancel or reschedule for your own celebration date at any time. With our pre-paid plans, you can save up to 30% on your regular deliveries with easy rescheduling options as well.",
+            "text_style": "body"
+          }
+        },
+        "ecd4eeb4-7c13-43b2-8e44-fed3fdcec273": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Pre-paid plans",
+            "button_link_1": "",
+            "button_label_2": "Pay as you go plans",
+            "button_link_2": "shopify:\/\/pages\/butcher-shop",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-0",
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-1",
+        "template--16804654383339__618c299d-f98a-4cbf-aea8-770f693a749c-1682514292ccf696da-2",
+        "ecd4eeb4-7c13-43b2-8e44-fed3fdcec273"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/8meat30.png",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "mobile_min_height_offset": 50
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5961bf31-ff49-4538-8ebc-90ba8be490da",
+    "8da25f4d-78a0-4033-9b89-a0ef73195030",
+    "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2",
+    "4514b6d9-ba22-4331-af73-7be126fa61d1",
+    "895348b9-ac0b-417b-b3c4-3a557a380276",
+    "a749b6b8-4ce3-4669-a504-aeb48b13feb3",
+    "df1ab4f6-de25-4b77-8af9-15eba6452a03",
+    "2a11a22c-ec34-491b-8d15-731428362ce6",
+    "57bae22d-6caa-4eac-b2d4-a752cdaa196c",
+    "17ca5ff6-0e95-4c91-8c6f-f1723c7e757a",
+    "618c299d-f98a-4cbf-aea8-770f693a749c"
+  ]
+}
