@@ -164,7 +164,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_1.jpg",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "image_grid_item_width_offset": "-8.3335",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -220,14 +220,14 @@
         "e282ae7d-7319-4894-9959-4b0f42c562a4": {
           "type": "heading",
           "settings": {
-            "heading": "CELEBRATION",
+            "heading": "SUBSCRIPTION",
             "heading_size": "h1"
           }
         },
         "72e649c8-de5e-41af-8017-f8e2c95dca00": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing Celeplate's meal kits, the perfect solution for busy food lovers who want to enjoy delicious, homemade meals without the hassle. Our meal kits are carefully crafted by our expert chefs using the freshest, high-quality ingredients, making it easy for you to whip up a gourmet meal in no time.<\/p>",
+            "text": "<p>We believe that high-quality meat shouldn't just be reserved for special occasions. It should be a part of your everyday meals, too. That's why we offer a hassle-free subscription service that delivers premium quality meat to your doorstep on a regular basis.<\/p><p>Each box is thoughtfully curated by our expert butchers and inspired by the changing seasons, so you can experience a variety of flavors and textures throughout the year.<\/p><p>We've got a subscription plan to suit every taste and budget.<\/p>",
             "text_style": "body"
           }
         }
@@ -237,9 +237,9 @@
         "72e649c8-de5e-41af-8017-f8e2c95dca00"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_1.jpg",
+        "image": "shopify:\/\/shop_images\/8meat30.png",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "image_grid_item_width_offset": "-8.3335",
         "layout": "image_first",
         "desktop_content_position": "top",
