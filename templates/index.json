@@ -194,7 +194,7 @@
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -230,11 +230,19 @@
             "text": "<p>We believe that high-quality meat shouldn't just be reserved for special occasions. It should be a part of your everyday meals, too. That's why we offer a hassle-free subscription service that delivers premium quality meat to your doorstep on a regular basis.<\/p><p>Each box is thoughtfully curated by our expert butchers and inspired by the changing seasons, so you can experience a variety of flavors and textures throughout the year.<\/p><p>We've got a subscription plan to suit every taste and budget.<\/p>",
             "text_style": "body"
           }
+        },
+        "858c5fd5-8853-408c-bf32-8f3bcfde8e87": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover options",
+            "button_link": "shopify:\/\/pages\/subscribe-and-save"
+          }
         }
       },
       "block_order": [
         "e282ae7d-7319-4894-9959-4b0f42c562a4",
-        "72e649c8-de5e-41af-8017-f8e2c95dca00"
+        "72e649c8-de5e-41af-8017-f8e2c95dca00",
+        "858c5fd5-8853-408c-bf32-8f3bcfde8e87"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/8meat30.png",
@@ -255,6 +263,89 @@
         "mobile_text_section_padding_bottom": 1.5,
         "section_background_color": "rgba(0,0,0,0)",
         "text_area_background_color": "#ffffff"
+      }
+    },
+    "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "5b1128b9-f2a6-4978-b467-d635e2916bfd": {
+          "type": "heading",
+          "settings": {
+            "heading": "BBQ MEAT CUTS",
+            "heading_size": "h1"
+          }
+        },
+        "4e482bdf-680d-4f4a-9584-7ebf4fb8fcbf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking to elevate your BBQ game? Look no further than Celeplate's selection of premium meat cuts, perfect for your next grilling session. Our high-quality meats are carefully selected and cut to perfection, ensuring that every bite is packed with flavor and tenderness.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "f5a59f63-6432-433b-afc1-1926f7745761": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/bbq-cuts"
+          }
+        }
+      },
+      "block_order": [
+        "5b1128b9-f2a6-4978-b467-d635e2916bfd",
+        "4e482bdf-680d-4f4a-9584-7ebf4fb8fcbf",
+        "f5a59f63-6432-433b-afc1-1926f7745761"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EDIT_PROG_A1-337_2.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "b66eb8dd-a4af-49e0-a061-1611982ea4a0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "celebrations",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_product_serve_content": true,
+        "show_product_short_description": true,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
       }
     },
     "1662588804d21a679e": {
@@ -381,6 +472,8 @@
     "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
     "6b66bf53-8ff9-408b-b20b-d92601c4558f",
+    "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54",
+    "b66eb8dd-a4af-49e0-a061-1611982ea4a0",
     "1662588804d21a679e",
     "165843282650252f95",
     "1658433009e6ffa558"
