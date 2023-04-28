@@ -245,7 +245,7 @@
         "858c5fd5-8853-408c-bf32-8f3bcfde8e87"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/8meat30.png",
+        "image": "shopify:\/\/shop_images\/8_meat_square.png",
         "height": "small",
         "desktop_image_width": "medium",
         "image_grid_item_width_offset": "-8.3335",
@@ -336,13 +336,96 @@
         "override_section_background_color": "#f6f6f6",
         "image_ratio": "adapt",
         "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
         "show_rating": false,
         "show_shadow": true,
         "enable_quick_add": false,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "c3b72c80-f28c-4d73-8a9b-dc2efaf0cbf1": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "6aa8f105-6ef0-424e-a31a-70aaafd94d3a": {
+          "type": "heading",
+          "settings": {
+            "heading": "HOTPOT MEAT CUTS",
+            "heading_size": "h1"
+          }
+        },
+        "aa6b713b-976f-4475-9cb6-34a37855e525": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to our meat selection! We offer a variety of premium cuts perfect for Japanese, Chinese, or other hotpot dishes. Each cut is carefully selected and prepared to provide the best flavor and texture for your hotpot meals. Our selection includes premium cuts of beef, pork, chicken, and seafood that are guaranteed to satisfy your taste buds. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "7a8833ff-70cc-493f-a4d5-6620324c37b5": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/hotpot-cuts"
+          }
+        }
+      },
+      "block_order": [
+        "6aa8f105-6ef0-424e-a31a-70aaafd94d3a",
+        "aa6b713b-976f-4475-9cb6-34a37855e525",
+        "7a8833ff-70cc-493f-a4d5-6620324c37b5"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/japanese_2.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "a4afc5a1-7bf9-4f6e-a7f2-1aaf3faca8a3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "hotpot-cuts",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 4,
         "padding_bottom": 36
@@ -474,6 +557,8 @@
     "6b66bf53-8ff9-408b-b20b-d92601c4558f",
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54",
     "b66eb8dd-a4af-49e0-a061-1611982ea4a0",
+    "c3b72c80-f28c-4d73-8a9b-dc2efaf0cbf1",
+    "a4afc5a1-7bf9-4f6e-a7f2-1aaf3faca8a3",
     "1662588804d21a679e",
     "165843282650252f95",
     "1658433009e6ffa558"
