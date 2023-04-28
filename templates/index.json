@@ -21,11 +21,11 @@
         "template--16260666327275__9fb05fcf-7937-46d1-9400-1dbe9d387d99-166538948134428a49-3": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "DISCOVER MORE",
-            "button_link_1": "shopify:\/\/products\/korean-table-bbq",
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_1": "Design Summer BBQ",
+            "button_link_1": "shopify:\/\/products\/design-your-korean-table-bbq",
+            "button_label_2": "What's on for Hotpot",
+            "button_link_2": "shopify:\/\/collections\/hotpot-cuts",
+            "button_style_secondary_2": true
           }
         }
       },
