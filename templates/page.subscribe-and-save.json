@@ -305,6 +305,15 @@
             "row_content": "<p><\/p><p>For Pay As You Go subscriptions, we will process payment <strong>right before each delivery<\/strong>. This means you only pay for what you receive, and you can cancel or reschedule anytime before the payment is processed.<\/p><p>For Pre-Paid subscriptions, payment is processed upfront for the entire subscription plan. You can choose the frequency of deliveries and easily manage your subscription through our customer portal. We offer a 30% discount for Pre-Paid subscriptions, so it's a great way to save money on regular deliveries.<\/p><p><\/p>",
             "page": ""
           }
+        },
+        "c75d5f3f-b476-4281-90ed-872e6f856a9c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What would happen if I cancelled a Pre-paid subscription?",
+            "icon": "chat_bubble",
+            "row_content": "<p><\/p><p>If you cancel a Pre-paid subscription, you will not be billed for any future deliveries. <\/p><p>However, please note that if you have unused credits in your account, you can request a partial refund through your initial order or contact us at <a href=\"mailto:hello@celeplate.co.uk\">hello@celeplate.co.uk<\/a>. We will process your request as soon as possible.<\/p><p><\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -312,7 +321,8 @@
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-1",
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-2",
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-3",
-        "e8441aa2-1f38-4d00-ac1f-aecf8b99f947"
+        "e8441aa2-1f38-4d00-ac1f-aecf8b99f947",
+        "c75d5f3f-b476-4281-90ed-872e6f856a9c"
       ],
       "settings": {
         "caption": "",
