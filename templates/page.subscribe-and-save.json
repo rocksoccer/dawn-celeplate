@@ -1,5 +1,13 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
     "c716fb44-7c08-4b93-ba4a-8afda8a7b2fb": {
       "type": "image-banner",
       "blocks": {
@@ -94,12 +102,70 @@
         "padding_bottom": 36
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
+    "eab469a1-12f9-4cb7-9e62-1826ee05a123": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0": {
+          "type": "column",
+          "settings": {
+            "title": "Pre-paid 3 months",
+            "text": "<ul><li><strong>20% OFF<\/strong><\/li><li>Shipping included<\/li><li>All 3 sizes of boxes<\/li><\/ul><p><\/p>",
+            "html_text": "",
+            "link_label": "Build box now",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "20ec2b9c-bfe2-4364-93e6-3224286cc7c8": {
+          "type": "column",
+          "settings": {
+            "title": "Pre-paid 6 months",
+            "text": "<ul><li><strong>30% OFF<\/strong><\/li><li>Shipping included<\/li><li>All 3 sizes of boxes<\/li><\/ul><p><\/p>",
+            "html_text": "",
+            "link_label": "Build box now",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "fce56122-339b-40e0-a312-839694676f41": {
+          "type": "column",
+          "settings": {
+            "title": "Pay as you go monthly",
+            "text": "<ul><li><strong>10% OFF<\/strong><\/li><li>Shipping included<\/li><li>All 3 sizes of boxes<\/li><\/ul><p><\/p>",
+            "html_text": "",
+            "link_label": "Build box now",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0",
+        "20ec2b9c-bfe2-4364-93e6-3224286cc7c8",
+        "fce56122-339b-40e0-a312-839694676f41"
+      ],
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "title": "Choose your plan",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 75,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
       }
     },
     "8da25f4d-78a0-4033-9b89-a0ef73195030": {
@@ -341,9 +407,10 @@
     }
   },
   "order": [
+    "main",
     "c716fb44-7c08-4b93-ba4a-8afda8a7b2fb",
     "a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b",
-    "main",
+    "eab469a1-12f9-4cb7-9e62-1826ee05a123",
     "8da25f4d-78a0-4033-9b89-a0ef73195030",
     "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2",
     "0b784575-03bd-4699-b100-51c877882455",
