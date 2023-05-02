@@ -11,7 +11,7 @@
     "8b200bbd-8dd4-4c8e-a0c0-c84d53924333": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Gifting_01.png",
+        "image": "shopify:\/\/shop_images\/EDIT_PROG_A1-337_2.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
@@ -30,14 +30,14 @@
         "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>GIFTING<\/p>",
+            "heading": "<p>All Menu<\/p>",
             "heading_size": "h1"
           }
         },
         "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Put a smile on the face of your favourite foodie with Celeplate’s gift set range! With a diverse range of restaurants, we provide sets themed around different cultures and cuisines. There’s something for everyone! <\/p>"
+            "text": "<p>At Celeplate, we’re passionate about good food, and we believe everyone deserves easy access to it. That’s why we’ve created a platform where you can discover and order the highest-quality ingredients and meal kits, from the comfort of your own home.<\/p>"
           }
         }
       },
