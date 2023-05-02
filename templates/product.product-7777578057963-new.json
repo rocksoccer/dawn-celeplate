@@ -133,16 +133,6 @@
     },
     "1658491360911f410d": {
       "type": "apps",
-      "blocks": {
-        "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/easy-product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "63f8dbf6-d12f-47a5-b01d-cea8a8b84770"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -494,7 +484,7 @@
         "description": "<p>Place your order before 2 pm, and get it delivered the next day.<\/p>",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "frontpage",
+        "collection": "all",
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,
