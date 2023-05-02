@@ -108,8 +108,8 @@
         "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0": {
           "type": "column",
           "settings": {
-            "title": "Pre-paid 3 months",
-            "text": "<ul><li><strong>20% OFF<\/strong><\/li><li>Shipping included<\/li><li>All 3 sizes of boxes<\/li><\/ul><p><\/p>",
+            "title": "",
+            "text": "<h2><strong>Pre-paid 3 months<\/strong><\/h2><p><strong>20% OFF<\/strong><\/p><p>Shipping included<\/p><p>All 3 sizes of boxes<\/p><p><\/p>",
             "html_text": "",
             "link_label": "Build box now",
             "link": "",
@@ -119,8 +119,8 @@
         "20ec2b9c-bfe2-4364-93e6-3224286cc7c8": {
           "type": "column",
           "settings": {
-            "title": "Pre-paid 6 months",
-            "text": "<ul><li><strong>30% OFF<\/strong><\/li><li>Shipping included<\/li><li>All 3 sizes of boxes<\/li><\/ul><p><\/p>",
+            "title": "",
+            "text": "<h2><strong>Pre-paid 3 months<\/strong><\/h2><p><strong>30% OFF<\/strong><\/p><p>Shipping included<\/p><p>All 3 sizes of boxes<\/p><p><\/p>",
             "html_text": "",
             "link_label": "Build box now",
             "link": "",
@@ -130,8 +130,8 @@
         "fce56122-339b-40e0-a312-839694676f41": {
           "type": "column",
           "settings": {
-            "title": "Pay as you go monthly",
-            "text": "<ul><li><strong>10% OFF<\/strong><\/li><li>Shipping included<\/li><li>All 3 sizes of boxes<\/li><\/ul><p><\/p>",
+            "title": "",
+            "text": "<h2><strong>Pay as you go monthly<\/strong><\/h2><p><strong>10% OFF<\/strong><\/p><p>Shipping included<\/p><p>All 3 sizes of boxes<\/p><p><\/p>",
             "html_text": "",
             "link_label": "Build box now",
             "link": "",
@@ -146,20 +146,20 @@
       ],
       "settings": {
         "title": "Choose your plan",
-        "center_title": false,
+        "center_title": true,
         "desktop_width_percentage": 60,
         "mobile_width_percentage": 75,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36,
         "override_background_color": false,
