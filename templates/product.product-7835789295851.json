@@ -122,6 +122,7 @@
       "settings": {
         "enable_product_media": true,
         "enable_sticky_info": true,
+        "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "small",
         "mobile_thumbnails": "hide",
@@ -133,16 +134,6 @@
     },
     "1658491360911f410d": {
       "type": "apps",
-      "blocks": {
-        "63f8dbf6-d12f-47a5-b01d-cea8a8b84770": {
-          "type": "shopify:\/\/apps\/product-addons\/blocks\/spice_addons\/0099190e-a0cb-49e7-8d26-026c9d26f337",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "63f8dbf6-d12f-47a5-b01d-cea8a8b84770"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -155,7 +146,8 @@
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658221557854215e8": {
@@ -170,7 +162,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "16582215571d751c54-1": {
@@ -181,7 +174,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "16582215571d751c54-2": {
@@ -192,7 +186,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         },
         "00573e42-0023-4c41-b5fa-9515e670f15c": {
@@ -203,7 +198,8 @@
             "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
             "html_text": "",
             "link_label": "",
-            "link": ""
+            "link": "",
+            "column_link": ""
           }
         }
       },
@@ -215,6 +211,9 @@
       ],
       "settings": {
         "title": "",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -227,7 +226,11 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 12,
-        "padding_bottom": 12
+        "padding_bottom": 12,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
       }
     },
     "1658259542695d2e5e": {
@@ -238,7 +241,8 @@
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658260349a43e5800": {
@@ -278,7 +282,8 @@
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658260513b99c1963": {
@@ -312,7 +317,8 @@
         "expand_by_default": false,
         "number_of_sections": 1,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 16,
+        "collapse_top_border": false
       }
     },
     "1658260529146899e2": {
@@ -376,7 +382,7 @@
         "description": "<p>Place your order before 2 pm, and get it delivered the next day.<\/p>",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "frontpage",
+        "collection": "all",
         "products_to_show": 6,
         "columns_desktop": 3,
         "full_width": false,
@@ -384,12 +390,15 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-2",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_product_serve_content": true,
         "show_product_short_description": true,
         "show_rating": false,
+        "show_shadow": true,
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
