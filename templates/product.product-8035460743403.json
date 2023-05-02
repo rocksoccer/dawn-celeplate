@@ -650,7 +650,7 @@
         "description": "<p>Place your order before 2 pm, and get it delivered the next day.<\/p>",
         "show_description": false,
         "description_style": "subtitle",
-        "collection": "frontpage",
+        "collection": "all",
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,
