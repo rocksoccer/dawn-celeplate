@@ -338,7 +338,7 @@
           "settings": {
             "heading": "How is payment processed for my subscription?",
             "icon": "price_tag",
-            "row_content": "<p><\/p><p>For Pay As You Go subscriptions, we will process payment <strong>right before each delivery<\/strong>. This means you only pay for what you receive, and you can cancel or reschedule anytime before the payment is processed.<\/p><p>For Pre-Paid subscriptions, payment is processed upfront for the entire subscription plan. You can choose the frequency of deliveries and easily manage your subscription through our customer portal. We offer a 30% discount for Pre-Paid subscriptions, so it's a great way to save money on regular deliveries.<\/p><p><\/p>",
+            "row_content": "<p><\/p><p>Payment is processed upfront for the entire subscription plan. You can choose the frequency of deliveries and easily manage your subscription through our customer portal. We offer a 30% discount for <a href=\"https:\/\/celeplate.co.uk\/apps\/subscriptions\/bb\/A9R5kNbp\" target=\"_blank\" title=\"https:\/\/celeplate.co.uk\/apps\/subscriptions\/bb\/A9R5kNbp\">Pre-Paid 6 months subscriptions<\/a>, so it's a great way to save money on regular deliveries.<\/p><p><\/p>",
             "page": ""
           }
         },
