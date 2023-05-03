@@ -109,10 +109,10 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>Pre-paid 3 months<\/strong><\/h2><p><strong>20% OFF<\/strong><\/p><p>Shipping included<\/p><p>All 3 sizes of boxes<\/p><p><\/p>",
+            "text": "<h2><strong>Try your first box<\/strong><\/h2><p><strong>10% OFF<\/strong><\/p><p><strong>First-time buyers friendly<\/strong><\/p><p>No commitment needed<\/p><p>Same range of choices as pre-paid plans<\/p><p>Shipping included<\/p>",
             "html_text": "",
             "link_label": "Build box now",
-            "link": "",
+            "link": "https:\/\/celeplate.co.uk\/apps\/subscriptions\/bb\/873c1W1r#\/",
             "column_link": ""
           }
         },
@@ -120,10 +120,10 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>Pre-paid 3 months<\/strong><\/h2><p><strong>30% OFF<\/strong><\/p><p>Shipping included<\/p><p>All 3 sizes of boxes<\/p><p><\/p>",
+            "text": "<h2><strong>Pre-paid 3 months<\/strong><\/h2><p><strong>20% OFF<\/strong><\/p><p><strong>Most popular<\/strong><\/p><p>Customized delivery frequncy<\/p><p>3 sizes of boxes available<\/p><p>Shipping included<\/p><p><\/p>",
             "html_text": "",
             "link_label": "Build box now",
-            "link": "",
+            "link": "https:\/\/celeplate.co.uk\/apps\/subscriptions\/bb\/3x4rt98U",
             "column_link": ""
           }
         },
@@ -131,10 +131,10 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>Pay as you go monthly<\/strong><\/h2><p><strong>10% OFF<\/strong><\/p><p>Shipping included<\/p><p>All 3 sizes of boxes<\/p><p><\/p>",
+            "text": "<h2><strong>Pre-paid 6 months<\/strong><\/h2><p><strong>30% OFF<\/strong><\/p><p><strong>The greatest deal we've ever offered<\/strong><\/p><p>Customized delivery frequncy<\/p><p>3 sizes of boxes available<\/p><p>Shipping included<\/p><p><\/p>",
             "html_text": "",
             "link_label": "Build box now",
-            "link": "",
+            "link": "https:\/\/celeplate.co.uk\/apps\/subscriptions\/bb\/A9R5kNbp#\/",
             "column_link": ""
           }
         }
@@ -163,9 +163,9 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "override_background_color": false,
-        "background_color": "transparent",
+        "background_color": "rgba(0,0,0,0)",
         "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "8da25f4d-78a0-4033-9b89-a0ef73195030": {
