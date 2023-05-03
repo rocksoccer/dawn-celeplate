@@ -72,7 +72,7 @@
         "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-1": {
           "type": "text",
           "settings": {
-            "text": "<h5>Our <strong>pre-paid plans<\/strong> offer a great way to save money on our subscription boxes. With a 3-month prepaid plan, you can save 20% off your total subscription cost, and with a 6-month prepaid plan, you can save 30%. <\/h5><h5>Our <strong>small<\/strong> box contains 8 items, our <strong>medium<\/strong> box contains 10 items, and our <strong>large<\/strong> box contains 12 items. Regardless of the box size, you'll get the same range of collections carefully curated by our expert butchers to ensure that you get the best quality meat delivered to your doorstep.<\/h5>"
+            "text": "<h5>we offer hassle-free subscription plans that deliver premium quality meat to your doorstep on a regular basis. We have three different sizes of boxes to suit different needs and families, and a subscription plan to fit every taste and budget.<\/h5>"
           }
         },
         "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-2": {
@@ -108,6 +108,88 @@
         "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_18.png",
+            "title": "",
+            "text": "<h2><strong>Reliable Platform<\/strong><\/h2><p>3 or 6 boxes prepaid plans available<\/p><p>Pause, skip, reschedule, cancel anytime<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "20ec2b9c-bfe2-4364-93e6-3224286cc7c8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_19.png",
+            "title": "",
+            "text": "<h2><strong>3 Box Sizes Available<\/strong><\/h2><p>The Culinary Classics Box (8 items)<\/p><p>The Flavorful Finds Box (10 items)<\/p><p>The Chef's Choice Box (12 items)<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "88f7d966-7715-4b89-a5ee-551327153075": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_20.png",
+            "title": "",
+            "text": "<h2><strong>Complete Flexibility<\/strong><\/h2><p>Choose your box size, your box items, your delivery frequency, you delivery date freely.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "5ce53943-fcd7-4a0c-a42d-e928421d9a3e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_21.png",
+            "title": "",
+            "text": "<h2><strong>Trusted Sourcing<\/strong><\/h2><p>Prioritizing food safety & quality control<\/p><p>Reputable farms and suppliers<\/p><p>Sustainable and ethical practices<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0",
+        "20ec2b9c-bfe2-4364-93e6-3224286cc7c8",
+        "88f7d966-7715-4b89-a5ee-551327153075",
+        "5ce53943-fcd7-4a0c-a42d-e928421d9a3e"
+      ],
+      "settings": {
+        "title": "",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 75,
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "rgba(0,0,0,0)",
+        "override_card_background_color": false,
+        "card_background_color": "rgba(0,0,0,0)"
+      }
+    },
+    "677d2eb8-1547-4488-8799-110282107d5f": {
+      "type": "multicolumn",
+      "blocks": {
+        "ced55855-08bb-4e3a-915b-95efa09450fa": {
+          "type": "column",
+          "settings": {
             "title": "",
             "text": "<h2><strong>Try your first box<\/strong><\/h2><h3><strong>10% OFF<\/strong><\/h3><h3><strong>First-time buyers friendly<\/strong><\/h3><p>No commitment needed<\/p><p>3 sizes of boxes available<\/p><p>From £67.68 shipping included<\/p>",
             "html_text": "",
@@ -116,22 +198,22 @@
             "column_link": ""
           }
         },
-        "20ec2b9c-bfe2-4364-93e6-3224286cc7c8": {
+        "d594d4bc-5d63-4457-8921-d464f79fc7d4": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>Pre-paid 3 months<\/strong><\/h2><h3><strong>20% OFF<\/strong><\/h3><h3><strong>Most popular<\/strong><\/h3><p>Customized delivery frequncy<\/p><p>3 sizes of boxes available<\/p><p>From £180.48 shipping included<\/p><p><\/p>",
+            "text": "<h2><strong>Pre-paid 3 boxes<\/strong><\/h2><h3><strong>20% OFF<\/strong><\/h3><h3><strong>Most popular<\/strong><\/h3><p>Customized delivery frequncy<\/p><p>3 sizes of boxes available<\/p><p>From £180.48 shipping included<\/p><p><\/p>",
             "html_text": "",
             "link_label": "Build box now",
             "link": "https:\/\/celeplate.co.uk\/apps\/subscriptions\/bb\/3x4rt98U",
             "column_link": ""
           }
         },
-        "fce56122-339b-40e0-a312-839694676f41": {
+        "6d72e15c-a55e-466c-bdb8-1cc0eb5c9eab": {
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2><strong>Pre-paid 6 months<\/strong><\/h2><h3><strong>30% OFF<\/strong><\/h3><h3><strong>The greatest deal of all time<\/strong><\/h3><p>Customized delivery frequncy<\/p><p>3 sizes of boxes available<\/p><p>From £360.96 shipping included<\/p>",
+            "text": "<h2><strong>Pre-paid 6 boxes<\/strong><\/h2><h3><strong>30% OFF<\/strong><\/h3><h3><strong>The greatest deal of all time<\/strong><\/h3><p>Customized delivery frequncy<\/p><p>3 sizes of boxes available<\/p><p>From £360.96 shipping included<\/p>",
             "html_text": "",
             "link_label": "Build box now",
             "link": "https:\/\/celeplate.co.uk\/apps\/subscriptions\/bb\/A9R5kNbp#\/",
@@ -140,9 +222,9 @@
         }
       },
       "block_order": [
-        "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0",
-        "20ec2b9c-bfe2-4364-93e6-3224286cc7c8",
-        "fce56122-339b-40e0-a312-839694676f41"
+        "ced55855-08bb-4e3a-915b-95efa09450fa",
+        "d594d4bc-5d63-4457-8921-d464f79fc7d4",
+        "6d72e15c-a55e-466c-bdb8-1cc0eb5c9eab"
       ],
       "settings": {
         "title": "Choose your plan",
@@ -381,6 +463,7 @@
     "c716fb44-7c08-4b93-ba4a-8afda8a7b2fb",
     "a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b",
     "eab469a1-12f9-4cb7-9e62-1826ee05a123",
+    "677d2eb8-1547-4488-8799-110282107d5f",
     "8da25f4d-78a0-4033-9b89-a0ef73195030",
     "0b784575-03bd-4699-b100-51c877882455",
     "df1ab4f6-de25-4b77-8af9-15eba6452a03",
