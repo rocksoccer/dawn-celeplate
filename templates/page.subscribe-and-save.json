@@ -347,7 +347,7 @@
           "settings": {
             "heading": "What would happen if I cancelled a Pre-paid subscription?",
             "icon": "chat_bubble",
-            "row_content": "<p><\/p><p>If you cancel a Pre-paid subscription, you will not be billed for any future deliveries. <\/p><p>However, please note that if you have unused credits in your account, you can request a partial refund through your initial order or <a href=\"\/pages\/contact\" target=\"_blank\" title=\"Contact\">contact us<\/a>. We will process your request as soon as possible.<\/p><p><\/p>",
+            "row_content": "<p><\/p><p>If you cancel a pre-paid subscription, your future deliveries will be cancelled. However, if you have unused box credits, we will take the before-discount price of the delivered boxes off and send you a gift card for the rest of the credits. <\/p><p>Please note that we use this calculation method to prevent unethical buyers from taking advantage of our pre-paid plans. So, you can rest assured that you'll receive fair treatment in the event of cancellation. Please don't hesitate to <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a> for any questions.<\/p><p><\/p>",
             "page": ""
           }
         }
