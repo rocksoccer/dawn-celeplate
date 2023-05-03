@@ -72,7 +72,7 @@
         "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-1": {
           "type": "text",
           "settings": {
-            "text": "<h5>We believe that high-quality meat shouldn't just be reserved for special occasions. It should be a part of your everyday meals, too. That's why we offer a hassle-free subscription service that delivers premium quality meat to your doorstep on a regular basis.<\/h5><h5> Each box is thoughtfully curated by our expert butchers and inspired by the changing seasons, so you can experience a variety of flavors and textures throughout the year.<\/h5><h5>We've got a subscription plan to suit every taste and budget.<\/h5>"
+            "text": "<h5>At Celeplate, we believe that everyone should have access to high-quality meat every day, no matter their needs or family size. That's why we offer three different sizes of boxes, so you can choose the perfect fit for you. And if you're unsure which size is right for you, why not try our first box offer and see for yourself?<\/h5><h5>Our subscription service is hassle-free and designed to make your life easier. Each box is expertly curated by our butchers and inspired by the changing seasons, so you can experience a variety of flavors and textures throughout the year. Plus, with our prepaid plans, you can enjoy great savings. Get 20% off for 3 months prepaid subscriptions, or 30% off for 6 months prepaid plans.<\/h5>"
           }
         },
         "template--16806112133355__a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b-16826870657f9d1a6e-2": {
@@ -187,6 +187,7 @@
         },
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Subscribe",
             "button_link": ""
@@ -233,6 +234,7 @@
         },
         "4f4df750-6bde-4a9f-9809-39b530680a2d": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Subscribe",
             "button_link": ""
@@ -263,7 +265,7 @@
     "df1ab4f6-de25-4b77-8af9-15eba6452a03": {
       "type": "featured-collection",
       "settings": {
-        "title": "Best sellers for pre-paidm plans",
+        "title": "Best sellers for pre-paid plans",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
