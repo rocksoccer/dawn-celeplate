@@ -174,14 +174,14 @@
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pay as you go subscription",
+            "heading": "Our pre-paid plans",
             "heading_size": "h2"
           }
         },
         "template--16804654383339__8da25f4d-78a0-4033-9b89-a0ef73195030-16825207796ef9a246-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At Celeplate, we know that life can be unpredictable, and that's why we've designed our pay as you go plan to be flexible and hassle-free. <\/p><p>With our plan, you have the freedom to <strong>swap<\/strong> products freely, <strong>reschedule<\/strong> your delivery anytime, <strong>skip<\/strong> a delivery when you need to, and even cancel your subscription anytime. <\/p><p>We understand that things can change, and we want to make sure that our subscription fits your needs, not the other way around.<\/p>",
+            "text": "<p>Want to save some money while getting premium quality meat delivered to your doorstep? With our pre-paid plan, you can save up to 30% on regular deliveries of our high-quality meat.<\/p><p>Not only that, but you can also freely <strong>choose the frequency<\/strong> of your deliveries, <strong>skip, pause<\/strong> or <strong>reschedule<\/strong> anytime, and even plan your deliveries using our customer portal. And if you ever have any questions or concerns, our excellent customer service team is always here to help.<\/p>",
             "text_style": "body"
           }
         },
@@ -214,52 +214,20 @@
         "mobile_padding_right": 20
       }
     },
-    "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Best sellers for pay as you go",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "bbq-cuts",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "rgba(0,0,0,0)",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_product_serve_content": false,
-        "show_product_short_description": false,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "0b784575-03bd-4699-b100-51c877882455": {
       "type": "image-with-text",
       "blocks": {
         "797183a5-c2c8-4cc3-a680-a55a84dd5b8c": {
           "type": "heading",
           "settings": {
-            "heading": "Pre-paid subscription",
+            "heading": "3 sizes of boxes available",
             "heading_size": "h2"
           }
         },
         "5dfd3814-9f48-4db9-9bf6-a737e6113093": {
           "type": "text",
           "settings": {
-            "text": "<p>Want to save some money while getting premium quality meat delivered to your doorstep? With our pre-paid plan, you can save up to 30% on regular deliveries of our high-quality meat.<\/p><p>Not only that, but you can also <strong>choose the frequency<\/strong> of your deliveries, <strong>skip<\/strong> or <strong>reschedule<\/strong> anytime, and even plan your deliveries using our customer portal. And if you ever have any questions or concerns, our excellent customer service team is always here to help.<\/p>",
+            "text": "<p>At Celeplate, we understand that everyone has different needs and preferences when it comes to food. That's why we're pleased to offer our subscription boxes in three different sizes: <strong>8 items<\/strong>, <strong>10 items<\/strong>, and <strong>12 items<\/strong>. <\/p><p>Each size contains the same range of collections, so you'll never miss out on the flavors you love. The only difference is the amount of products included in each box, so you can choose the size that best fits your appetite and lifestyle.<\/p>",
             "text_style": "body"
           }
         },
@@ -295,7 +263,7 @@
     "df1ab4f6-de25-4b77-8af9-15eba6452a03": {
       "type": "featured-collection",
       "settings": {
-        "title": "Best sellers for pre-paid",
+        "title": "Best sellers for pre-paidm plans",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -412,7 +380,6 @@
     "a886ffe2-5b4a-4739-8bdf-6c1e3f29b16b",
     "eab469a1-12f9-4cb7-9e62-1826ee05a123",
     "8da25f4d-78a0-4033-9b89-a0ef73195030",
-    "ea98f15d-c63f-4a34-b7ea-a59010cd3eb2",
     "0b784575-03bd-4699-b100-51c877882455",
     "df1ab4f6-de25-4b77-8af9-15eba6452a03",
     "b2b97cf7-6dc5-4550-af2a-3ab520133f53"
