@@ -110,7 +110,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Frame_18.png",
             "title": "",
-            "text": "<h2><strong>Reliable Platform<\/strong><\/h2><p>3 or 6 boxes pre-paid plans available.<\/p><p>Pause, skip, reschedule, cancel anytime.<\/p>",
+            "text": "<h2><strong>Reliable Platform<\/strong><\/h2><p>3 or 6 boxes pre-paid plans available.<\/p><p>Pause, skip, reschedule, cancel anytime.<\/p><p>Customize your delivery frequency.<\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
@@ -123,18 +123,6 @@
             "image": "shopify:\/\/shop_images\/Frame_19.png",
             "title": "",
             "text": "<h2><strong>3 Box Sizes Available<\/strong><\/h2><p>The Culinary Classics Box (8 items)<\/p><p>The Flavorful Finds Box (10 items)<\/p><p>The Chef's Choice Box (12 items)<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "88f7d966-7715-4b89-a5ee-551327153075": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_20.png",
-            "title": "",
-            "text": "<h2><strong>Complete Flexibility<\/strong><\/h2><p>Customize your box size, items, delivery frequency or delivery date freely.<\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
@@ -157,7 +145,6 @@
       "block_order": [
         "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0",
         "20ec2b9c-bfe2-4364-93e6-3224286cc7c8",
-        "88f7d966-7715-4b89-a5ee-551327153075",
         "5ce53943-fcd7-4a0c-a42d-e928421d9a3e"
       ],
       "settings": {
@@ -168,7 +155,7 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "square",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
