@@ -75,7 +75,7 @@
         "manageSubscriptionUrl" : "apps\/subscriptions",
         "appstlePlanId": 163,
         "showCheckoutSubscriptionBtn": true,
-        "disableLoadingJquery": false,
+        "disableLoadingJquery": true,
         "widgetEnabledOnSoldVariant": "false",
         "switchRadioButtonWidget": false,
         "appstlePlanName": "BUSINESS",
