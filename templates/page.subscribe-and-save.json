@@ -419,6 +419,15 @@
             "row_content": "<p><\/p><p>If you cancel a pre-paid subscription, your future deliveries will be cancelled. However, if you have unused box credits, we will take the before-discount price of the delivered boxes off and send you a gift card for the rest of the credits. <\/p><p>Please note that we use this calculation method to prevent unethical buyers from taking advantage of our pre-paid plans. So, you can rest assured that you'll receive fair treatment in the event of cancellation. Please don't hesitate to <a href=\"\/pages\/contact\" title=\"Contact\">contact us<\/a> for any questions.<\/p><p><\/p>",
             "page": ""
           }
+        },
+        "77cdbddf-7891-4bde-a64c-fe4fb24c0470": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I change items in the box?",
+            "icon": "recycle",
+            "row_content": "<p><\/p><p>The items for the first box couldn't be changed through our customer portal. The rest of the subsription box items can be swapped through \"manage subscription\" button.<\/p><p>Once the order is placed (after you receive the order confirmation email), swapping products will not be possible to update the order.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -427,7 +436,8 @@
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-2",
         "template--16806112133355__b2b97cf7-6dc5-4550-af2a-3ab520133f53-16827094413ed1b038-3",
         "e8441aa2-1f38-4d00-ac1f-aecf8b99f947",
-        "c75d5f3f-b476-4281-90ed-872e6f856a9c"
+        "c75d5f3f-b476-4281-90ed-872e6f856a9c",
+        "77cdbddf-7891-4bde-a64c-fe4fb24c0470"
       ],
       "settings": {
         "caption": "",
