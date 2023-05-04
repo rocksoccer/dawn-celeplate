@@ -382,6 +382,82 @@
         "padding_bottom": 36
       }
     },
+    "5d4b44df-d3b5-4ee5-9443-c58bc92456ad": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-2": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-5": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "e3c69db5-88ff-4670-9d77-5dd5f31f528c": {
+          "type": "text",
+          "settings": {
+            "text": "Now you can customize your own BBQ experience by selecting your favorite cuts of meat, seafood, vegetables, and sauces. Our expert team will prepare your selections to perfection.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-0",
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-1",
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-2",
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-3",
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-4",
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-5",
+        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-6",
+        "e3c69db5-88ff-4670-9d77-5dd5f31f528c"
+      ],
+      "settings": {
+        "product": "design-your-korean-table-bbq",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0": {
       "type": "image-with-text",
       "blocks": {
@@ -523,6 +599,7 @@
     "e41781f6-5ff2-4adb-966b-f0277879df0c",
     "ab221f3f-48e5-4551-b9b3-760a9b793461",
     "ddb425f5-fa72-47ea-8555-805c71ebe8dd",
+    "5d4b44df-d3b5-4ee5-9443-c58bc92456ad",
     "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0",
     "ea6a908a-bf7a-4d29-99f9-35fe46bc45ff",
     "product-recommendations",
