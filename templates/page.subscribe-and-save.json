@@ -108,7 +108,7 @@
         "template--16806112133355__eab469a1-12f9-4cb7-9e62-1826ee05a123-16830279796b4b8fbe-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_18.png",
+            "image": "shopify:\/\/shop_images\/1_4029d76a-7a23-4752-9a14-4d18f44b343b.png",
             "title": "",
             "text": "<h2><strong>Reliable Platform<\/strong><\/h2><p>3 or 6 boxes pre-paid plans available.<\/p><p>Pause, skip, reschedule, cancel anytime.<\/p><p>Customize your delivery frequency.<\/p>",
             "html_text": "",
@@ -120,7 +120,7 @@
         "20ec2b9c-bfe2-4364-93e6-3224286cc7c8": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_19.png",
+            "image": "shopify:\/\/shop_images\/2.png",
             "title": "",
             "text": "<h2><strong>3 Box Sizes Available<\/strong><\/h2><p>The Culinary Classics Box (8 items)<\/p><p>The Flavorful Finds Box (10 items)<\/p><p>The Chef's Choice Box (12 items)<\/p>",
             "html_text": "",
@@ -132,7 +132,7 @@
         "5ce53943-fcd7-4a0c-a42d-e928421d9a3e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_21.png",
+            "image": "shopify:\/\/shop_images\/3_d6acce85-be0e-4331-8bdf-a96b185e7129.png",
             "title": "",
             "text": "<h2><strong>Trusted Sourcing<\/strong><\/h2><p>Prioritizing food safety & quality control.<\/p><p>Reputable farms and suppliers.<\/p><p>Sustainable and ethical practices.<\/p>",
             "html_text": "",
@@ -154,7 +154,7 @@
         "mobile_width_percentage": 75,
         "heading_size": "h1",
         "image_width": "third",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
