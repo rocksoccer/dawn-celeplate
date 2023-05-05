@@ -216,6 +216,7 @@
     },
     "135128ec-0ba1-496c-8efb-f0ba48ef5839": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-0": {
           "type": "heading",
