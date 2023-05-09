@@ -148,6 +148,13 @@
             "text": "<p>Welcome to the Celeplate Top-Up & Save More Member's Club, designed for those who love high-quality meat and a premium home-cooking experience. As a member, you can enjoy exclusive benefits and save even more with our prepaid credit deals. Join us today to start enjoying the benefits.<\/p>"
           }
         },
+        "553d0edc-57cb-4af5-baef-553212c07340": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Save More Member's Club Benefits<\/p>",
+            "heading_size": "h2"
+          }
+        },
         "c62240ff-28cf-4ece-9d86-8edb0ba89ac0": {
           "type": "text",
           "settings": {
@@ -158,6 +165,7 @@
       "block_order": [
         "1832d483-9015-4688-9ee0-6939174638c0",
         "fa802dd6-e4bb-492b-88d3-8e6a5121e1de",
+        "553d0edc-57cb-4af5-baef-553212c07340",
         "c62240ff-28cf-4ece-9d86-8edb0ba89ac0"
       ],
       "settings": {
@@ -169,32 +177,54 @@
         "padding_bottom": 52
       }
     },
-    "16b47fce-1526-4230-b0bb-9779971bf106": {
-      "type": "image-banner",
+    "f09f469f-1b54-4018-bd2d-60cc4c01d989": {
+      "type": "slideshow-enhanced",
       "blocks": {
-        "template--16810980442347__16b47fce-1526-4230-b0bb-9779971bf106-16836274221d43053b-0": {
-          "type": "heading",
+        "template--16810980442347__f09f469f-1b54-4018-bd2d-60cc4c01d989-168362953003355bc1-0": {
+          "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Beige_Minimalist_Mother_s_Day_Sale_Promotional_Banner.png",
+            "image_mobile": "shopify:\/\/shop_images\/100_save_more_card.png",
             "heading": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "template--16810980442347__16b47fce-1526-4230-b0bb-9779971bf106-16836274221d43053b-0"
+        "template--16810980442347__f09f469f-1b54-4018-bd2d-60cc4c01d989-168362953003355bc1-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Beige_Minimalist_Mother_s_Day_Sale_Promotional_Banner.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "dot_color": "#000000",
+        "dot_color_active": "#000000",
+        "dot_show_slider_buttons": false,
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": "",
+        "common_text": "",
+        "common_button": "",
+        "common_button_href": "",
+        "common_button_background_color": "#000000",
+        "slideshow_padding_top": 36,
+        "common_text_and_button_padding_top": 0,
+        "common_text_and_button_padding_bottom": 0,
+        "common_text_and_button_padding_left": 150,
+        "common_text_and_button_padding_right": 150,
+        "section_background": "transparent",
+        "background": "transparent"
       }
     },
     "da4c0329-01b8-4d6e-89ad-50ec9b5c12b9": {
@@ -579,62 +609,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "f09f469f-1b54-4018-bd2d-60cc4c01d989": {
-      "type": "slideshow-enhanced",
-      "blocks": {
-        "template--16810980442347__f09f469f-1b54-4018-bd2d-60cc4c01d989-168362953003355bc1-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Beige_Minimalist_Mother_s_Day_Sale_Promotional_Banner.png",
-            "image_mobile": "shopify:\/\/shop_images\/100_save_more_card.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16810980442347__f09f469f-1b54-4018-bd2d-60cc4c01d989-168362953003355bc1-0"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "dot_color": "#000000",
-        "dot_color_active": "#000000",
-        "dot_show_slider_buttons": true,
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "",
-        "common_text": "",
-        "common_button": "",
-        "common_button_href": "",
-        "common_button_background_color": "#000000",
-        "slideshow_padding_top": 36,
-        "common_text_and_button_padding_top": 0,
-        "common_text_and_button_padding_bottom": 0,
-        "common_text_and_button_padding_left": 150,
-        "common_text_and_button_padding_right": 150,
-        "section_background": "transparent",
-        "background": "transparent"
-      }
     }
   },
   "order": [
     "main",
     "7bc7d4e5-f9ec-49d7-a556-7fc8430232cc",
-    "16b47fce-1526-4230-b0bb-9779971bf106",
+    "f09f469f-1b54-4018-bd2d-60cc4c01d989",
     "da4c0329-01b8-4d6e-89ad-50ec9b5c12b9",
     "1658491360911f410d",
     "16582564410dbad73c",
@@ -647,7 +627,6 @@
     "1658260529146899e2",
     "product-recommendations",
     "9e41b8c3-fc1d-440c-9db2-2ed6529782ea",
-    "16582608756ffd25d6",
-    "f09f469f-1b54-4018-bd2d-60cc4c01d989"
+    "16582608756ffd25d6"
   ]
 }
