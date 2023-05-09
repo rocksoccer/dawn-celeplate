@@ -56,32 +56,20 @@
         "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Top Up & Save More<\/p>",
+            "heading": "<p>Buy £300 get £100 free<\/p>",
             "heading_size": "h1"
           }
         },
         "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Join our Top Up & Save More member's club get by getting invloved in this Buy £300 get £100 free limited event!<\/p><p>This special campaign is designed for those who love high-quality meat and a premium home-cooking experience. As a member, you can enjoy exclusive benefits and save even more with our prepaid credit deals.<\/p>"
           }
         }
       },
       "block_order": [
         "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-0",
-        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1",
-        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-2"
+        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1"
       ],
       "settings": {
         "desktop_content_position": "center",
