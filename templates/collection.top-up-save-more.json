@@ -1,55 +1,13 @@
 {
   "sections": {
-    "2ba5539b-f7f5-4f98-b31f-6319186f0c49": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/deisgn.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "background-1"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 4,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_product_serve_content": false,
-        "show_product_short_description": false,
-        "show_rating": false,
-        "enable_quick_add": true,
-        "enable_filtering": true,
-        "filter_type": "horizontal",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "12903f0d-c213-4dc5-8750-08563c6ad664": {
       "type": "slideshow-enhanced",
       "blocks": {
         "template--16811167678699__12903f0d-c213-4dc5-8750-08563c6ad664-168362953003355bc1-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Beige_Minimalist_Mother_s_Day_Sale_Promotional_Banner.png",
+            "image_mobile": "shopify:\/\/shop_images\/Beige_Minimalist_Mother_s_Day_Sale_Promotional_Banner.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -91,12 +49,83 @@
         "section_background": "transparent",
         "background": "transparent"
       }
+    },
+    "bcf4d0a0-3181-4c48-8843-ebdba9433735": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Top Up & Save More<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-0",
+        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1",
+        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": false,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "2ba5539b-f7f5-4f98-b31f-6319186f0c49",
+    "12903f0d-c213-4dc5-8750-08563c6ad664",
+    "bcf4d0a0-3181-4c48-8843-ebdba9433735",
     "banner",
-    "product-grid",
-    "12903f0d-c213-4dc5-8750-08563c6ad664"
+    "product-grid"
   ]
 }
