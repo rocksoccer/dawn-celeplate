@@ -27,12 +27,12 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 24,
         "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
-        "show_product_serve_content": false,
+        "show_product_serve_content": true,
         "show_product_short_description": false,
         "show_rating": false,
         "enable_quick_add": true,
