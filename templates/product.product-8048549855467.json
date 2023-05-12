@@ -138,7 +138,7 @@
         "template--16718749925611__7bc7d4e5-f9ec-49d7-a556-7fc8430232cc-1675103542293afb03-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Goose Foie Gras<\/strong><br\/>Goose Foie Gras Fillet<br\/>Country of origin: Bulgarian<br\/>Slaughterhouse license number: <br\/>Cutting plant license number: <br\/>Net weight: 100g +- 5%<br\/>Portion size: 50g<br\/>Number of portions in one package: 2<br\/>Storage: Keep refrigerated below 5°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: None.<br\/>Ingredients: Goose Foie Gras Fillet (100%).<\/p><p><br\/><strong>Cooking Instructions<\/strong><\/p><ol><li>Place the foie gras fillet in the skillet, scored side down, and cook for about 30 seconds until golden brown.<\/li><li>Flip the foie gras fillet over and cook for another 30 seconds.<\/li><li>Remove the foie gras fillet from the skillet and place it on a paper towel to drain excess fat.<\/li><\/ol>"
+            "text": "<p><strong>Japanese A5+ Wagyu Rib Eye Block<\/strong><br\/>Japanese A5+ Wagyu Rib Eye Block<br\/>Country of origin: Japan<br\/>Identity number (個体識別番号): 14666-4607-8<br\/>Carcass number number (枝肉番号): <br\/>Net weight: 250g +- 5%<br\/>Storage: Keep refrigerated below 2°C Once opened consume within 2 days. Keep covered. Store at the bottom of the refrigerator. Do not exceed use by date. Not suitable for home freezing. For use by date see the front of pack.<\/p><p><br\/>Main allergens: None.<br\/>Ingredients: Japanese A5+ Wagyu Rib Eye Block (100%).<\/p>"
           }
         }
       },
@@ -152,6 +152,52 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "8a4094f3-613d-4da5-9792-efb8f3e5f9d3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16813098959083__8a4094f3-613d-4da5-9792-efb8f3e5f9d3-168390352513a8a986-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "From Japan",
+            "heading_size": "h1"
+          }
+        },
+        "template--16813098959083__8a4094f3-613d-4da5-9792-efb8f3e5f9d3-168390352513a8a986-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16813098959083__8a4094f3-613d-4da5-9792-efb8f3e5f9d3-168390352513a8a986-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16813098959083__8a4094f3-613d-4da5-9792-efb8f3e5f9d3-168390352513a8a986-0",
+        "template--16813098959083__8a4094f3-613d-4da5-9792-efb8f3e5f9d3-168390352513a8a986-1",
+        "template--16813098959083__8a4094f3-613d-4da5-9792-efb8f3e5f9d3-168390352513a8a986-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/a5_wagyu.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
       }
     },
     "1658491360911f410d": {
@@ -519,6 +565,7 @@
   "order": [
     "main",
     "7bc7d4e5-f9ec-49d7-a556-7fc8430232cc",
+    "8a4094f3-613d-4da5-9792-efb8f3e5f9d3",
     "1658491360911f410d",
     "16582564410dbad73c",
     "1658221557854215e8",
