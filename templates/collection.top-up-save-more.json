@@ -1,53 +1,19 @@
 {
   "sections": {
-    "12903f0d-c213-4dc5-8750-08563c6ad664": {
-      "type": "slideshow-enhanced",
-      "blocks": {
-        "template--16811167678699__12903f0d-c213-4dc5-8750-08563c6ad664-168362953003355bc1-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/deisgn.png",
-            "image_mobile": "shopify:\/\/shop_images\/8_meat_square.png",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16811167678699__12903f0d-c213-4dc5-8750-08563c6ad664-168362953003355bc1-0"
-      ],
+    "c342654c-06e9-4d39-b965-26557de8e9f9": {
+      "type": "image-banner",
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "dot_color": "#000000",
-        "dot_color_active": "#000000",
-        "dot_show_slider_buttons": false,
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": false,
-        "accessibility_info": "",
-        "common_text": "",
-        "common_button": "",
-        "common_button_href": "",
-        "common_button_background_color": "#000000",
-        "slideshow_padding_top": 0,
-        "common_text_and_button_padding_top": 0,
-        "common_text_and_button_padding_bottom": 0,
-        "common_text_and_button_padding_left": 150,
-        "common_text_and_button_padding_right": 150,
-        "section_background": "transparent",
-        "background": "transparent"
+        "image": "shopify:\/\/shop_images\/Frame_23.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "bcf4d0a0-3181-4c48-8843-ebdba9433735": {
@@ -223,7 +189,7 @@
     }
   },
   "order": [
-    "12903f0d-c213-4dc5-8750-08563c6ad664",
+    "c342654c-06e9-4d39-b965-26557de8e9f9",
     "bcf4d0a0-3181-4c48-8843-ebdba9433735",
     "banner",
     "9de40696-0452-4abf-84e1-f54443045820",
