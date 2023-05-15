@@ -160,13 +160,20 @@
           "settings": {
             "text": "<ul><li>Buy £300 get £100 free<\/li><li>Early access to our newest arrivals<\/li><li>Early access to limited edition products<\/li><li>Exclusive discounts and offers via email<\/li><li>Exclusive members-only events and experiences<\/li><li>Regular updates on the latest and greatest products in the industry<\/li><\/ul>"
           }
+        },
+        "2c920bb1-a3c1-428e-ac6d-ecf96f86dac6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please add <strong>both<\/strong> the £300 pre-paid credit product and the £128 pre-paid product below to your cart together to apply the discount.<\/p>"
+          }
         }
       },
       "block_order": [
         "1832d483-9015-4688-9ee0-6939174638c0",
         "fa802dd6-e4bb-492b-88d3-8e6a5121e1de",
         "553d0edc-57cb-4af5-baef-553212c07340",
-        "c62240ff-28cf-4ece-9d86-8edb0ba89ac0"
+        "c62240ff-28cf-4ece-9d86-8edb0ba89ac0",
+        "2c920bb1-a3c1-428e-ac6d-ecf96f86dac6"
       ],
       "settings": {
         "desktop_content_position": "center",
