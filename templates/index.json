@@ -137,18 +137,69 @@
         "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-0": {
           "type": "heading",
           "settings": {
-            "heading": "CELEBRATION",
+            "heading": "TOP UP & SAVE MORE",
             "heading_size": "h1"
           }
         },
         "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing Celeplate's meal kits, the perfect solution for busy food lovers who want to enjoy delicious, homemade meals without the hassle. Our meal kits are carefully crafted by our expert chefs using the freshest, high-quality ingredients, making it easy for you to whip up a gourmet meal in no time.<\/p>",
+            "text": "<p>Get your pre-paid credit now with a 30% discount. You can use your pre-paid credit on all Celeplate products with no limitations.<\/p><p>By purchasing pre-paid credit, you will automatically become a Save More Club member and be entitled to exclusive club benefits.<\/p>",
             "text_style": "body"
           }
         },
         "373bfda0-0c0a-4bb8-95f2-3baac90b89d8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get discount",
+            "button_link": "shopify:\/\/collections\/top-up"
+          }
+        }
+      },
+      "block_order": [
+        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-0",
+        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-1",
+        "373bfda0-0c0a-4bb8-95f2-3baac90b89d8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_22_2_8b3d39e7-b591-4059-b5e9-419b768b554b.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "73407611-7dff-46d1-b1f4-691185f07146": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "cef73e60-36cd-4f61-ad76-c6fb8b62698a": {
+          "type": "heading",
+          "settings": {
+            "heading": "CELEBRATION",
+            "heading_size": "h1"
+          }
+        },
+        "78b215c7-e38e-4f1f-b82c-ec9014b2298a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing Celeplate's meal kits, the perfect solution for busy food lovers who want to enjoy delicious, homemade meals without the hassle. Our meal kits are carefully crafted by our expert chefs using the freshest, high-quality ingredients, making it easy for you to whip up a gourmet meal in no time.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "8ee0aeac-2386-457f-80a7-520e75b3477f": {
           "type": "button",
           "settings": {
             "button_label": "Plan now",
@@ -157,9 +208,9 @@
         }
       },
       "block_order": [
-        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-0",
-        "template--16260666327275__f4862e6a-f131-4a34-bf6b-3a7192d6017a-16656974099a785a48-1",
-        "373bfda0-0c0a-4bb8-95f2-3baac90b89d8"
+        "cef73e60-36cd-4f61-ad76-c6fb8b62698a",
+        "78b215c7-e38e-4f1f-b82c-ec9014b2298a",
+        "8ee0aeac-2386-457f-80a7-520e75b3477f"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_1.jpg",
@@ -549,6 +600,7 @@
     "9fb05fcf-7937-46d1-9400-1dbe9d387d99",
     "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2",
     "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
+    "73407611-7dff-46d1-b1f4-691185f07146",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
     "135128ec-0ba1-496c-8efb-f0ba48ef5839",
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54",
