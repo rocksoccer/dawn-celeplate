@@ -106,7 +106,7 @@
         "template--16811167678699__27384fc6-5715-4886-b8fd-f7cf7078cdda-1684144755eaf85095-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please add <strong>both<\/strong> the £300 prepaid credit product and the £100 prepaid product to your cart together.<\/p>"
+            "text": "<p>Please add <strong>both<\/strong> the £300 pre-paid credit product and the £100 pre-paid product to your cart together.<\/p>"
           }
         }
       },
@@ -120,7 +120,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "product-grid": {
