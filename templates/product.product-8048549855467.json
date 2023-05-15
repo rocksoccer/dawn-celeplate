@@ -50,6 +50,12 @@
           "settings": {
           }
         },
+        "1dfd25a9-4752-49aa-bc61-72539e9c2a99": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -112,6 +118,7 @@
         "variant_picker",
         "1f10a208-5842-48f8-894d-d3c6b7338dbe",
         "quantity_selector",
+        "1dfd25a9-4752-49aa-bc61-72539e9c2a99",
         "buy_buttons",
         "share",
         "collapsible-row-2",
