@@ -14,7 +14,7 @@
         "37400d3b-cef3-434e-a132-eb2090135cfb": {
           "type": "text_sticked_with_button",
           "settings": {
-            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">Start summer <br>with<br>Wagyu Beef &amp;<br>Iberian Pork<\/span>",
+            "text": "<span class=\"h1\" style=\"letter-spacing: 0.5rem;\">summer vibes:<br>bbq season<br>is right here<\/span>",
             "text_style": "caption-with-letter-spacing"
           }
         },
@@ -23,8 +23,8 @@
           "settings": {
             "button_label_1": "Design Summer BBQ",
             "button_link_1": "shopify:\/\/products\/design-your-korean-table-bbq",
-            "button_label_2": "What's on for Hotpot",
-            "button_link_2": "shopify:\/\/collections\/hotpot-cuts",
+            "button_label_2": "Save 30% using pre-paid credit",
+            "button_link_2": "shopify:\/\/collections\/top-up",
             "button_style_secondary_2": true
           }
         }
