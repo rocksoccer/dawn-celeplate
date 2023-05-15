@@ -53,7 +53,7 @@
         "1dfd25a9-4752-49aa-bc61-72539e9c2a99": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": ""
+            "custom_liquid": "<div class=\"ultimate-countdown\"><\/div>"
           }
         },
         "buy_buttons": {
