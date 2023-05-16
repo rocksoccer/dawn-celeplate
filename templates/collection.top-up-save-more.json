@@ -59,7 +59,7 @@
         "template--16811167678699__9de40696-0452-4abf-84e1-f54443045820-16838879845c7337ce-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Get all member's benefits with just <strong>one<\/strong> pre-paid credit purchase:<\/p><ul><li><strong>Buy £300 get £128 free<\/strong><\/li><li>Early access to our newest arrivals<\/li><li>Early access to limited edition products<\/li><li>Exclusive discounts and offers <strong>via email<\/strong><\/li><li>Exclusive members-only events and experiences<\/li><li>Regular updates on the latest and greatest products in the industry<\/li><\/ul>",
+            "text": "<p>Get all member's benefits with just <strong>one<\/strong> pre-paid credit purchase:<\/p><ul><li><strong>Top up £300, get £128 free<\/strong><\/li><li>Early access to our nevwest arrivals<\/li><li>Early access to limited edition products<\/li><li>Exclusive discounts and offers <strong>via email<\/strong><\/li><li>Exclusive members-only events and experiences<\/li><li>Regular updates on the latest and greatest products in the industry<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -99,7 +99,7 @@
         "template--16811167678699__27384fc6-5715-4886-b8fd-f7cf7078cdda-1684144755eaf85095-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Buy £300 get £128 free<\/p>",
+            "heading": "<p>Top up £300, get £128 free<\/p>",
             "heading_size": "h1"
           }
         },
