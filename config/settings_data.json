@@ -222,6 +222,12 @@
         "disabled": true,
         "settings": {
         }
+      },
+      "8171265131012698934": {
+        "type": "shopify:\/\/apps\/orichi-quantity-breaks\/blocks\/orichi-discount\/3f38eaa3-2a3f-4e55-bcc9-df5d3f75e351",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
