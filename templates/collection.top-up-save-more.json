@@ -143,6 +143,75 @@
         "padding_bottom": 36
       }
     },
+    "44ea8172-b3f8-4020-93e0-26898c7b51c4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16811167678699__44ea8172-b3f8-4020-93e0-26898c7b51c4-16842430565cb2b4a6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Celeplate_Picture_a_white_table_beautifully_set_with_different__e0f36a7c-08af-4450-8d89-6a4cc45362ed.png",
+            "title": "Get extra £128 free",
+            "text": "<p>Top up £300 and get an extra £128 for free, equivalent to a 30% discount. This is the best offer we have ever had.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16811167678699__44ea8172-b3f8-4020-93e0-26898c7b51c4-16842430565cb2b4a6-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Celeplate_Picture_a_modern_East_Asian_girl_receiving_a_parcel_f_5b637e8f-36f8-4358-97d6-6335101a4b62.png",
+            "title": "Exlusive member discounts",
+            "text": "<p>We provide exclusive discounts and offers to our club members. Keep an eye on your email and get ready for the best deals.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16811167678699__44ea8172-b3f8-4020-93e0-26898c7b51c4-16842430565cb2b4a6-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Celeplate_Picture_a_scene_of_outdoor_Korean_BBQ_grilling_with_f_f27ac1ba-5933-4e16-b0ec-4a7f0626d028.png",
+            "title": "Early access to limited items",
+            "text": "<p>The best meats are always limited. Become a member to receive early alerts on the freshest and highest quality meat products we have.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16811167678699__44ea8172-b3f8-4020-93e0-26898c7b51c4-16842430565cb2b4a6-0",
+        "template--16811167678699__44ea8172-b3f8-4020-93e0-26898c7b51c4-16842430565cb2b4a6-1",
+        "template--16811167678699__44ea8172-b3f8-4020-93e0-26898c7b51c4-16842430565cb2b4a6-2"
+      ],
+      "settings": {
+        "title": "Save more club perks",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
+      }
+    },
     "aed0c8f8-05f4-4192-89be-c7250f9869a0": {
       "type": "rich-text",
       "blocks": {
@@ -225,6 +294,7 @@
     "banner",
     "27384fc6-5715-4886-b8fd-f7cf7078cdda",
     "product-grid",
+    "44ea8172-b3f8-4020-93e0-26898c7b51c4",
     "aed0c8f8-05f4-4192-89be-c7250f9869a0",
     "ff60e3fc-6dba-43a8-ba91-4d70735f231d"
   ]
