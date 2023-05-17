@@ -150,7 +150,7 @@
         "template--16811167678699__1790faed-ce48-4ad1-9e96-f849676dd8cf-16843267134a963b41-6"
       ],
       "settings": {
-        "product": "prepaid-credit",
+        "product": "giftcard-1",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_position": "left",
@@ -189,7 +189,7 @@
           "settings": {
             "heading": "Where can I use the pre-paid credit?",
             "icon": "question_mark",
-            "row_content": "<p><\/p><p>You can use the pre-paid credit on any product available on the Celeplate website, ranging from a wide selection of high-quality meats, seafood, and other gourmet delights. The credit can be applied to your purchases, allowing you to explore and indulge in our offerings. Please note that it cannot be used towards other pre-paid credit products.<\/p><p><\/p>",
+            "row_content": "<p><\/p><p>You can use the pre-paid credit on any product available on the Celeplate website, ranging from a wide selection of high-quality meats, seafood, and other gourmet delights. The credit can be applied to your purchases, allowing you to explore and indulge in our offerings. <\/p><p>Please note that it cannot be used towards other pre-paid credit products. For more details, please visit the <a href=\"\/products\/prepaid-credit\" title=\"Save More Member's Club Pre-paid Credit\">product page<\/a>.<\/p><p><\/p>",
             "page": ""
           }
         },
