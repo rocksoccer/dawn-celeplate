@@ -29,7 +29,7 @@
         "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Limited time offer: Top up £300, get £128 free!<\/strong><\/p><p>Join our Top Up & Save More member's club get by purchasing the below pre-paid credit.<\/p>"
+            "text": "<p>Purchase our pre-paid credit product, become Save More club member!<\/p>"
           }
         }
       },
@@ -207,9 +207,9 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "override_background_color": false,
-        "background_color": "transparent",
+        "background_color": "rgba(0,0,0,0)",
         "override_card_background_color": false,
-        "card_background_color": "transparent"
+        "card_background_color": "rgba(0,0,0,0)"
       }
     },
     "aed0c8f8-05f4-4192-89be-c7250f9869a0": {
