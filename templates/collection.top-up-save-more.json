@@ -141,6 +141,7 @@
         },
         "template--16811167678699__1790faed-ce48-4ad1-9e96-f849676dd8cf-16843267134a963b41-2": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
