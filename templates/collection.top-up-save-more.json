@@ -193,21 +193,21 @@
             "page": ""
           }
         },
+        "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What would happen after I purchase the pre-paid credit product?",
+            "icon": "question_mark",
+            "row_content": "<p><\/p><p>After purchasing the Prepaid Credit product, you will receive two gift card codes via email. These codes grant you access to the benefits of our Save More Member's Club, where you'll receive exclusive perks and discounts via email. <\/p><p>The credit can be used across our entire website, allowing you to explore and indulge in our wide range of offerings.<\/p><p><\/p>",
+            "page": ""
+          }
+        },
         "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-1": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Can I use more than one gift card code in the same order?",
             "icon": "question_mark",
             "row_content": "<p><\/p><p>Yes, absolutely! We understand that you may have multiple gift card codes, and we're happy to accommodate them. <\/p><p>When checking out, you can enter and apply multiple gift card codes to your order. This allows you to conveniently use multiple gift cards and make the most of your rewards. Enjoy shopping with us!<\/p><p><\/p>",
-            "page": ""
-          }
-        },
-        "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
             "page": ""
           }
         },
@@ -223,8 +223,8 @@
       },
       "block_order": [
         "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-0",
-        "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-1",
         "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-2",
+        "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-1",
         "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-3"
       ],
       "settings": {
