@@ -80,8 +80,8 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
+        "mobile_padding_left": 16,
+        "mobile_padding_right": 16
       }
     },
     "banner": {
@@ -231,7 +231,7 @@
         "caption": "",
         "heading": "Pre-paid credit FAQs",
         "heading_size": "h1",
-        "heading_alignment": "left",
+        "heading_alignment": "center",
         "layout": "section",
         "color_scheme": "background-1",
         "container_color_scheme": "background-2",
@@ -288,8 +288,8 @@
         "template--16811167678699__44ea8172-b3f8-4020-93e0-26898c7b51c4-16842430565cb2b4a6-2"
       ],
       "settings": {
-        "title": "Save more club member perks",
-        "center_title": false,
+        "title": "Save More Club Perks",
+        "center_title": true,
         "desktop_width_percentage": 60,
         "mobile_width_percentage": 100,
         "heading_size": "h1",
@@ -345,7 +345,7 @@
         "template--16811167678699__aed0c8f8-05f4-4192-89be-c7250f9869a0-16838889811766637d-2"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
