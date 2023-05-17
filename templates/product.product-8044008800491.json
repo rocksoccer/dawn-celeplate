@@ -35,18 +35,19 @@
         },
         "variant_picker": {
           "type": "variant_picker",
-          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
         },
         "1f10a208-5842-48f8-894d-d3c6b7338dbe": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
