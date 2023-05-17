@@ -2,6 +2,26 @@
   "sections": {
     "c342654c-06e9-4d39-b965-26557de8e9f9": {
       "type": "image-banner",
+      "blocks": {
+        "34decdd9-7398-479e-b8bd-2718d242e79a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Top-up & Save more",
+            "heading_size": "h1"
+          }
+        },
+        "104521ed-05b3-4d40-bad7-3738eb67d3b9": {
+          "type": "text",
+          "settings": {
+            "text": "Purchase our pre-paid credit product, become Save More club member!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "34decdd9-7398-479e-b8bd-2718d242e79a",
+        "104521ed-05b3-4d40-bad7-3738eb67d3b9"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/AdobeStock_344104358.jpg",
         "image_overlay_opacity": 0,
@@ -13,37 +33,7 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "bcf4d0a0-3181-4c48-8843-ebdba9433735": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Top-up & Save more<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Purchase our pre-paid credit product, become Save More club member!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-0",
-        "template--16811167678699__bcf4d0a0-3181-4c48-8843-ebdba9433735-1683644755589c2c1b-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "show_text_below": false
       }
     },
     "9de40696-0452-4abf-84e1-f54443045820": {
@@ -388,7 +378,6 @@
   },
   "order": [
     "c342654c-06e9-4d39-b965-26557de8e9f9",
-    "bcf4d0a0-3181-4c48-8843-ebdba9433735",
     "9de40696-0452-4abf-84e1-f54443045820",
     "banner",
     "1790faed-ce48-4ad1-9e96-f849676dd8cf",
