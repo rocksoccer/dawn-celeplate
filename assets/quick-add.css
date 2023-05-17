@@ -216,3 +216,7 @@ quick-add-modal .product-form__buttons {
 .quick-add__submit::after {
   box-shadow: none;
 }
+/* Added by Chris D @ Shopify May 17 2023 */
+.quick-add__submit {
+  min-height: 30px;
+}
