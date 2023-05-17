@@ -214,9 +214,9 @@
         "template--16811167678699__766a085e-0489-43b1-9603-e2d46db22e9f-168432909971afe0ce-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "When will my credits expire?",
+            "icon": "question_mark",
+            "row_content": "<p><\/p><p>By default, our gift card codes are set to expire one year after they have been issued. <\/p><p>However, we understand that exceptional circumstances may arise. If you wish to extend your expiration date, please reach out to us, and we will be happy to assist you.<\/p><p><\/p>",
             "page": ""
           }
         }
