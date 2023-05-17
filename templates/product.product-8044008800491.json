@@ -159,13 +159,7 @@
         "c62240ff-28cf-4ece-9d86-8edb0ba89ac0": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Buy £300 get £100 free<\/li><li>Early access to our newest arrivals<\/li><li>Early access to limited edition products<\/li><li>Exclusive discounts and offers via email<\/li><li>Exclusive members-only events and experiences<\/li><li>Regular updates on the latest and greatest products in the industry<\/li><\/ul>"
-          }
-        },
-        "2c920bb1-a3c1-428e-ac6d-ecf96f86dac6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Please add <strong>both<\/strong> the £300 pre-paid credit product and the £128 pre-paid product below to your cart together to apply the discount.<\/p>"
+            "text": "<ul><li>Get extra credit for free when topping up<\/li><li>Early access to our newest arrivals<\/li><li>Early access to limited edition products<\/li><li>Exclusive discounts and offers via email<\/li><li>Exclusive members-only events and experiences<\/li><li>Regular updates on the latest and greatest products in the industry<\/li><\/ul>"
           }
         }
       },
@@ -173,8 +167,7 @@
         "1832d483-9015-4688-9ee0-6939174638c0",
         "fa802dd6-e4bb-492b-88d3-8e6a5121e1de",
         "553d0edc-57cb-4af5-baef-553212c07340",
-        "c62240ff-28cf-4ece-9d86-8edb0ba89ac0",
-        "2c920bb1-a3c1-428e-ac6d-ecf96f86dac6"
+        "c62240ff-28cf-4ece-9d86-8edb0ba89ac0"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -183,81 +176,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 32
-      }
-    },
-    "7d1579d4-38f1-4b74-83fb-98ea33d0c9e5": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "02d11e6b-6180-4b7f-bf2e-229b1563265b": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-2": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-4": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-6": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-0",
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-1",
-        "02d11e6b-6180-4b7f-bf2e-229b1563265b",
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-2",
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-3",
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-4",
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-5",
-        "template--16810980442347__7d1579d4-38f1-4b74-83fb-98ea33d0c9e5-1684149132a5358f51-6"
-      ],
-      "settings": {
-        "product": "giftcard-2",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "da4c0329-01b8-4d6e-89ad-50ec9b5c12b9": {
@@ -647,7 +565,6 @@
   "order": [
     "main",
     "7bc7d4e5-f9ec-49d7-a556-7fc8430232cc",
-    "7d1579d4-38f1-4b74-83fb-98ea33d0c9e5",
     "da4c0329-01b8-4d6e-89ad-50ec9b5c12b9",
     "1658491360911f410d",
     "16582564410dbad73c",
