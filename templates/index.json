@@ -609,7 +609,7 @@
         "7d71ae6e-3069-498d-a8de-f567c934c01f"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/wagyushorribsboneless.png",
+        "image": "shopify:\/\/shop_images\/wagyuprimegalbi1.png",
         "height": "small",
         "desktop_image_width": "medium",
         "image_grid_item_width_offset": "-8.3335",
@@ -627,6 +627,121 @@
         "mobile_text_section_padding_bottom": 1.5,
         "section_background_color": "rgba(0,0,0,0)",
         "text_area_background_color": "#ffffff"
+      }
+    },
+    "1e2e1bd9-5c38-4c22-9710-51915b5d1126": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "wagyu-beef",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "25f1eee2-bcfb-4ecb-9e07-02b7108ade28": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "6f3c1cc6-5843-47e6-bde3-a08970c5bf2e": {
+          "type": "heading",
+          "settings": {
+            "heading": "SEAFOOD SELECTION",
+            "heading_size": "h1"
+          }
+        },
+        "dfca7f81-a26c-4807-98ec-92120a63de77": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the delicate flavors of Red Snapper, the succulent Jade Shell Mussel, and the tantalizing Argentine Red Prawn. Perfect for sizzling Korean table BBQ or adding a touch of elegance to various styles of hot pot. Elevate your dining experience with the freshest catches from the sea. Dive into a world of culinary delights today.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "111a30ad-0f47-48fb-a5fc-5f01d3f10cc8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/seafood"
+          }
+        }
+      },
+      "block_order": [
+        "6f3c1cc6-5843-47e6-bde3-a08970c5bf2e",
+        "dfca7f81-a26c-4807-98ec-92120a63de77",
+        "111a30ad-0f47-48fb-a5fc-5f01d3f10cc8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/RedSnapperRaw.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "d0c2d5b9-314e-4eb1-bd4f-faf47e156ca5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "seafood",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
       }
     },
     "1662588804d21a679e": {
@@ -761,6 +876,9 @@
     "c3b72c80-f28c-4d73-8a9b-dc2efaf0cbf1",
     "a4afc5a1-7bf9-4f6e-a7f2-1aaf3faca8a3",
     "63f137ed-9b74-490d-9c61-5ea6d354a4f2",
+    "1e2e1bd9-5c38-4c22-9710-51915b5d1126",
+    "25f1eee2-bcfb-4ecb-9e07-02b7108ade28",
+    "d0c2d5b9-314e-4eb1-bd4f-faf47e156ca5",
     "1662588804d21a679e",
     "165843282650252f95",
     "1658433009e6ffa558"
