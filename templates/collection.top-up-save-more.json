@@ -74,6 +74,88 @@
         "mobile_padding_right": 16
       }
     },
+    "2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cart_639e7746-c1f5-4134-81db-32d30007d002.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/date.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/codes.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "81b54cf8-74e7-4e3d-9291-1fb0d1fffc9a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/apply_4fd61e76-ccec-4d9f-8629-62cef84553b2.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-0",
+        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-1",
+        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-2",
+        "81b54cf8-74e7-4e3d-9291-1fb0d1fffc9a"
+      ],
+      "settings": {
+        "title": "How it works",
+        "center_title": true,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 60,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -379,6 +461,7 @@
   "order": [
     "c342654c-06e9-4d39-b965-26557de8e9f9",
     "9de40696-0452-4abf-84e1-f54443045820",
+    "2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729",
     "banner",
     "1790faed-ce48-4ad1-9e96-f849676dd8cf",
     "product-grid",
