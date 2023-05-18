@@ -215,6 +215,73 @@
         "padding_bottom": 36
       }
     },
+    "b7b824ac-7745-4db5-a0f8-3f94f0a21c7a": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-2": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-0",
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-1",
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-2",
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-3",
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-4",
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-5",
+        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-6"
+      ],
+      "settings": {
+        "product": "prepaid-credit",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "73407611-7dff-46d1-b1f4-691185f07146": {
       "type": "image-with-text-enhanced",
       "blocks": {
@@ -634,6 +701,7 @@
     "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2",
     "f4862e6a-f131-4a34-bf6b-3a7192d6017a",
     "83dfeb02-43ed-4a81-8c53-2791fb434db2",
+    "b7b824ac-7745-4db5-a0f8-3f94f0a21c7a",
     "73407611-7dff-46d1-b1f4-691185f07146",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
     "135128ec-0ba1-496c-8efb-f0ba48ef5839",
