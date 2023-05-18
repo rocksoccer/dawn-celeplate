@@ -513,6 +513,19 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "8ec976fb-4605-4bd3-8df4-ef016bc5aad2": {
+      "type": "video",
+      "settings": {
+        "heading": "More cooking ideas",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=hpcyeRPMqlY",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -529,6 +542,7 @@
     "1658260529146899e2",
     "product-recommendations",
     "cf1f03d7-4c44-4ac4-bbe7-034c4ea76892",
-    "16582608756ffd25d6"
+    "16582608756ffd25d6",
+    "8ec976fb-4605-4bd3-8df4-ef016bc5aad2"
   ]
 }
