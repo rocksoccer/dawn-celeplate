@@ -578,6 +578,57 @@
         "padding_bottom": 36
       }
     },
+    "63f137ed-9b74-490d-9c61-5ea6d354a4f2": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "14046adb-2fb3-4c09-8a75-be7ffd4528a6": {
+          "type": "heading",
+          "settings": {
+            "heading": "WAGYU BEEF",
+            "heading_size": "h1"
+          }
+        },
+        "255d73bb-11e1-4c43-80b7-3a64b30a3447": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our carefully curated collection of Wagyu beef offers a taste experience like no other. From melt-in-your-mouth steaks to succulent burgers, each cut is meticulously sourced for its exceptional marbling and unrivaled flavor. Elevate your culinary adventures with the finest Wagyu beef.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "7d71ae6e-3069-498d-a8de-f567c934c01f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/wagyu-beef"
+          }
+        }
+      },
+      "block_order": [
+        "14046adb-2fb3-4c09-8a75-be7ffd4528a6",
+        "255d73bb-11e1-4c43-80b7-3a64b30a3447",
+        "7d71ae6e-3069-498d-a8de-f567c934c01f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wagyushorribsboneless.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
     "1662588804d21a679e": {
       "type": "custom-liquid",
       "disabled": true,
@@ -709,6 +760,7 @@
     "b66eb8dd-a4af-49e0-a061-1611982ea4a0",
     "c3b72c80-f28c-4d73-8a9b-dc2efaf0cbf1",
     "a4afc5a1-7bf9-4f6e-a7f2-1aaf3faca8a3",
+    "63f137ed-9b74-490d-9c61-5ea6d354a4f2",
     "1662588804d21a679e",
     "165843282650252f95",
     "1658433009e6ffa558"
