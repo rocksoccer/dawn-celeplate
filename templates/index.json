@@ -744,6 +744,89 @@
         "padding_bottom": 36
       }
     },
+    "cc4f9f55-0e1b-4122-9403-3defb9f6a91e": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "adef91ab-a6bd-4a11-ae45-1973d37d09bd": {
+          "type": "heading",
+          "settings": {
+            "heading": "BLOCK MEAT",
+            "heading_size": "h1"
+          }
+        },
+        "c63fb843-a9e3-42eb-adc9-c21ada4e4097": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Perfect for families who love to take control of their culinary adventures. With our premium block meat selection, you have the freedom to process and cook the meat just the way you like it. Experience the joy of creating delicious masterpieces in your own kitchen, ensuring every bite is cooked to perfection. Explore our Block Meat Collection today and unlock a world of culinary possibilities.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "4586b764-97f6-431d-9f7f-c1a722ca5c58": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/seafood"
+          }
+        }
+      },
+      "block_order": [
+        "adef91ab-a6bd-4a11-ae45-1973d37d09bd",
+        "c63fb843-a9e3-42eb-adc9-c21ada4e4097",
+        "4586b764-97f6-431d-9f7f-c1a722ca5c58"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_349339216.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "7518042f-9fc9-4792-afe7-4421ef0ddf34": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "block-meat",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
     "1662588804d21a679e": {
       "type": "custom-liquid",
       "disabled": true,
@@ -879,6 +962,8 @@
     "1e2e1bd9-5c38-4c22-9710-51915b5d1126",
     "25f1eee2-bcfb-4ecb-9e07-02b7108ade28",
     "d0c2d5b9-314e-4eb1-bd4f-faf47e156ca5",
+    "cc4f9f55-0e1b-4122-9403-3defb9f6a91e",
+    "7518042f-9fc9-4792-afe7-4421ef0ddf34",
     "1662588804d21a679e",
     "165843282650252f95",
     "1658433009e6ffa558"
