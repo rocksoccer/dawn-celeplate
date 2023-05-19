@@ -214,8 +214,91 @@
         "card_background_color": "rgba(0,0,0,0)"
       }
     },
+    "1212a82d-f405-4ca1-b153-8cf266ce031b": {
+      "type": "multicolumn",
+      "blocks": {
+        "f7562583-6e82-406e-a570-7722d4e3203b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_02_e3c67e73-3e46-48a3-a65f-eaf58dff2603.jpg",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "9b59f8a0-c041-49f3-a3d2-0d6646fefd61": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_04_3d1a4e06-4816-4576-a698-2b192d1dcf38.gif",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "857bfcfc-a3e9-4414-be7c-46f22029da7e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_06_5a64fc9c-18f8-4ef3-ba4c-881c2e589367.gif",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "62823e5c-f4c7-4a0f-bb1f-2c925dbb1dc3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_08_5ecaf766-81ba-43e3-b9ce-9cf9f0855222.gif",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "f7562583-6e82-406e-a570-7722d4e3203b",
+        "9b59f8a0-c041-49f3-a3d2-0d6646fefd61",
+        "857bfcfc-a3e9-4414-be7c-46f22029da7e",
+        "62823e5c-f4c7-4a0f-bb1f-2c925dbb1dc3"
+      ],
+      "settings": {
+        "title": "How it works?",
+        "center_title": true,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "rgba(0,0,0,0)",
+        "override_card_background_color": false,
+        "card_background_color": "rgba(0,0,0,0)"
+      }
+    },
     "ca1b4088-941a-41a5-b778-30ef88d5df17": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "b007c266-1424-4227-bf01-b40720c6e790": {
           "type": "column",
@@ -603,6 +686,7 @@
     "9de40696-0452-4abf-84e1-f54443045820",
     "2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729",
     "514e8b6a-bad3-4a50-8532-e3a6128fc776",
+    "1212a82d-f405-4ca1-b153-8cf266ce031b",
     "ca1b4088-941a-41a5-b778-30ef88d5df17",
     "banner",
     "1790faed-ce48-4ad1-9e96-f849676dd8cf",
