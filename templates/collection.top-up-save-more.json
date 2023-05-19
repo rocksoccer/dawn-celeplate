@@ -77,6 +77,7 @@
     },
     "2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-0": {
           "type": "column",
@@ -150,7 +151,7 @@
         "59fa45e1-13de-4ff3-b560-a3b134bbcb6c": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cart_639e7746-c1f5-4134-81db-32d30007d002.png",
+            "image": "shopify:\/\/shop_images\/30_text.png",
             "title": "",
             "text": "",
             "html_text": "",
@@ -162,7 +163,7 @@
         "81ec5a83-dc9e-4fc0-ab65-2f42623f9dc5": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/date.png",
+            "image": "shopify:\/\/shop_images\/early_bird_text.png",
             "title": "",
             "text": "",
             "html_text": "",
@@ -174,6 +175,75 @@
         "389b1eb1-0c04-4ae4-9580-0df31c9a5255": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/member_text.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "59fa45e1-13de-4ff3-b560-a3b134bbcb6c",
+        "81ec5a83-dc9e-4fc0-ab65-2f42623f9dc5",
+        "389b1eb1-0c04-4ae4-9580-0df31c9a5255"
+      ],
+      "settings": {
+        "title": "Member's benefits",
+        "center_title": true,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "rgba(0,0,0,0)",
+        "override_card_background_color": false,
+        "card_background_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ca1b4088-941a-41a5-b778-30ef88d5df17": {
+      "type": "multicolumn",
+      "blocks": {
+        "b007c266-1424-4227-bf01-b40720c6e790": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cart_639e7746-c1f5-4134-81db-32d30007d002.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "d43bccf3-a05e-4800-ba63-6065d5fbc16c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/date.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "014b6b66-d012-40ad-ac97-d329365558e2": {
+          "type": "column",
+          "settings": {
             "image": "shopify:\/\/shop_images\/codes.png",
             "title": "",
             "text": "",
@@ -183,7 +253,7 @@
             "column_link": ""
           }
         },
-        "70205568-916a-447d-b98c-71953af1405f": {
+        "eac478c7-093a-42b1-b7c6-3b92c33c5796": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/apply_4fd61e76-ccec-4d9f-8629-62cef84553b2.png",
@@ -197,10 +267,10 @@
         }
       },
       "block_order": [
-        "59fa45e1-13de-4ff3-b560-a3b134bbcb6c",
-        "81ec5a83-dc9e-4fc0-ab65-2f42623f9dc5",
-        "389b1eb1-0c04-4ae4-9580-0df31c9a5255",
-        "70205568-916a-447d-b98c-71953af1405f"
+        "b007c266-1424-4227-bf01-b40720c6e790",
+        "d43bccf3-a05e-4800-ba63-6065d5fbc16c",
+        "014b6b66-d012-40ad-ac97-d329365558e2",
+        "eac478c7-093a-42b1-b7c6-3b92c33c5796"
       ],
       "settings": {
         "title": "How it works",
@@ -533,6 +603,7 @@
     "9de40696-0452-4abf-84e1-f54443045820",
     "2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729",
     "514e8b6a-bad3-4a50-8532-e3a6128fc776",
+    "ca1b4088-941a-41a5-b778-30ef88d5df17",
     "banner",
     "1790faed-ce48-4ad1-9e96-f849676dd8cf",
     "product-grid",
