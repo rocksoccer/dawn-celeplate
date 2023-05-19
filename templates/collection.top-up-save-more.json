@@ -36,115 +36,6 @@
         "show_text_below": false
       }
     },
-    "9de40696-0452-4abf-84e1-f54443045820": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--16811167678699__9de40696-0452-4abf-84e1-f54443045820-16838879845c7337ce-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Join the Club",
-            "heading_size": "h1"
-          }
-        },
-        "template--16811167678699__9de40696-0452-4abf-84e1-f54443045820-16838879845c7337ce-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Get all member's benefits with just <strong>one<\/strong> pre-paid credit purchase:<\/p><ul><li><strong>Top up & get extra credit for free<\/strong><\/li><li>Early access to our newest arrivals<\/li><li>Early access to limited edition products<\/li><li>Exclusive discounts and offers <strong>via email<\/strong><\/li><\/ul>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16811167678699__9de40696-0452-4abf-84e1-f54443045820-16838879845c7337ce-0",
-        "template--16811167678699__9de40696-0452-4abf-84e1-f54443045820-16838879845c7337ce-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Frame_22_2_8b3d39e7-b591-4059-b5e9-419b768b554b.png",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "mobile_padding_left": 16,
-        "mobile_padding_right": 16
-      }
-    },
-    "2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/30.png",
-            "title": "Top up and get extra credits",
-            "text": "",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bird.png",
-            "title": "Early access for everything",
-            "text": "",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/offers_c4ed12de-992b-4d66-b95d-27033ea417bf.png",
-            "title": "Exlusive member's only perks",
-            "text": "",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-0",
-        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-2",
-        "template--16811167678699__2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729-16844091608dcd19ef-1"
-      ],
-      "settings": {
-        "title": "Member's benefits",
-        "center_title": true,
-        "desktop_width_percentage": 60,
-        "mobile_width_percentage": 100,
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "override_background_color": false,
-        "background_color": "rgba(0,0,0,0)",
-        "override_card_background_color": false,
-        "card_background_color": "rgba(0,0,0,0)"
-      }
-    },
     "514e8b6a-bad3-4a50-8532-e3a6128fc776": {
       "type": "multicolumn",
       "blocks": {
@@ -476,6 +367,22 @@
         "padding_bottom": 36
       }
     },
+    "4d960b52-0609-4c91-bf74-87a45509aa59": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_22_3315071d-b338-4d4d-80bb-b6bc1f127f39.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "766a085e-0489-43b1-9603-e2d46db22e9f": {
       "type": "collapsible-content",
       "blocks": {
@@ -683,14 +590,13 @@
   },
   "order": [
     "c342654c-06e9-4d39-b965-26557de8e9f9",
-    "9de40696-0452-4abf-84e1-f54443045820",
-    "2ddc9b0a-b2df-4a1f-81d7-c9daa4aac729",
     "514e8b6a-bad3-4a50-8532-e3a6128fc776",
     "1212a82d-f405-4ca1-b153-8cf266ce031b",
     "ca1b4088-941a-41a5-b778-30ef88d5df17",
     "banner",
     "1790faed-ce48-4ad1-9e96-f849676dd8cf",
     "product-grid",
+    "4d960b52-0609-4c91-bf74-87a45509aa59",
     "766a085e-0489-43b1-9603-e2d46db22e9f",
     "44ea8172-b3f8-4020-93e0-26898c7b51c4",
     "aed0c8f8-05f4-4192-89be-c7250f9869a0",
