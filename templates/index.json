@@ -85,6 +85,48 @@
         "padding_bottom": 36
       }
     },
+    "4395ed29-1d4c-451a-b317-e1f71310932f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Design Your Own Korean Table BBQ<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Create a unique and personalized dining experience. Choose from a variety of meats, and pair them with your favorite sauces.<\/p>"
+          }
+        },
+        "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "https:\/\/celeplate.co.uk\/products\/design-your-korean-table-bbq",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-0",
+        "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-1",
+        "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "57290c06-d6c8-475d-bf09-96fe0252d3be": {
       "type": "featured-collection",
       "settings": {
@@ -93,11 +135,11 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "korean-table-bbq",
+        "collection": "korean-table-bbq-meat-selection",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -720,6 +762,7 @@
     "image_banner",
     "4d0c4abe-5996-4b81-91de-6f5aad639c2a",
     "featured_collection",
+    "4395ed29-1d4c-451a-b317-e1f71310932f",
     "57290c06-d6c8-475d-bf09-96fe0252d3be",
     "e2bad3ab-ec3b-4f32-b365-2463f0208ff4",
     "165463346874b75c1c",
