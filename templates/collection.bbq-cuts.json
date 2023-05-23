@@ -24,6 +24,48 @@
         "color_scheme": "background-1"
       }
     },
+    "ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Premium thinly sliced meat selection<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Meet all your expectations of high-quality meat.<\/p>"
+          }
+        },
+        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-0",
+        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-1",
+        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -48,6 +90,7 @@
   "order": [
     "2ba5539b-f7f5-4f98-b31f-6319186f0c49",
     "banner",
+    "ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d",
     "product-grid"
   ]
 }
