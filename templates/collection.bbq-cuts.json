@@ -135,6 +135,68 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "52cf4891-d91a-49f0-acac-6892c733a4c2": {
+      "type": "rich-text",
+      "blocks": {
+        "40bc91c3-272e-40dd-afff-0fb38ff6aa2b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>More to your Korean Table BBQ<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "03000b05-72f0-4dd4-b650-b2bf2872830f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In addition to meat and sauce, you can also choose more Korean-style appetizers and vegetables.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "40bc91c3-272e-40dd-afff-0fb38ff6aa2b",
+        "03000b05-72f0-4dd4-b650-b2bf2872830f"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "acb19b0c-3b3d-4209-862c-5840c098d3f4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-others",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -143,6 +205,8 @@
     "ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d",
     "product-grid",
     "0b419b7d-c0a3-4e02-8be3-414c82a07e97",
-    "ae6e0a1d-e780-4ffb-a3c7-a82ae50a1a58"
+    "ae6e0a1d-e780-4ffb-a3c7-a82ae50a1a58",
+    "52cf4891-d91a-49f0-acac-6892c733a4c2",
+    "acb19b0c-3b3d-4209-862c-5840c098d3f4"
   ]
 }
