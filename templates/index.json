@@ -238,7 +238,7 @@
         "cef73e60-36cd-4f61-ad76-c6fb8b62698a": {
           "type": "heading",
           "settings": {
-            "heading": "CELEBRATION",
+            "heading": "Chef-prepared Meal",
             "heading_size": "h1"
           }
         },
@@ -252,7 +252,7 @@
         "8ee0aeac-2386-457f-80a7-520e75b3477f": {
           "type": "button",
           "settings": {
-            "button_label": "Plan now",
+            "button_label": "Explore now",
             "button_link": "shopify:\/\/pages\/celebrations"
           }
         }
