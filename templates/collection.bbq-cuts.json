@@ -39,23 +39,11 @@
           "settings": {
             "text": "<p>Meet all your expectations of high-quality meat.<\/p>"
           }
-        },
-        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-0",
-        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-1",
-        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-2"
+        "template--16807891992811__ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d-1684835297fccd6ddc-1"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -85,12 +73,76 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0b419b7d-c0a3-4e02-8be3-414c82a07e97": {
+      "type": "rich-text",
+      "blocks": {
+        "9dd32173-7dc6-4d1f-bf29-406878f883d4": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Expertly prepared Korean Sauces and Dips<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "d45ca90a-4b76-4670-88ee-efb52ab8e3d5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please choose our carefully prepared Korean sauce to add more flavor to your BBQ.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9dd32173-7dc6-4d1f-bf29-406878f883d4",
+        "d45ca90a-4b76-4670-88ee-efb52ab8e3d5"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "ae6e0a1d-e780-4ffb-a3c7-a82ae50a1a58": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "korean-table-bbq-sauce",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "transparent",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "2ba5539b-f7f5-4f98-b31f-6319186f0c49",
     "banner",
     "ef1dc94f-7491-4768-b8e0-eae6e3ecdf7d",
-    "product-grid"
+    "product-grid",
+    "0b419b7d-c0a3-4e02-8be3-414c82a07e97",
+    "ae6e0a1d-e780-4ffb-a3c7-a82ae50a1a58"
   ]
 }
