@@ -383,7 +383,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections\/bbq-cuts"
+            "button_link": "shopify:\/\/collections\/korean-table-bbq"
           }
         }
       },
@@ -421,7 +421,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "bbq-cuts",
+        "collection": "korean-table-bbq",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
