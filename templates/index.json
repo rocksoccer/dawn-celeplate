@@ -445,13 +445,96 @@
         "padding_bottom": 36
       }
     },
+    "2f20a881-063d-4de6-a4d9-bf092317ced5": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "59763fff-8e71-4505-8ab2-523ddd6a812f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Outdoor BBQ",
+            "heading_size": "h1"
+          }
+        },
+        "cdae583b-b63c-4095-af15-b3314677fbe7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get ready to sizzle and grill in the great outdoors with our premium selection of BBQ meats. Whether you're hosting a backyard cookout or heading to the park for a picnic, our outdoor BBQ meat section has everything you need to create mouthwatering, grilled-to-perfection dishes.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "f8c6f6bc-e44f-4b7f-8778-d3a78d33cc60": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify:\/\/collections\/korean-table-bbq"
+          }
+        }
+      },
+      "block_order": [
+        "59763fff-8e71-4505-8ab2-523ddd6a812f",
+        "cdae583b-b63c-4095-af15-b3314677fbe7",
+        "f8c6f6bc-e44f-4b7f-8778-d3a78d33cc60"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_185800252.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "-8.3335",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 24,
+        "padding_bottom": 4,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "rgba(0,0,0,0)",
+        "text_area_background_color": "#ffffff"
+      }
+    },
+    "f9d98514-fab0-46b5-a934-c0da19a3a95f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "outdoor-bbq",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "override_color_scheme_background": false,
+        "override_section_background_color": "#f6f6f6",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_serve_content": true,
+        "show_product_short_description": false,
+        "show_rating": false,
+        "show_shadow": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
     "c3b72c80-f28c-4d73-8a9b-dc2efaf0cbf1": {
       "type": "image-with-text-enhanced",
       "blocks": {
         "6aa8f105-6ef0-424e-a31a-70aaafd94d3a": {
           "type": "heading",
           "settings": {
-            "heading": "HOTPOT MEAT CUTS",
+            "heading": "HOTPOT",
             "heading_size": "h1"
           }
         },
@@ -956,6 +1039,8 @@
     "135128ec-0ba1-496c-8efb-f0ba48ef5839",
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54",
     "b66eb8dd-a4af-49e0-a061-1611982ea4a0",
+    "2f20a881-063d-4de6-a4d9-bf092317ced5",
+    "f9d98514-fab0-46b5-a934-c0da19a3a95f",
     "c3b72c80-f28c-4d73-8a9b-dc2efaf0cbf1",
     "a4afc5a1-7bf9-4f6e-a7f2-1aaf3faca8a3",
     "63f137ed-9b74-490d-9c61-5ea6d354a4f2",
