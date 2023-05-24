@@ -45,6 +45,13 @@
           "settings": {
           }
         },
+        "e3fa0476-0c49-41c5-b5f3-8849040f6941": {
+          "type": "text",
+          "settings": {
+            "text": "Limited offer: £1.99",
+            "text_style": "body"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -111,6 +118,7 @@
         "description",
         "variant_picker",
         "1f10a208-5842-48f8-894d-d3c6b7338dbe",
+        "e3fa0476-0c49-41c5-b5f3-8849040f6941",
         "quantity_selector",
         "buy_buttons",
         "share",
