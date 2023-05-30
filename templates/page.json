@@ -8,6 +8,22 @@
         "padding_bottom": 28
       }
     },
+    "6c6d0e5d-c8a0-45bc-8bd0-424b93dc3e57": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_3_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "02ff9711-caf7-4318-bc82-67a0b429e472": {
       "type": "rich-text",
       "blocks": {
@@ -35,7 +51,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "c190739e-2baf-4b18-955c-c29da20be8ef": {
@@ -75,6 +91,7 @@
   },
   "order": [
     "main",
+    "6c6d0e5d-c8a0-45bc-8bd0-424b93dc3e57",
     "02ff9711-caf7-4318-bc82-67a0b429e472",
     "c190739e-2baf-4b18-955c-c29da20be8ef",
     "6de9f6ac-2f08-480d-8f13-60b4a525e21a"
