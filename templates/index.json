@@ -358,7 +358,7 @@
           "type": "button",
           "settings": {
             "button_label": "Explore now",
-            "button_link": "shopify:\/\/pages\/celebrations"
+            "button_link": "shopify:\/\/pages\/chef-prepared-meal"
           }
         }
       },
