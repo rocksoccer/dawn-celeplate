@@ -108,7 +108,7 @@
         "0a8ae6ab-d225-4ccd-b5a8-1486a6b31c3a"
       ],
       "settings": {
-        "title": "HOW IT WORKS",
+        "title": "How It Works?",
         "center_title": true,
         "desktop_width_percentage": 60,
         "mobile_width_percentage": 100,
@@ -151,7 +151,7 @@
         "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-2": {
           "type": "button",
           "settings": {
-            "button_label": "Get Offer",
+            "button_label": "Get offer",
             "button_link": "shopify:\/\/products\/limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g"
           }
         }
@@ -197,7 +197,7 @@
         "8ee0aeac-2386-457f-80a7-520e75b3477f": {
           "type": "button",
           "settings": {
-            "button_label": "Explore Now",
+            "button_label": "Explore now",
             "button_link": "shopify:\/\/pages\/chef-prepared-meal"
           }
         }
