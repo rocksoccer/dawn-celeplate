@@ -131,210 +131,101 @@
         "card_background_color": "rgba(0,0,0,0)"
       }
     },
-    "83dfeb02-43ed-4a81-8c53-2791fb434db2": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "top-up",
-        "products_to_show": 2,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "#f6f6f6",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 4,
-        "padding_bottom": 36
-      }
-    },
-    "b7b824ac-7745-4db5-a0f8-3f94f0a21c7a": {
-      "type": "featured-product",
-      "disabled": true,
+    "eff641d1-6a90-4243-a35e-3be99ea2f954": {
+      "type": "image-with-text",
       "blocks": {
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h2"
-          }
-        },
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-2": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-4": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-0",
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-1",
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-2",
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-3",
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-4",
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-5",
-        "template--16718750679275__b7b824ac-7745-4db5-a0f8-3f94f0a21c7a-1684418367f4f86e61-6"
-      ],
-      "settings": {
-        "product": "prepaid-credit",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "8f39a763-750c-4cfc-a1bf-55b49b92e561": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16718750679275__8f39a763-750c-4cfc-a1bf-55b49b92e561-16849343124c2b021a-0": {
+        "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Weekly Summer £1.99 Special Offer:<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16718750679275__8f39a763-750c-4cfc-a1bf-55b49b92e561-16849343124c2b021a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Please note that this offer can only be applied once per order.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16718750679275__8f39a763-750c-4cfc-a1bf-55b49b92e561-16849343124c2b021a-0",
-        "template--16718750679275__8f39a763-750c-4cfc-a1bf-55b49b92e561-16849343124c2b021a-1"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "b9f4346d-7cfe-4062-9abf-c3bd2fc122f2": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-1": {
-          "type": "title",
-          "settings": {
+            "heading": "Summer Weekly Offer £1.99",
             "heading_size": "h2"
           }
         },
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-2": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "bda6ca3d-389e-4513-a331-b492734f9538": {
+        "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-1": {
           "type": "text",
           "settings": {
-            "text": "Perfect for Japanese style hotpot Sukiyaki 鋤焼き, Chinese style hotpot 火锅.",
+            "text": "<p>This week, we are excited to introduce our special £1.99 weekly offer: Wagyu Beef Chuck Shabu. It is perfect for Japanese-style hotpot Sukiyaki (鋤焼き), Chinese-style hotpot (火锅), and more.<\/p>",
             "text_style": "body"
           }
         },
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-3": {
-          "type": "variant_picker",
-          "disabled": true,
+        "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-2": {
+          "type": "button",
           "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-4": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "button_label": "Get Offer",
+            "button_link": "shopify:\/\/products\/limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g"
           }
         }
       },
       "block_order": [
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-0",
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-1",
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-2",
-        "bda6ca3d-389e-4513-a331-b492734f9538",
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-3",
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-4",
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-5",
-        "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-6"
+        "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-0",
+        "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-1",
+        "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-2"
       ],
       "settings": {
-        "product": "limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g",
+        "image": "shopify:\/\/shop_images\/limited_offer_home_page.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
+        "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "42c7dc7b-d80f-43ed-8f20-7b3feab09bab": {
+      "type": "image-with-text-enhanced",
+      "blocks": {
+        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Weekly Offer £1.99",
+            "heading_size": "h1"
+          }
+        },
+        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This week, we are excited to introduce our special £1.99 weekly offer: Wagyu Beef Chuck Shabu. It is perfect for Japanese-style hotpot Sukiyaki (鋤焼き), Chinese-style hotpot (火锅), and more.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Offer",
+            "button_link": "shopify:\/\/products\/limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-0",
+        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-1",
+        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/limited_offer_home_page.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "image_grid_item_width_offset": "0",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0,
+        "mobile_text_section_padding_left": 1.5,
+        "mobile_text_section_padding_bottom": 1.5,
+        "section_background_color": "transparent",
+        "text_area_background_color": "#FFFFFF"
       }
     },
     "73407611-7dff-46d1-b1f4-691185f07146": {
@@ -418,53 +309,6 @@
         "swipe_on_mobile": false,
         "padding_top": 4,
         "padding_bottom": 36
-      }
-    },
-    "135128ec-0ba1-496c-8efb-f0ba48ef5839": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "SUBSCRIPTION",
-            "heading_size": "h1"
-          }
-        },
-        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We believe that high-quality meat shouldn't just be reserved for special occasions. It should be a part of your everyday meals, too. That's why we offer a hassle-free subscription service that delivers premium quality meat to your doorstep on a regular basis.<\/p><p>Each box is thoughtfully curated by our expert butchers and inspired by the changing seasons, so you can experience a variety of flavors and textures throughout the year.<\/p><p>We've got a subscription plan to suit every taste and budget.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Discover more",
-            "button_link": "shopify:\/\/pages\/subscribe-and-save"
-          }
-        }
-      },
-      "block_order": [
-        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-0",
-        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-1",
-        "template--16718750679275__135128ec-0ba1-496c-8efb-f0ba48ef5839-16827117298ad085da-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/8meat30.png",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
       }
     },
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54": {
@@ -1137,13 +981,10 @@
   "order": [
     "9fb05fcf-7937-46d1-9400-1dbe9d387d99",
     "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2",
-    "83dfeb02-43ed-4a81-8c53-2791fb434db2",
-    "b7b824ac-7745-4db5-a0f8-3f94f0a21c7a",
-    "8f39a763-750c-4cfc-a1bf-55b49b92e561",
-    "b9f4346d-7cfe-4062-9abf-c3bd2fc122f2",
+    "eff641d1-6a90-4243-a35e-3be99ea2f954",
+    "42c7dc7b-d80f-43ed-8f20-7b3feab09bab",
     "73407611-7dff-46d1-b1f4-691185f07146",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
-    "135128ec-0ba1-496c-8efb-f0ba48ef5839",
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54",
     "b66eb8dd-a4af-49e0-a061-1611982ea4a0",
     "2f20a881-063d-4de6-a4d9-bf092317ced5",
