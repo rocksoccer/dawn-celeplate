@@ -245,7 +245,7 @@
         "template--16718750679275__8f39a763-750c-4cfc-a1bf-55b49b92e561-16849343124c2b021a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Limited offer of £1.99 will be applied automatically at checkout, one use per customer.<\/p>"
+            "text": "<p>Please note that this offer can only be applied once per order.<\/p>"
           }
         }
       },
@@ -286,7 +286,7 @@
         "bda6ca3d-389e-4513-a331-b492734f9538": {
           "type": "text",
           "settings": {
-            "text": "Limited Offer Now: £1.99",
+            "text": "Perfect for Japanese style hotpot Sukiyaki 鋤焼き, Chinese style hotpot 火锅.",
             "text_style": "body"
           }
         },
@@ -327,7 +327,7 @@
         "template--16718750679275__b9f4346d-7cfe-4062-9abf-c3bd2fc122f2-16849341768b08f772-6"
       ],
       "settings": {
-        "product": "wagyu-beef-sliced-curved",
+        "product": "limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_position": "left",
