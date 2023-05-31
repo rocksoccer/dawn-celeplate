@@ -144,14 +144,14 @@
         "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are excited to introduce our special £1.99 weekly offer: Wagyu Beef Chuck Shabu. It is perfect for Japanese-style hotpot Sukiyaki (鋤焼き), Chinese-style hotpot (火锅), and more.<\/p>",
+            "text": "<p>Shabu-shabu is a Japanese hotpot dish where thinly sliced meat. This week's offer is a perfect fit for not only Japanese-style, but also Chinese-style hotpot (火锅), and even more. Get inspired by <a href=\"\/pages\/packaging-qr\" target=\"_blank\" title=\"Packaging QR\">Celeplate Chef's Recipe<\/a> now.<\/p>",
             "text_style": "body"
           }
         },
         "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-2": {
           "type": "button",
           "settings": {
-            "button_label": "Get Offer Now",
+            "button_label": "Get Offer",
             "button_link": "shopify:\/\/products\/limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g"
           }
         }
