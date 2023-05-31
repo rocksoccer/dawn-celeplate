@@ -1,5 +1,47 @@
 {
   "sections": {
+    "9b5c9eb0-a115-48c6-931a-31f4ba4a6499": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16775012679915__9b5c9eb0-a115-48c6-931a-31f4ba4a6499-1685531415081235a8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Limited Weekly Offer £1.99<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16775012679915__9b5c9eb0-a115-48c6-931a-31f4ba4a6499-1685531415081235a8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get our best-selling Wagyu Beef Chuck Shabu for your next treat! This week, we proudly introduce the £1.99 offer on this delicious Wagyu Beef Chuck Shabu. It's perfect for Japanese, Chinese, and Korean-style hotpots. For more cooking ideas, visit <a href=\"\/pages\/packaging-qr\" target=\"_blank\" title=\"Packaging QR\">Celeplate Chef's Recipe<\/a> section to get inspired!<\/p>"
+          }
+        },
+        "template--16775012679915__9b5c9eb0-a115-48c6-931a-31f4ba4a6499-1685531415081235a8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get discount",
+            "button_link": "shopify:\/\/products\/limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16775012679915__9b5c9eb0-a115-48c6-931a-31f4ba4a6499-1685531415081235a8-0",
+        "template--16775012679915__9b5c9eb0-a115-48c6-931a-31f4ba4a6499-1685531415081235a8-1",
+        "template--16775012679915__9b5c9eb0-a115-48c6-931a-31f4ba4a6499-1685531415081235a8-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -441,6 +483,7 @@
     }
   },
   "order": [
+    "9b5c9eb0-a115-48c6-931a-31f4ba4a6499",
     "main",
     "7bc7d4e5-f9ec-49d7-a556-7fc8430232cc",
     "1658491360911f410d",
