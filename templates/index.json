@@ -137,14 +137,14 @@
         "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-0": {
           "type": "heading",
           "settings": {
-            "heading": "Summer Weekly Offer £1.99",
+            "heading": "This Week's Limited Offer £1.99",
             "heading_size": "h2"
           }
         },
         "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This week, we are excited to introduce our special £1.99 weekly offer: Wagyu Beef Chuck Shabu. It is perfect for Japanese-style hotpot Sukiyaki (鋤焼き), Chinese-style hotpot (火锅), and more.<\/p>",
+            "text": "<p>We are excited to introduce our special £1.99 weekly offer: Wagyu Beef Chuck Shabu. It is perfect for Japanese-style hotpot Sukiyaki (鋤焼き), Chinese-style hotpot (火锅), and more.<\/p>",
             "text_style": "body"
           }
         },
@@ -175,57 +175,6 @@
         "padding_bottom": 36,
         "mobile_padding_left": 0,
         "mobile_padding_right": 0
-      }
-    },
-    "42c7dc7b-d80f-43ed-8f20-7b3feab09bab": {
-      "type": "image-with-text-enhanced",
-      "blocks": {
-        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Weekly Offer £1.99",
-            "heading_size": "h1"
-          }
-        },
-        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>This week, we are excited to introduce our special £1.99 weekly offer: Wagyu Beef Chuck Shabu. It is perfect for Japanese-style hotpot Sukiyaki (鋤焼き), Chinese-style hotpot (火锅), and more.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get Offer",
-            "button_link": "shopify:\/\/products\/limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g"
-          }
-        }
-      },
-      "block_order": [
-        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-0",
-        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-1",
-        "template--16718750679275__42c7dc7b-d80f-43ed-8f20-7b3feab09bab-16855472131dacc71c-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/limited_offer_home_page.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "image_grid_item_width_offset": "0",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0,
-        "mobile_text_section_padding_left": 1.5,
-        "mobile_text_section_padding_bottom": 1.5,
-        "section_background_color": "transparent",
-        "text_area_background_color": "#FFFFFF"
       }
     },
     "73407611-7dff-46d1-b1f4-691185f07146": {
@@ -982,7 +931,6 @@
     "9fb05fcf-7937-46d1-9400-1dbe9d387d99",
     "d1ff9c98-ff03-4179-8b7e-e7696afbf9d2",
     "eff641d1-6a90-4243-a35e-3be99ea2f954",
-    "42c7dc7b-d80f-43ed-8f20-7b3feab09bab",
     "73407611-7dff-46d1-b1f4-691185f07146",
     "eabde4ce-7326-44ae-be0a-5fc3095a59c2",
     "80c02dfb-5d59-4ba1-a577-2bcb9c43cf54",
