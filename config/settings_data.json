@@ -210,15 +210,9 @@
 
     ],
     "blocks": {
-      "17442089763355273418": {
-        "type": "shopify:\/\/apps\/vify-professional-gift-cards\/blocks\/gift-card-issue\/43d9e0cc-139a-4d15-b0b8-63f2863afb32",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "6143736321357441667": {
-        "type": "shopify:\/\/apps\/tidio-live-chat-chatbots\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc",
-        "disabled": true,
+      "8171265131012698934": {
+        "type": "shopify:\/\/apps\/orichi-quantity-breaks\/blocks\/orichi-discount\/3f38eaa3-2a3f-4e55-bcc9-df5d3f75e351",
+        "disabled": false,
         "settings": {
         }
       }
