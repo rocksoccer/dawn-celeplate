@@ -197,7 +197,7 @@
         "8ee0aeac-2386-457f-80a7-520e75b3477f": {
           "type": "button",
           "settings": {
-            "button_label": "Explore now",
+            "button_label": "Explore Now",
             "button_link": "shopify:\/\/pages\/chef-prepared-meal"
           }
         }
@@ -266,7 +266,7 @@
         "5b1128b9-f2a6-4978-b467-d635e2916bfd": {
           "type": "heading",
           "settings": {
-            "heading": "Korean table BBQ",
+            "heading": "Korean Table BBQ",
             "heading_size": "h1"
           }
         },
