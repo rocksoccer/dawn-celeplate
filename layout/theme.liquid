@@ -256,7 +256,8 @@
 
 
                       {% include 'bss-product-labels-configs' %}
-                        </head>
+                        {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
+</head>
                  
 
   <body class="gradient">
