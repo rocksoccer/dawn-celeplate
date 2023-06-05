@@ -316,5 +316,7 @@
     {%- endif -%}
   {% render 'spurit_dmr_theme_snippet' %}
 {% render 'recurpay' %}
-{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}</body>
+{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %} {% include 'smile-initializer' %}
+
+</body>
 </html>
