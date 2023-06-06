@@ -1,49 +1,85 @@
 {
   "sections": {
-    "1632b083-7f8e-4442-9fdd-e06a606171e9": {
+    "c3d8ea23-6214-45e2-a52f-5ff6db87f4a1": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Family_gathering_02.png",
+        "image": "shopify:\/\/shop_images\/budaejjigaedate1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
-    "63f1aa60-6a4e-4ef4-8038-e72ea00e2048": {
+    "13f7e75c-ea18-4998-8e24-191f7541223a": {
       "type": "rich-text",
       "blocks": {
-        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-0": {
+        "template--16718750810347__13f7e75c-ea18-4998-8e24-191f7541223a-16860443299589b46c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>PARTY WITH FRIENDS<\/p>",
+            "heading": "<p>Chef-prepared Meal Kits<\/p>",
             "heading_size": "h1"
           }
         },
-        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-1": {
+        "template--16718750810347__13f7e75c-ea18-4998-8e24-191f7541223a-16860443299589b46c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Life can sometimes be fast-paced or filled with pressure, but a moment with friends brings back that element of fun and joy! Celeplate provides you with cultural dishes that spark a pleasant dining experience with your guests. With meal kits being both time and labour-saving, this allows you to be the ultimate host. Focusing your time on catching up with your mates, whilst the meal more or less handles itself. <\/p><p>Make your dining table more authentic with a gift set carefully selected for you by Celeplate.<\/p>"
+            "text": "<p>At Celeplate, we understand that life can be hectic and filled with responsibilities. That's why we offer a collection of meal kits designed to make your meal preparation effortless. From high-quality meats to flavorful sauces and fresh vegetables, we've got you covered. <\/p><p>With our meal kits, you can enjoy the convenience of easy and practical meal prep, allowing you to focus on spending quality time with your friends and guests. Let us take care of the details, so you can create an authentic dining experience at your table.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-0",
-        "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-1"
+        "template--16718750810347__13f7e75c-ea18-4998-8e24-191f7541223a-16860443299589b46c-0",
+        "template--16718750810347__13f7e75c-ea18-4998-8e24-191f7541223a-16860443299589b46c-1"
       ],
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 28,
-        "padding_bottom": 12
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1632b083-7f8e-4442-9fdd-e06a606171e9": {
+      "type": "image-banner",
+      "blocks": {
+        "c31d7c78-f479-47f2-bb11-449db6d960ba": {
+          "type": "heading",
+          "settings": {
+            "heading": "Party with Friends",
+            "heading_size": "h1"
+          }
+        },
+        "402b061c-2e39-4055-a2ce-7284895f6179": {
+          "type": "text",
+          "settings": {
+            "text": "Life can sometimes be fast-paced or filled with pressure, but a moment with friends brings back that element of fun and joy! With meal kits being both time and labour-saving, this allows you to be the ultimate host. Focusing your time on catching up with your mates, whilst the meal more or less handles itself.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "c31d7c78-f479-47f2-bb11-449db6d960ba",
+        "402b061c-2e39-4055-a2ce-7284895f6179"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/th-17475138813-1623x1080.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "64f928a8-fb4e-42e2-9904-47a0678c8b1a": {
@@ -86,50 +122,40 @@
         "padding_bottom": 28
       }
     },
-    "8b200bbd-8dd4-4c8e-a0c0-c84d53924333": {
+    "deca6e78-ec14-431a-a616-ed0538a79fed": {
       "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Dating_night_02.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "c4b938da-0852-4f78-a8a4-a881d82a59c3": {
-      "type": "rich-text",
       "blocks": {
-        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0": {
+        "b8db5b76-0542-4fd0-a165-00b52861a9f3": {
           "type": "heading",
           "settings": {
-            "heading": "<p>VALENTINE'S DATE NIGHT<\/p>",
+            "heading": "Valentine's Date Night",
             "heading_size": "h1"
           }
         },
-        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-1": {
+        "69e20245-897a-49a8-a62e-a2af1b8c151a": {
           "type": "text",
           "settings": {
-            "text": "<p>There’s nothing more romantic than being with your lover, indulging in a tasty dinner with a nice view. At Celeplate, you can share your favourite dish with someone special! With many romantic collections to choose from, you are bound to find a meal kit to add that romantic element to your dream date. Scented candles, chocolate, and a delicious meal - a recipe for an unforgettable date! <\/p><p>Make your dining experience more authentic with a gift set carefully selected for you by Celeplate. <\/p>"
+            "text": "With many romantic collections to choose from, you are bound to find a meal kit to add that romantic element to your dream date. Scented candles, chocolate, and a delicious meal - a recipe for an unforgettable date! Make your dining experience more authentic with a gift set carefully selected for you by Celeplate. ",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0",
-        "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-1"
+        "b8db5b76-0542-4fd0-a165-00b52861a9f3",
+        "69e20245-897a-49a8-a62e-a2af1b8c151a"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 28,
-        "padding_bottom": 12
+        "image": "shopify:\/\/shop_images\/koreantablebbqdate1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
       }
     },
     "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc": {
@@ -210,6 +236,42 @@
         "padding_bottom": 12
       }
     },
+    "87eebef8-6a31-4663-a6f7-9901d4fcd99d": {
+      "type": "image-banner",
+      "blocks": {
+        "4047b66d-5ab8-47ea-bc9b-3fa90aad7597": {
+          "type": "heading",
+          "settings": {
+            "heading": "Family Gathering",
+            "heading_size": "h1"
+          }
+        },
+        "29b7fabc-176f-409a-9bdf-321c3c082e71": {
+          "type": "text",
+          "settings": {
+            "text": "Time with family is often taken for granted, especially when life gets in the way. Celeplate make having a quality meal with loved ones easy, and a thing to look forward to! With many family-friendly meal options, bringing the family together is no longer a hassle. Creating an overall amazing experience for everyone!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "4047b66d-5ab8-47ea-bc9b-3fa90aad7597",
+        "29b7fabc-176f-409a-9bdf-321c3c082e71"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_283756559.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
     "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b": {
       "type": "featured-collection",
       "settings": {
@@ -244,15 +306,16 @@
     }
   },
   "order": [
+    "c3d8ea23-6214-45e2-a52f-5ff6db87f4a1",
+    "13f7e75c-ea18-4998-8e24-191f7541223a",
     "1632b083-7f8e-4442-9fdd-e06a606171e9",
-    "63f1aa60-6a4e-4ef4-8038-e72ea00e2048",
     "64f928a8-fb4e-42e2-9904-47a0678c8b1a",
     "main",
-    "8b200bbd-8dd4-4c8e-a0c0-c84d53924333",
-    "c4b938da-0852-4f78-a8a4-a881d82a59c3",
+    "deca6e78-ec14-431a-a616-ed0538a79fed",
     "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc",
     "c7c526f7-100e-48d1-88cd-797880d6bd00",
     "370022f9-bdfd-4cae-abc0-6172f38742d7",
+    "87eebef8-6a31-4663-a6f7-9901d4fcd99d",
     "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b"
   ]
 }
