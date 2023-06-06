@@ -144,7 +144,7 @@
         "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Shabu-shabu is a Japanese hotpot dish where thinly sliced meat. This week's offer is a perfect fit for not only Japanese-style, but also Chinese-style hotpot (火锅), and even more. Get inspired by <a href=\"\/pages\/packaging-qr\" target=\"_blank\" title=\"Packaging QR\">Celeplate Chef's Recipe<\/a> now.<\/p>",
+            "text": "<p>Prime Galbi is a type of rib, in this case boneless and thin cut. Usually cooked on tabletop grills for Korean Table BBQ, Japanese style BBQ, and even more. Get inspired by <a href=\"\/pages\/packaging-qr\" target=\"_blank\" title=\"Packaging QR\">Celeplate Chef's Recipe<\/a> now.<\/p>",
             "text_style": "body"
           }
         },
@@ -152,7 +152,7 @@
           "type": "button",
           "settings": {
             "button_label": "Get offer",
-            "button_link": "shopify:\/\/products\/limited-offer-wagyu-beef-chuck-shabu-和牛上脑-100g"
+            "button_link": "shopify:\/\/products\/limited-offer-prime-galbi-90g"
           }
         }
       },
@@ -162,7 +162,7 @@
         "template--16718750679275__eff641d1-6a90-4243-a35e-3be99ea2f954-16855477804c75a8fc-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/limited_offer_home_page_2.png",
+        "image": "shopify:\/\/shop_images\/primegalbilimitedoffer.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
