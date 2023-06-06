@@ -160,235 +160,6 @@
         "include_margins": true
       }
     },
-    "16582564410dbad73c": {
-      "type": "accordion",
-      "disabled": true,
-      "settings": {
-        "heading": "Meal kit Details",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": false
-      }
-    },
-    "1658221557854215e8": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "16582215571d751c54-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Product_image_01_8d53afb2-97f4-4d1a-a9c4-85964af174bb.png",
-            "title": "Dish",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "16582215571d751c54-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Product_image_01_4cc7422d-3bab-4182-b221-563625ade625.png",
-            "title": "Dish",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "16582215571d751c54-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Product_image_01_4aff7516-95b0-4f48-bdba-a5be97928e6e.png",
-            "title": "Dish",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        },
-        "00573e42-0023-4c41-b5fa-9515e670f15c": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Product_image_01_fa7b801d-69a8-4c47-aee2-119141faeffa.png",
-            "title": "Dish",
-            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
-            "html_text": "",
-            "link_label": "",
-            "link": "",
-            "column_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16582215571d751c54-0",
-        "16582215571d751c54-1",
-        "16582215571d751c54-2",
-        "00573e42-0023-4c41-b5fa-9515e670f15c"
-      ],
-      "settings": {
-        "title": "",
-        "center_title": false,
-        "desktop_width_percentage": 60,
-        "mobile_width_percentage": 100,
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 12,
-        "padding_bottom": 12,
-        "override_background_color": false,
-        "background_color": "rgba(0,0,0,0)",
-        "override_card_background_color": false,
-        "card_background_color": "rgba(0,0,0,0)"
-      }
-    },
-    "1658259542695d2e5e": {
-      "type": "accordion",
-      "disabled": true,
-      "settings": {
-        "heading": "Cooking Instructions",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": false
-      }
-    },
-    "1658260349a43e5800": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "16582603491b061838-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "VIEW COOKING INSTRUCTIONS",
-            "button_link": "shopify:\/\/pages\/lahmacun",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "d68b389c-1ab6-4ed3-b873-90db7768c53e": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p><strong>Prime Galbi<\/strong><\/p><p>Put 1 tsp of oil into a hot pan. Pan-fry prime galbi in the pan for 15s each side. Serve with sesame oil and salt.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16582603491b061838-2",
-        "d68b389c-1ab6-4ed3-b873-90db7768c53e"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "16582605028fdc16b6": {
-      "type": "accordion",
-      "disabled": true,
-      "settings": {
-        "heading": "Storage",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": false
-      }
-    },
-    "1658260513b99c1963": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "1658260513ab6dd4c6-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Keep refrigerated below 5°C. Once opened consume within 2 days.<\/p><p>Keep covered, store at the bottom of the refrigerator.<\/p><p>Do not exceed use by date.<\/p><p>Not suitable for home freezing.<\/p><p>For use by date see the front of pack.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1658260513ab6dd4c6-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "1658260523d7001a3e": {
-      "type": "accordion",
-      "disabled": true,
-      "settings": {
-        "heading": "Allergens",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": false
-      }
-    },
-    "1658260529146899e2": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "16582605290744eb35-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Main allergens: <strong>None.<\/strong><\/p><p>Ingredients: Boneless Beef Chuck Short Ribs (100%).<\/p>"
-          }
-        },
-        "defad435-1576-4d49-ae15-169dfa9fd078": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "VIEW DETAILED INGREDIENTS & NUTRITIONS",
-            "button_link": "shopify:\/\/pages\/korean-table-bbq-ingredients-nutritions",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16582605290744eb35-1",
-        "defad435-1576-4d49-ae15-169dfa9fd078"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "disabled": true,
@@ -405,6 +176,213 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 28
+      }
+    },
+    "f63cb835-7f7c-407c-ad69-8363a45f2ffa": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16718749925611__f63cb835-7f7c-407c-ad69-8363a45f2ffa-16860458615cfe7256-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3mm thinly sliced by experts",
+            "heading_size": "h2"
+          }
+        },
+        "template--16718749925611__f63cb835-7f7c-407c-ad69-8363a45f2ffa-16860458615cfe7256-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>The 3mm thin slices are best suited for Korean and Japanese-style barbecue. The cutting technique of slicing against the grain maximizes the even marbling of the meat slices. <\/h4><h4>Additionally, the thin slices can be easily transformed into shredded meat or bite-sized pieces, offering versatility in cooking. <\/h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16718749925611__f63cb835-7f7c-407c-ad69-8363a45f2ffa-16860458615cfe7256-0",
+        "template--16718749925611__f63cb835-7f7c-407c-ad69-8363a45f2ffa-16860458615cfe7256-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_205184230_3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "9ad18369-5d56-4e9e-afa3-2f135fdbd092": {
+      "type": "image-with-text",
+      "blocks": {
+        "f7396832-bfb1-4f22-8f0b-400c2bfecb2d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready to cook straight from package",
+            "heading_size": "h2"
+          }
+        },
+        "fb27975b-5717-4e55-9d00-8db2d6893e2f": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>With simple accompaniments and seasonings, you can effortlessly create delicious dishes. The pre-sliced meat eliminates the need for intricate knife skills and avoids the complexity of handling raw meat.<\/h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "f7396832-bfb1-4f22-8f0b-400c2bfecb2d",
+        "fb27975b-5717-4e55-9d00-8db2d6893e2f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_8.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "d44b2682-1d45-4d2f-b738-95c8c281e37e": {
+      "type": "image-with-text",
+      "blocks": {
+        "abcb8210-bf80-4f2d-9d55-0c783d354cb2": {
+          "type": "heading",
+          "settings": {
+            "heading": "Angus grass-fed beef",
+            "heading_size": "h2"
+          }
+        },
+        "4ee43d83-5f60-4daa-8d98-42d8ec22352b": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Locally sourced from Angus cattle in the UK, our beef is freshly slaughtered and immediately prepared for sale after being aged. <\/h4><h4>As we directly communicate with suppliers and have the same source as supermarkets like Waitrose and Marks & Spencer, the quality of our meat is guaranteed, providing you with peace of mind when it comes to cooking.<\/h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "abcb8210-bf80-4f2d-9d55-0c783d354cb2",
+        "4ee43d83-5f60-4daa-8d98-42d8ec22352b"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/peter-hoogmoed-lHsqtj339Po-unsplash.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "28df20e4-c493-4c2f-8cf7-312dd2cb49d6": {
+      "type": "image-with-text",
+      "blocks": {
+        "aeea8f0d-e1a6-4c8c-ae70-0211b2fb497c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beef short ribs from beef chuck",
+            "heading_size": "h2"
+          }
+        },
+        "d5c5caef-85d1-4a84-a197-64b3b47a26c9": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Beef chuck contains a good amount of connective tissue, which breaks down during cooking and adds richness to stews, roasts, and braised dishes. <\/h4><h4>Additionally, beef chuck is versatile and can be used for various preparations, including grilling, braising, and slow cooking.<\/h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "aeea8f0d-e1a6-4c8c-ae70-0211b2fb497c",
+        "d5c5caef-85d1-4a84-a197-64b3b47a26c9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wagyushorribsboneless.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "1818a68f-ddd2-43b8-902e-b16e77aaef93": {
+      "type": "image-with-text",
+      "blocks": {
+        "24b152dc-90b1-48bf-b59c-d3d73c897e73": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rich marbling tantalizes taste buds",
+            "heading_size": "h2"
+          }
+        },
+        "ae081e97-184b-4115-be00-fc4d4ba7d065": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>It is a flavorful cut of meat that is attached to the upper part of the shoulder blade.<\/h4><h4>With a balanced marbling of fat, it offers a delightful combination of outer fragrance and tender texture. The natural tendons in the meat transform into a soft and chewy mouthfeel, reminiscent of collagen protein.<\/h4>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "24b152dc-90b1-48bf-b59c-d3d73c897e73",
+        "ae081e97-184b-4115-be00-fc4d4ba7d065"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/korean_bbq.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "9fbbf2a1-d290-4254-b0db-068930badf5e": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "More than Korean Table BBQ: Meet our Chef's Recipe",
+        "heading_size": "h2",
+        "blog": "bbq-thinly-sliced-meat",
+        "post_limit": 3,
+        "columns_desktop": 2,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "9e41b8c3-fc1d-440c-9db2-2ed6529782ea": {
@@ -519,15 +497,13 @@
     "main",
     "7bc7d4e5-f9ec-49d7-a556-7fc8430232cc",
     "1658491360911f410d",
-    "16582564410dbad73c",
-    "1658221557854215e8",
-    "1658259542695d2e5e",
-    "1658260349a43e5800",
-    "16582605028fdc16b6",
-    "1658260513b99c1963",
-    "1658260523d7001a3e",
-    "1658260529146899e2",
     "product-recommendations",
+    "f63cb835-7f7c-407c-ad69-8363a45f2ffa",
+    "9ad18369-5d56-4e9e-afa3-2f135fdbd092",
+    "d44b2682-1d45-4d2f-b738-95c8c281e37e",
+    "28df20e4-c493-4c2f-8cf7-312dd2cb49d6",
+    "1818a68f-ddd2-43b8-902e-b16e77aaef93",
+    "9fbbf2a1-d290-4254-b0db-068930badf5e",
     "9e41b8c3-fc1d-440c-9db2-2ed6529782ea",
     "16582608756ffd25d6"
   ]
