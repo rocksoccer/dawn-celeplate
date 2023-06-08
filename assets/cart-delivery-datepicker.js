@@ -5,7 +5,7 @@ function setCheckoutButton(enabled) {
     $('#checkout').prop('disabled', false);
   } else {
     // there seems to be a bug that if disabled, some code reenable it without a delay
-    setTimeout(function(){ $('#checkout').prop('disabled', true) }, 500);
+    setTimeout(function(){ $('#checkout').prop('disabled', true) }, 1300);
   }
 }
 
