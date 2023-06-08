@@ -10,6 +10,8 @@ function loadCartDelivery() {
         if (dateObj.getTime() >= getMinDate().getTime()) {
           $('#cart-delivery-datepicker').pickadate('picker').set('select', dateObj);
         }
+      } else {
+        $('#checkout').prop('disabled', true);
       }
     },
     "json"
@@ -31,6 +33,7 @@ function onCartDeliveryDateChange(picker) {
     "json"
   ).done(function () {
     $('#cart-delivery-datepicker-hidden').val(date);
+    $('#checkout').prop('disabled', !date);
   });
 }
 
