@@ -11,7 +11,7 @@ function loadCartDelivery() {
           $('#cart-delivery-datepicker').pickadate('picker').set('select', dateObj);
         }
       } else {
-        setTimeout(function(){ $('#checkout').prop('disabled', true) }, 1000);
+        setTimeout(function(){ $('#checkout').prop('disabled', true) }, 500);
         console.log("disable buttong from loadCartDelivery");
       }
     },
@@ -38,7 +38,7 @@ function onCartDeliveryDateChange(picker) {
     if (!!date) {
       $('#checkout').prop('disabled', false);
     } else {
-      setTimeout(function(){ $('#checkout').prop('disabled', true) }, 1000);
+      setTimeout(function(){ $('#checkout').prop('disabled', true) }, 500);
     }
     
     console.log("setting date from onCartDeliveryDateChange");
