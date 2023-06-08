@@ -12,6 +12,7 @@ function loadCartDelivery() {
         }
       } else {
         $('#checkout').prop('disabled', true);
+        console.log("disable buttong from loadCartDelivery");
       }
     },
     "json"
@@ -33,6 +34,9 @@ function onCartDeliveryDateChange(picker) {
     "json"
   ).done(function () {
     $('#cart-delivery-datepicker-hidden').val(date);
+
+    console.log("setting date from onCartDeliveryDateChange");
+    console.log(date);
     $('#checkout').prop('disabled', !date);
   });
 }
