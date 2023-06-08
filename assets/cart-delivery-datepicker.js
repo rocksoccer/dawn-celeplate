@@ -3,7 +3,9 @@ const CUTOFF_TIME = 14;
 function setCheckoutButton(enabled) {
   if (enabled) {
     $('#checkout').prop('disabled', false);
+    console.log("setting disabled to false");
   } else {
+    console.log("setting disabled to true");
     // there seems to be a bug that if disabled, some code reenable it without a delay
     setTimeout(function(){ $('#checkout').prop('disabled', true) }, 1300);
   }
