@@ -1,5 +1,14 @@
 const CUTOFF_TIME = 14;
 
+function setCheckoutButton(enabled) {
+  if (enabled) {
+    $('#checkout').prop('disabled', false);
+  } else {
+    // there seems to be a bug that if disabled, some code reenable it without a delay
+    setTimeout(function(){ $('#checkout').prop('disabled', true) }, 500);
+  }
+}
+
 function loadCartDelivery() {
   jQuery.get(
     window.Shopify.routes.root + 'cart.js',
@@ -11,8 +20,7 @@ function loadCartDelivery() {
           $('#cart-delivery-datepicker').pickadate('picker').set('select', dateObj);
         }
       } else {
-        setTimeout(function(){ $('#checkout').prop('disabled', true) }, 500);
-        console.log("disable buttong from loadCartDelivery");
+        setCheckoutButton(false);
       }
     },
     "json"
@@ -33,16 +41,9 @@ function onCartDeliveryDateChange(picker) {
     null,
     "json"
   ).done(function () {
-    $('#cart-delivery-datepicker-hidden').val(date);
+    setCheckoutButton(!!date);
 
-    if (!!date) {
-      $('#checkout').prop('disabled', false);
-    } else {
-      setTimeout(function(){ $('#checkout').prop('disabled', true) }, 500);
-    }
-    
-    console.log("setting date from onCartDeliveryDateChange");
-    console.log(date);
+    $('#cart-delivery-datepicker-hidden').val(date);
   });
 }
 
