@@ -101,7 +101,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_delivery_date_picker_disabled_week_days": "1,2",
-    "cart_delivery_date_picker_disabled_dates": "2023-05-02,",
+    "cart_delivery_date_picker_disabled_dates": "2023-06-18,",
     "checkout_accent_color": "#6792ad",
     "checkout_button_color": "#6792ad",
     "sections": {
@@ -218,12 +218,6 @@
       },
       "4015264832934714879": {
         "type": "shopify:\/\/apps\/ecomsend-popups\/blocks\/app\/a5670cf8-5705-4b01-ad9e-447033feae26",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "11242429557760608184": {
-        "type": "shopify:\/\/apps\/referrly-affiliate-marketing\/blocks\/main-app-embed\/75b5ccd5-af90-4f81-ab89-2c28499171fd",
         "disabled": false,
         "settings": {
         }
