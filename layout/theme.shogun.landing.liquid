@@ -265,6 +265,8 @@ This file can be re-written at any time.
                       {% include 'bss-product-labels-configs' %}
                         {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
 
+
+  {% render 'shogun-head' %}
 </head>
 
                  
