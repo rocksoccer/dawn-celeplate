@@ -247,7 +247,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 52,
         "padding_bottom": 36,
         "override_background_color": false,
         "background_color": "transparent",
@@ -262,20 +262,20 @@
           "type": "heading",
           "settings": {
             "heading": "<p>What's on our plate?<\/p>",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>At Celeplate, we are on a mission to bring you the <strong>freshest<\/strong>, <strong>highest-quality<\/strong>, and <strong>most convenient<\/strong> culinary experience that celebrates the rich and diverse flavours of Far East home cooking. <\/p><p>As your trusted expert and consultant, we strive to be your ultimate destination for sourcing the finest East Asian cooking ingredients, special cuts tailored for East Asian delicacies, and convenient finish-at-home kits. <\/p>"
+            "text": "<p>As your trusted expert and consultant, we strive to be your ultimate destination for sourcing the finest East Asian cooking ingredients, special cuts tailored for East Asian delicacies, and convenient finish-at-home kits. <\/p>"
           }
         },
         "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Learn more about us",
+            "button_link": "shopify:\/\/pages\/about-us",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -289,7 +289,8 @@
         "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-2"
       ],
       "custom_css": [
-        "p {line-height: 1.5;}"
+        "p {line-height: 1.5;}",
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
       ],
       "settings": {
         "desktop_content_position": "center",
