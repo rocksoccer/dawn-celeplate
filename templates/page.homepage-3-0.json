@@ -255,6 +255,112 @@
         "card_background_color": "transparent"
       }
     },
+    "2df4ba19-80cd-4639-923c-5d904a06a547": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-0",
+        "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-1",
+        "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
+      }
+    },
+    "9013edeb-cbff-445e-809a-3a7c2ae1599d": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-0",
+        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-1",
+        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e8cc471c-0ff5-4a93-a375-b11a183f8c60": {
       "type": "rich-text",
       "blocks": {
@@ -268,7 +374,7 @@
         "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>As your trusted expert and consultant, we strive to be your ultimate destination for sourcing the finest East Asian cooking ingredients, special cuts tailored for East Asian delicacies, and convenient finish-at-home kits. <\/p>"
+            "text": "<p>As your trusted expert and consultant, we strive to be your ultimate destination for sourcing the finest East Asian cooking ingredients, special cuts tailored for East Asian delicacies, and convenient finish-at-home kits. <\/p><p>Our commitment to authenticity, freshness, and convenience drives us to continuously curate a collection of products that bring the essence of Far East cooking into your home.<\/p>"
           }
         },
         "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-2": {
@@ -308,6 +414,8 @@
     "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b",
     "5076dc1d-4d89-49ab-bb6b-2050b0fe0980",
     "ad8d6f74-da03-48a9-bba1-ea24cad995a6",
+    "2df4ba19-80cd-4639-923c-5d904a06a547",
+    "9013edeb-cbff-445e-809a-3a7c2ae1599d",
     "e8cc471c-0ff5-4a93-a375-b11a183f8c60"
   ]
 }
