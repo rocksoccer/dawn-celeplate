@@ -71,24 +71,24 @@
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Celebrate Far East cuisines, right in your home kitchen.",
             "heading_size": "h1"
           }
         },
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "",
             "text_style": "body"
           }
         },
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -100,26 +100,110 @@
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-2"
       ],
       "custom_css": [
-        ".content-container {background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));}"
+        "@media (min-width: 768px) {.content-container {background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)); width: 50%; border: 2px solid white; padding: 30px \/* top padding *\/ 20px \/* right padding *\/ 20px \/* bottom padding *\/ 38px \/* left padding *\/; } .content-container h2 {font-size: 43px; margin: 0; }}",
+        "@media (max-width: 767px) {.content-container {border: 2px solid white; padding: 30px \/* top padding *\/ 30px \/* right padding *\/ 20px \/* bottom padding *\/ 30px \/* left padding *\/; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_11.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "ad8d6f74-da03-48a9-bba1-ea24cad995a6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16829690282219__ad8d6f74-da03-48a9-bba1-ea24cad995a6-16868269706ce1a07b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_it_works_1.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "95165d02-09ce-4c8c-b4d9-07c0242728a7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_it_works_2.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "2ad74c19-1afe-4c3a-9b8b-6906319a1d06": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_it_works_3_15ba0914-a06e-4075-b2da-e3a8ab1db909.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "de18b668-6706-4e7d-96f1-b071868b0faa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/how_it_works_4_612427be-c673-465d-9441-b74f47abcff0.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__ad8d6f74-da03-48a9-bba1-ea24cad995a6-16868269706ce1a07b-0",
+        "95165d02-09ce-4c8c-b4d9-07c0242728a7",
+        "2ad74c19-1afe-4c3a-9b8b-6906319a1d06",
+        "de18b668-6706-4e7d-96f1-b071868b0faa"
+      ],
+      "settings": {
+        "title": "How it works?",
+        "center_title": true,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
       }
     }
   },
   "order": [
     "main",
     "313727cd-821d-4cf9-b2c9-20ac0c4c7913",
-    "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b"
+    "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b",
+    "ad8d6f74-da03-48a9-bba1-ea24cad995a6"
   ]
 }
