@@ -352,8 +352,11 @@
         "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-1",
         "e616834c-086b-4490-a8b1-b406420be51b"
       ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+      ],
       "settings": {
-        "title": "",
+        "title": "Shop by Catalog",
         "heading_size": "h1",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -362,7 +365,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 0
+        "padding_bottom": 12
       }
     },
     "1f87a2eb-ca50-4314-9167-1f0e59c29408": {
@@ -399,8 +402,11 @@
         "76defd84-80c4-4e88-be46-914155a256c0",
         "6f4bde84-7678-46f7-9167-5d6df2fab501"
       ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+      ],
       "settings": {
-        "title": "",
+        "title": "Shop by Interest",
         "heading_size": "h1",
         "image_ratio": "adapt",
         "columns_desktop": 4,
@@ -457,6 +463,62 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "24805cd4-2fcf-427d-9c9f-54d5db54ba14": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-1_c7ccd713-73f7-4180-a72f-969a78750c1c.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01_40af01aa-5f25-4240-aed9-15faa9cc15da.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-0",
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1"
+      ],
+      "settings": {
+        "title": "",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
+      }
     }
   },
   "order": [
@@ -468,6 +530,7 @@
     "2df4ba19-80cd-4639-923c-5d904a06a547",
     "9013edeb-cbff-445e-809a-3a7c2ae1599d",
     "1f87a2eb-ca50-4314-9167-1f0e59c29408",
-    "e8cc471c-0ff5-4a93-a375-b11a183f8c60"
+    "e8cc471c-0ff5-4a93-a375-b11a183f8c60",
+    "24805cd4-2fcf-427d-9c9f-54d5db54ba14"
   ]
 }
