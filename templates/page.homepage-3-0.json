@@ -418,6 +418,65 @@
         "padding_bottom": 36
       }
     },
+    "24805cd4-2fcf-427d-9c9f-54d5db54ba14": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01_214187d1-aa02-44c7-93e0-9808ab94a13e.png",
+            "title": "Weekly limited offer has arrived! →",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": "shopify:\/\/products\/limited-offer-prime-galbi-90g"
+          }
+        },
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-1_5115ed37-a37e-47f7-b78d-b9c38e8659d8.png",
+            "title": "Available for all the products on Celeplate →",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": "shopify:\/\/collections\/top-up"
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-0",
+        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {h3 {font-size: 14px; line-height: 1.2; }}"
+      ],
+      "settings": {
+        "title": "",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
+      }
+    },
     "e8cc471c-0ff5-4a93-a375-b11a183f8c60": {
       "type": "rich-text",
       "blocks": {
@@ -464,51 +523,215 @@
         "padding_bottom": 52
       }
     },
-    "24805cd4-2fcf-427d-9c9f-54d5db54ba14": {
+    "c9a5fd82-0abc-4a20-97d5-057c9f83eda8": {
       "type": "multicolumn",
       "blocks": {
-        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-0": {
+        "template--16829690282219__c9a5fd82-0abc-4a20-97d5-057c9f83eda8-16868452215b3621a4-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/catalog_01-1_c7ccd713-73f7-4180-a72f-969a78750c1c.png",
-            "title": "Weekly limited offer has arrived! Check out what have we got →",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Group_459_aab9c1e2-2be0-4173-b42b-d6fa861ebee8.png",
+            "title": "Himari, Kent",
+            "text": "<p>I never thought making Korean food could be this easy. Celeplate has proven to be a trustworthy option, and their expertly prepared dishes are exceptional. Even my Korean friends enjoy the taste!<\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
-            "column_link": "shopify:\/\/products\/limited-offer-prime-galbi-90g"
+            "column_link": ""
           }
         },
-        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1": {
+        "template--16829690282219__c9a5fd82-0abc-4a20-97d5-057c9f83eda8-16868452215b3621a4-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/catalog_01_40af01aa-5f25-4240-aed9-15faa9cc15da.png",
-            "title": "Available for all the products you love on Celeplate →",
-            "text": "",
+            "image": "shopify:\/\/shop_images\/Group_459.png",
+            "title": "Vanessa, London",
+            "text": "<p>As a busy, time-poor mom in London, I truly enjoy the freshness and convenience that Celeplate offers me. It allows me to have more time to take care of my career and family simultaneously.<\/p>",
             "html_text": "",
             "link_label": "",
             "link": "",
-            "column_link": "shopify:\/\/collections\/top-up"
+            "column_link": ""
+          }
+        },
+        "73064750-82a1-487b-a073-678df3b2f8e9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_459_1dc3a1cc-3b5f-48fc-bbed-d1b677427b10.png",
+            "title": "Jessi, Bristol",
+            "text": "<p>This is a straightforward and user-friendly option for those who are not familiar with cooking East Asian food. The clear instructions and friendly customer service make the experience even more enjoyable!<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "template--16829690282219__c9a5fd82-0abc-4a20-97d5-057c9f83eda8-16868452215b3621a4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_459_a0292df2-56b6-400e-81e3-73745839111d.png",
+            "title": "Lee, Cardiff",
+            "text": "<p>I have been a regular customer for a year now and I am impressed by the ingenuity and quality of Celeplate. I am eagerly looking forward to trying their new kits!<\/p>",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
           }
         }
       },
       "block_order": [
-        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-0",
-        "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1"
+        "template--16829690282219__c9a5fd82-0abc-4a20-97d5-057c9f83eda8-16868452215b3621a4-2",
+        "template--16829690282219__c9a5fd82-0abc-4a20-97d5-057c9f83eda8-16868452215b3621a4-0",
+        "73064750-82a1-487b-a073-678df3b2f8e9",
+        "template--16829690282219__c9a5fd82-0abc-4a20-97d5-057c9f83eda8-16868452215b3621a4-1"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h3 {font-size: 14px; line-height: 1.2; }}"
+        "@media (min-width: 768px) {p {line-height: 1.2; font-size: 15px; }}",
+        "@media (max-width: 767px) {p {line-height: 1.2; font-size: 15px; } h2 {font-size: 25px; }}"
       ],
       "settings": {
-        "title": "",
+        "title": "Meet our happy customers",
+        "center_title": false,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "transparent",
+        "override_card_background_color": false,
+        "card_background_color": "transparent"
+      }
+    },
+    "c1a3a9be-e610-450f-8782-f0b39212fbdb": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16829690282219__c1a3a9be-e610-450f-8782-f0b39212fbdb-16868452215b3621a4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01_5a9ef3c7-a612-473d-a1a2-36fe42505ef7.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "4470dcd2-1b99-4644-b6d8-3146f0058d0f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-5.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "f8658d48-3d58-4061-8d32-4e2c10fc5fbf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-3.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "9c585fcb-777e-43cc-9e2f-af34a3d1176c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-2_8efbfab8-3620-49e4-b78e-df619c24d042.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "43bc55a1-0d8a-43bf-85ed-5967aba00ceb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-7.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "f4a0b2e7-c8f5-4799-97a5-661f0c217afb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-4.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "1deeb18b-43e3-49ed-bcb6-8a2536770c06": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-6.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        },
+        "4388c441-d29d-4c51-b885-0b18e8cb1c6c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catalog_01-1_e9009085-70d8-4b9f-a239-c809334ea5c8.png",
+            "title": "",
+            "text": "",
+            "html_text": "",
+            "link_label": "",
+            "link": "",
+            "column_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__c1a3a9be-e610-450f-8782-f0b39212fbdb-16868452215b3621a4-0",
+        "4470dcd2-1b99-4644-b6d8-3146f0058d0f",
+        "f8658d48-3d58-4061-8d32-4e2c10fc5fbf",
+        "9c585fcb-777e-43cc-9e2f-af34a3d1176c",
+        "43bc55a1-0d8a-43bf-85ed-5967aba00ceb",
+        "f4a0b2e7-c8f5-4799-97a5-661f0c217afb",
+        "1deeb18b-43e3-49ed-bcb6-8a2536770c06",
+        "4388c441-d29d-4c51-b885-0b18e8cb1c6c"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+      ],
+      "settings": {
+        "title": "Get Inspired by Our Chef",
         "center_title": false,
         "desktop_width_percentage": 60,
         "mobile_width_percentage": 100,
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
+        "columns_desktop": 4,
+        "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
         "button_link": "",
@@ -522,6 +745,43 @@
         "override_card_background_color": false,
         "card_background_color": "transparent"
       }
+    },
+    "b0ab73fd-8e50-489d-88df-5ebe2cfe95c5": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16829690282219__b0ab73fd-8e50-489d-88df-5ebe2cfe95c5-16868506701e97ceac-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--16829690282219__b0ab73fd-8e50-489d-88df-5ebe2cfe95c5-16868506701e97ceac-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--16829690282219__b0ab73fd-8e50-489d-88df-5ebe2cfe95c5-16868506701e97ceac-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__b0ab73fd-8e50-489d-88df-5ebe2cfe95c5-16868506701e97ceac-0",
+        "template--16829690282219__b0ab73fd-8e50-489d-88df-5ebe2cfe95c5-16868506701e97ceac-1",
+        "template--16829690282219__b0ab73fd-8e50-489d-88df-5ebe2cfe95c5-16868506701e97ceac-2"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -533,7 +793,10 @@
     "2df4ba19-80cd-4639-923c-5d904a06a547",
     "9013edeb-cbff-445e-809a-3a7c2ae1599d",
     "1f87a2eb-ca50-4314-9167-1f0e59c29408",
+    "24805cd4-2fcf-427d-9c9f-54d5db54ba14",
     "e8cc471c-0ff5-4a93-a375-b11a183f8c60",
-    "24805cd4-2fcf-427d-9c9f-54d5db54ba14"
+    "c9a5fd82-0abc-4a20-97d5-057c9f83eda8",
+    "c1a3a9be-e610-450f-8782-f0b39212fbdb",
+    "b0ab73fd-8e50-489d-88df-5ebe2cfe95c5"
   ]
 }
