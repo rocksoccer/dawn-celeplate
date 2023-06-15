@@ -257,6 +257,7 @@
     },
     "2df4ba19-80cd-4639-923c-5d904a06a547": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-0": {
           "type": "column",
@@ -336,29 +337,76 @@
         "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "special-east-asian-cut"
           }
         },
-        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-2": {
+        "e616834c-086b-4490-a8b1-b406420be51b": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "finish-at-home-kits"
           }
         }
       },
       "block_order": [
         "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-0",
         "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-1",
-        "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-2"
+        "e616834c-086b-4490-a8b1-b406420be51b"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1f87a2eb-ca50-4314-9167-1f0e59c29408": {
+      "type": "collection-list",
+      "blocks": {
+        "e6da7495-ac24-4f25-b673-35e48472de5b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "korean-table-bbq"
+          }
+        },
+        "d3064d3d-edfa-41d5-9889-8694483039c5": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "hotpot-cuts"
+          }
+        },
+        "76defd84-80c4-4e88-be46-914155a256c0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "peking-duck-finish-at-home-kit"
+          }
+        },
+        "6f4bde84-7678-46f7-9167-5d6df2fab501": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wagyu-beef"
+          }
+        }
+      },
+      "block_order": [
+        "e6da7495-ac24-4f25-b673-35e48472de5b",
+        "d3064d3d-edfa-41d5-9889-8694483039c5",
+        "76defd84-80c4-4e88-be46-914155a256c0",
+        "6f4bde84-7678-46f7-9167-5d6df2fab501"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -419,6 +467,7 @@
     "ad8d6f74-da03-48a9-bba1-ea24cad995a6",
     "2df4ba19-80cd-4639-923c-5d904a06a547",
     "9013edeb-cbff-445e-809a-3a7c2ae1599d",
+    "1f87a2eb-ca50-4314-9167-1f0e59c29408",
     "e8cc471c-0ff5-4a93-a375-b11a183f8c60"
   ]
 }
