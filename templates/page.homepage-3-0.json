@@ -471,24 +471,24 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/catalog_01-1_c7ccd713-73f7-4180-a72f-969a78750c1c.png",
-            "title": "",
+            "title": "Weekly limited offer has arrived!",
             "text": "",
             "html_text": "",
             "link_label": "",
             "link": "",
-            "column_link": ""
+            "column_link": "shopify:\/\/products\/limited-offer-prime-galbi-90g"
           }
         },
         "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/catalog_01_40af01aa-5f25-4240-aed9-15faa9cc15da.png",
-            "title": "",
+            "title": "Save big on your meal preparing",
             "text": "",
             "html_text": "",
             "link_label": "",
             "link": "",
-            "column_link": ""
+            "column_link": "shopify:\/\/collections\/top-up"
           }
         }
       },
