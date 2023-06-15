@@ -153,8 +153,8 @@
         "064cab2c-517e-4ccc-8f23-d474213e6f65"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {.content-container {background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8) ); width: 50%; border: 2px solid black; padding: 23px \/* top padding *\/ 22px \/* right padding *\/ 20px \/* bottom padding *\/ 38px \/* left padding *\/; } .content-container h2 {font-size: 33px; color: black; margin: 0; } .content-container div {color: black; line-height: 1.5; }}",
-        "@media (max-width: 767px) {.content-container {border: 2px solid white; padding: 20px \/* top padding *\/ 30px \/* right padding *\/ 20px \/* bottom padding *\/ 30px \/* left padding *\/; }}"
+        "@media (min-width: 768px) {.content-container {background: linear-gradient(rgba(210, 222, 231, 1), rgba(210, 222, 231, 1)); width: 50%; border: 2px solid black; padding: 23px \/* top padding *\/ 22px \/* right padding *\/ 20px \/* bottom padding *\/ 38px \/* left padding *\/; } .content-container h2 {font-size: 33px; color: #2c2826; margin: 0; } .content-container div {color: black; line-height: 1.5; }}",
+        "@media (max-width: 767px) {.content-container {border: 2px solid black; padding: 20px \/* top padding *\/ 35px \/* right padding *\/ 30px \/* bottom padding *\/ 35px \/* left padding *\/; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_11.jpg",
@@ -164,7 +164,7 @@
         "desktop_content_position": "bottom-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
