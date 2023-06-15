@@ -471,7 +471,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/catalog_01-1_c7ccd713-73f7-4180-a72f-969a78750c1c.png",
-            "title": "Weekly limited offer has arrived!",
+            "title": "Weekly limited offer has arrived! Check out what have we got →",
             "text": "",
             "html_text": "",
             "link_label": "",
@@ -483,7 +483,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/catalog_01_40af01aa-5f25-4240-aed9-15faa9cc15da.png",
-            "title": "Save big on your meal preparing",
+            "title": "Available for all the products you love on Celeplate →",
             "text": "",
             "html_text": "",
             "link_label": "",
@@ -495,6 +495,9 @@
       "block_order": [
         "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-0",
         "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {h3 {font-size: 14px; line-height: 1.2; }}"
       ],
       "settings": {
         "title": "",
@@ -510,7 +513,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36,
