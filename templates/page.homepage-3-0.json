@@ -10,6 +10,7 @@
     },
     "313727cd-821d-4cf9-b2c9-20ac0c4c7913": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--16829690282219__313727cd-821d-4cf9-b2c9-20ac0c4c7913-1686759025b15b6dd6-0": {
           "type": "slide",
@@ -52,21 +53,73 @@
         "template--16829690282219__313727cd-821d-4cf9-b2c9-20ac0c4c7913-1686759025b15b6dd6-1"
       ],
       "custom_css": [
-        "content-container {color: black;}"
+        ".slideshow__text.banner__box {background-color: rgba(255, 255, 255, 0.5); border-radius: 10px;}"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
+        "slider_visual": "dots",
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-0",
+        "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-1",
+        "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-2"
+      ],
+      "custom_css": [
+        ".content-container {background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_11.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "main",
-    "313727cd-821d-4cf9-b2c9-20ac0c4c7913"
+    "313727cd-821d-4cf9-b2c9-20ac0c4c7913",
+    "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b"
   ]
 }
