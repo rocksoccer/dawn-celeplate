@@ -67,6 +67,7 @@
     },
     "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-0": {
           "type": "heading",
@@ -113,6 +114,58 @@
         "desktop_content_alignment": "left",
         "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "5076dc1d-4d89-49ab-bb6b-2050b0fe0980": {
+      "type": "image-banner",
+      "blocks": {
+        "c0eaf782-06fa-4634-9fe4-bb15f2ad0bd4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Celebrate Far East cuisines, right in your home kitchen.",
+            "heading_size": "h1"
+          }
+        },
+        "73ccc77d-77b9-40f8-ab53-8973e7b26172": {
+          "type": "text",
+          "settings": {
+            "text": "We are on a mission to bring you the freshest, highest-quality, and most convenient culinary experience for Far East home cooking.",
+            "text_style": "body"
+          }
+        },
+        "064cab2c-517e-4ccc-8f23-d474213e6f65": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "c0eaf782-06fa-4634-9fe4-bb15f2ad0bd4",
+        "73ccc77d-77b9-40f8-ab53-8973e7b26172",
+        "064cab2c-517e-4ccc-8f23-d474213e6f65"
+      ],
+      "custom_css": [
+        "@media (min-width: 768px) {.content-container {background: linear-gradient( rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8) ); width: 50%; border: 2px solid black; padding: 30px \/* top padding *\/ 20px \/* right padding *\/ 20px \/* bottom padding *\/ 38px \/* left padding *\/; } .content-container h2 {font-size: 35px; color: black; margin: 0; } .content-container {color: black; }}",
+        "@media (max-width: 767px) {.content-container {border: 2px solid white; padding: 20px \/* top padding *\/ 30px \/* right padding *\/ 20px \/* bottom padding *\/ 30px \/* left padding *\/; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_11.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
@@ -175,6 +228,9 @@
         "2ad74c19-1afe-4c3a-9b8b-6906319a1d06",
         "de18b668-6706-4e7d-96f1-b071868b0faa"
       ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+      ],
       "settings": {
         "title": "How it works?",
         "center_title": true,
@@ -189,7 +245,7 @@
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36,
@@ -198,12 +254,59 @@
         "override_card_background_color": false,
         "card_background_color": "transparent"
       }
+    },
+    "e8cc471c-0ff5-4a93-a375-b11a183f8c60": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>What's on our plate?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Celeplate, we are on a mission to bring you the <strong>freshest<\/strong>, <strong>highest-quality<\/strong>, and <strong>most convenient<\/strong> culinary experience that celebrates the rich and diverse flavours of Far East home cooking. <\/p><p>As your trusted expert and consultant, we strive to be your ultimate destination for sourcing the finest East Asian cooking ingredients, special cuts tailored for East Asian delicacies, and convenient finish-at-home kits. <\/p>"
+          }
+        },
+        "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-0",
+        "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-1",
+        "template--16829690282219__e8cc471c-0ff5-4a93-a375-b11a183f8c60-1686826546a1795e2a-2"
+      ],
+      "custom_css": [
+        "p {line-height: 1.5;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "313727cd-821d-4cf9-b2c9-20ac0c4c7913",
     "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b",
-    "ad8d6f74-da03-48a9-bba1-ea24cad995a6"
+    "5076dc1d-4d89-49ab-bb6b-2050b0fe0980",
+    "ad8d6f74-da03-48a9-bba1-ea24cad995a6",
+    "e8cc471c-0ff5-4a93-a375-b11a183f8c60"
   ]
 }
