@@ -416,6 +416,9 @@
         "ff6f58d1-b496-4e00-a7f0-f35aa5edec95",
         "ffe76c03-ad6d-479e-8034-beb2e2d14ff9"
       ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+      ],
       "settings": {
         "title": "Shop by Meat",
         "heading_size": "h1",
