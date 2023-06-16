@@ -255,6 +255,91 @@
         "card_background_color": "rgba(0,0,0,0)"
       }
     },
+    "b8a8567b-2d77-41b1-8af5-35dea65cd469": {
+      "type": "multicolumn",
+      "blocks": {
+        "efa06be8-a5ba-40b3-859c-f94edcf65910": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_11.jpg",
+            "title": "Korean Table BBQ 고기구이",
+            "text": "<p>SERVES 2 | 9 DISHES | KOREAN<\/p><p>A meal kit that brings you back to Korea.<\/p>",
+            "html_text": "",
+            "link_label": "Shop Now",
+            "link": "",
+            "column_link": "shopify:\/\/products\/korean-table-bbq"
+          }
+        },
+        "12fb4417-b1a1-4f69-a376-747f371172f2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DuckFamily_01.png",
+            "title": "Oven-ready Whole Peking Duck",
+            "text": "<p>SERVES 4 | 1 DISH | CHINESE<\/p><p>The UK's first home-roast Peking Duck.<\/p>",
+            "html_text": "",
+            "link_label": "Shop Now",
+            "link": "",
+            "column_link": "shopify:\/\/products\/oven-ready-whole-peking-duck-for-family"
+          }
+        },
+        "0ea959ba-3062-4998-82a8-23efa8080ad0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wagyuprimegalbi1.png",
+            "title": "Thinly Cut Meat for BBQs",
+            "text": "<p>An ultimate collection of all the Korean meat cuts you can think of.<\/p>",
+            "html_text": "",
+            "link_label": "Shop Now",
+            "link": "",
+            "column_link": "shopify:\/\/collections\/korean-table-bbq"
+          }
+        },
+        "7128487f-54c1-4069-9e97-ae41d469fd30": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deisgn.png",
+            "title": "Design your own Korean Table BBQ",
+            "text": "<p>We know you are the expert. Customize the meat, sauce & veg yourself!<\/p>",
+            "html_text": "",
+            "link_label": "Go Design",
+            "link": "",
+            "column_link": "shopify:\/\/products\/design-your-korean-table-bbq"
+          }
+        }
+      },
+      "block_order": [
+        "efa06be8-a5ba-40b3-859c-f94edcf65910",
+        "12fb4417-b1a1-4f69-a376-747f371172f2",
+        "0ea959ba-3062-4998-82a8-23efa8080ad0",
+        "7128487f-54c1-4069-9e97-ae41d469fd30"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+      ],
+      "settings": {
+        "title": "Our Hottest Picks",
+        "center_title": true,
+        "desktop_width_percentage": 60,
+        "mobile_width_percentage": 100,
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 36,
+        "override_background_color": false,
+        "background_color": "rgba(0,0,0,0)",
+        "override_card_background_color": false,
+        "card_background_color": "rgba(0,0,0,0)"
+      }
+    },
     "2df4ba19-80cd-4639-923c-5d904a06a547": {
       "type": "multicolumn",
       "disabled": true,
@@ -855,6 +940,7 @@
     "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b",
     "5076dc1d-4d89-49ab-bb6b-2050b0fe0980",
     "ad8d6f74-da03-48a9-bba1-ea24cad995a6",
+    "b8a8567b-2d77-41b1-8af5-35dea65cd469",
     "2df4ba19-80cd-4639-923c-5d904a06a547",
     "9013edeb-cbff-445e-809a-3a7c2ae1599d",
     "21beec13-8cc0-4168-bcb3-e5193a822223",
