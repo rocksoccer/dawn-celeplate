@@ -190,52 +190,6 @@
         "padding_bottom": 36
       }
     },
-    "c7c526f7-100e-48d1-88cd-797880d6bd00": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Friends_party_02.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "370022f9-bdfd-4cae-abc0-6172f38742d7": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>FAMILY GATHERING<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Time with family is often taken for granted, especially when life gets in the way.<\/p><p>Celeplate make having a quality meal with loved ones easy, and a thing to look forward to! With many family-friendly meal options, bringing the family together is no longer a hassle. Whilst the adults chat and catch up, the children can be kept at bay with our cultural toys and educational books- which can be selected alongside your desired meal. Creating an overall amazing experience for everyone! <\/p><p>Make your dining table more authentic with a gift set carefully selected for you by Celeplate.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-0",
-        "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-1"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 28,
-        "padding_bottom": 12
-      }
-    },
     "87eebef8-6a31-4663-a6f7-9901d4fcd99d": {
       "type": "image-banner",
       "blocks": {
@@ -313,8 +267,6 @@
     "main",
     "deca6e78-ec14-431a-a616-ed0538a79fed",
     "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc",
-    "c7c526f7-100e-48d1-88cd-797880d6bd00",
-    "370022f9-bdfd-4cae-abc0-6172f38742d7",
     "87eebef8-6a31-4663-a6f7-9901d4fcd99d",
     "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b"
   ]
