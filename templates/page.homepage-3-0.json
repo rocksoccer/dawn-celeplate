@@ -287,7 +287,7 @@
         "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-2"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h2 {font-size: 25px; } div {line-height: 1.5; }}",
+        "@media (max-width: 767px) {h2 {font-size: 25px; margin-top: 5px; } div {line-height: 1.5; }}",
         "@media (min-width: 768px) {h2 {font-size: 30px; } div {line-height: 1.5; }}"
       ],
       "settings": {
