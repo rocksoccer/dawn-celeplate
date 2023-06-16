@@ -256,6 +256,105 @@
         "card_background_color": "rgba(0,0,0,0)"
       }
     },
+    "06598095-7539-4ac8-b375-d89b25376c4f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet Our Founder",
+            "heading_size": "h1"
+          }
+        },
+        "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A decade ago, as a father in London, a significant moment changed my life forever. With my East Asian heritage and a passion for fresh ingredients, I wanted to infuse our family's meals with heartwarming flavors. However, my busy life left little time for culinary pursuits. <\/p><p>Today, my dream is a reality. Celeplate brings the freshest, highest-quality meats to families across the UK. <\/p><p>Each product meets my exacting standards, allowing families to cook with love and create lasting memories. Hope you enjoy Celeplate as much as I do. Let's Celeplate!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more about Celeplate",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-0",
+        "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-1",
+        "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-2"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {h2 {font-size: 25px; } div {line-height: 1.5; }}",
+        "@media (min-width: 768px) {h2 {font-size: 30px; } div {line-height: 1.5; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_600031797_Preview_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "666a13b2-1fd9-4ef7-a751-91bc8e1cd9ad": {
+      "type": "image-with-text",
+      "blocks": {
+        "19d2e0f6-dc4a-4cc8-964a-ce4b94b049af": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fresh Meat",
+            "heading_size": "h1"
+          }
+        },
+        "33b4c75a-1bfa-4b1c-a0dc-78450682a694": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A decade ago, as a father in London, a significant moment changed my life forever. With my East Asian heritage and a passion for fresh ingredients, I wanted to infuse our family's meals with heartwarming flavors. However, my busy life left little time for culinary pursuits. <\/p><p>Today, my dream is a reality. Celeplate brings the freshest, highest-quality meats to families across the UK. <\/p><p>Each product meets my exacting standards, allowing families to cook with love and create lasting memories. Hope you enjoy Celeplate as much as I do. Let's Celeplate!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "b7172f6e-8b5b-40f2-8892-ef225dd78503": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more about Celeplate",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "19d2e0f6-dc4a-4cc8-964a-ce4b94b049af",
+        "33b4c75a-1bfa-4b1c-a0dc-78450682a694",
+        "b7172f6e-8b5b-40f2-8892-ef225dd78503"
+      ],
+      "custom_css": [
+        "@media (max-width: 767px) {p {display: none; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_580375951_Preview_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
     "b8a8567b-2d77-41b1-8af5-35dea65cd469": {
       "type": "multicolumn",
       "blocks": {
@@ -414,6 +513,7 @@
     },
     "9013edeb-cbff-445e-809a-3a7c2ae1599d": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-0": {
           "type": "featured_collection",
@@ -458,6 +558,7 @@
     },
     "21beec13-8cc0-4168-bcb3-e5193a822223": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "bfbf9a28-f20a-4da6-afa0-2503fa0b0667": {
           "type": "featured_collection",
@@ -946,6 +1047,8 @@
     "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b",
     "5076dc1d-4d89-49ab-bb6b-2050b0fe0980",
     "ad8d6f74-da03-48a9-bba1-ea24cad995a6",
+    "06598095-7539-4ac8-b375-d89b25376c4f",
+    "666a13b2-1fd9-4ef7-a751-91bc8e1cd9ad",
     "b8a8567b-2d77-41b1-8af5-35dea65cd469",
     "2df4ba19-80cd-4639-923c-5d904a06a547",
     "9013edeb-cbff-445e-809a-3a7c2ae1599d",
