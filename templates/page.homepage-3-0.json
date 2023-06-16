@@ -269,15 +269,15 @@
         "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A decade ago, as a father in London, a significant moment changed my life forever. With my East Asian heritage and a passion for fresh ingredients, I wanted to infuse our family's meals with heartwarming flavors. However, my busy life left little time for culinary pursuits. <\/p><p>Today, my dream is a reality. Celeplate brings the freshest, highest-quality meats to families across the UK. <\/p><p>Each product meets my exacting standards, allowing families to cook with love and create lasting memories. Hope you enjoy Celeplate as much as I do. Let's Celeplate!<\/p>",
+            "text": "<p>Hi, I'm William. A decade ago, as a father in London, a significant moment changed my life forever. With my East Asian heritage and a passion for fresh ingredients, I wanted to infuse our family's meals with heartwarming flavors. However, my busy life left little time for culinary pursuits. <\/p><p>Today, my dream is a reality. Celeplate brings the freshest, highest-quality meats to families across the UK. <\/p><p>Each product meets my exacting standards, allowing families to cook with love and create lasting memories. Hope you enjoy Celeplate as much as I do. Let's Celeplate!<\/p>",
             "text_style": "body"
           }
         },
         "template--16829690282219__06598095-7539-4ac8-b375-d89b25376c4f-1686918915a3b52086-2": {
           "type": "button",
           "settings": {
-            "button_label": "Learn more about Celeplate",
-            "button_link": ""
+            "button_label": "Learn more about my story",
+            "button_link": "shopify:\/\/pages\/about-us"
           }
         }
       },
@@ -870,7 +870,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -951,7 +951,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
