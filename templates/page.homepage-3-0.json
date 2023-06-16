@@ -229,7 +229,8 @@
         "de18b668-6706-4e7d-96f1-b071868b0faa"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}",
+        "@media (min-width: 768px) {h2 {font-size: 30px; }}"
       ],
       "settings": {
         "title": "How it works?",
@@ -314,7 +315,8 @@
         "7128487f-54c1-4069-9e97-ae41d469fd30"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+        "@media (max-width: 767px) {h2 {font-size: 25px; } div {font-size: 13px; }}",
+        "@media (min-width: 768px) {h2 {font-size: 30px; } h3 {font-size: 17px; } div {font-size: 13px; }}"
       ],
       "settings": {
         "title": "Our Hottest Picks",
@@ -438,7 +440,8 @@
         "e616834c-086b-4490-a8b1-b406420be51b"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}",
+        "@media (min-width: 768px) {h2 {font-size: 30px; }}"
       ],
       "settings": {
         "title": "Shop by Catalog",
@@ -502,7 +505,8 @@
         "ffe76c03-ad6d-479e-8034-beb2e2d14ff9"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}",
+        "@media (min-width: 768px) {h2 {font-size: 30px; }}"
       ],
       "settings": {
         "title": "Shop by Meat",
@@ -732,7 +736,7 @@
         "template--16829690282219__c9a5fd82-0abc-4a20-97d5-057c9f83eda8-16868452215b3621a4-1"
       ],
       "custom_css": [
-        "@media (min-width: 768px) {p {line-height: 1.2; font-size: 15px; }}",
+        "@media (min-width: 768px) {p {line-height: 1.2; font-size: 15px; } h2 {font-size: 30px; }}",
         "@media (max-width: 767px) {p {line-height: 1.2; font-size: 15px; } h2 {font-size: 25px; }}"
       ],
       "settings": {
@@ -870,7 +874,8 @@
         "4388c441-d29d-4c51-b885-0b18e8cb1c6c"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}",
+        "@media (min-width: 768px) {h2 {font-size: 30px; }}"
       ],
       "settings": {
         "title": "Get Inspired by Our Chef",
@@ -924,7 +929,8 @@
         "template--16829690282219__b0ab73fd-8e50-489d-88df-5ebe2cfe95c5-16868506701e97ceac-2"
       ],
       "custom_css": [
-        "@media (max-width: 767px) {h2 {font-size: 25px; }}"
+        "@media (max-width: 767px) {h2 {font-size: 25px; }}",
+        "@media (min-width: 768px) {h2 {font-size: 30px; }}"
       ],
       "settings": {
         "color_scheme": "background-2",
