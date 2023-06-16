@@ -294,7 +294,7 @@
         "image": "shopify:\/\/shop_images\/AdobeStock_600031797_Preview_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
@@ -368,7 +368,7 @@
         "e03682a2-dd5d-4464-8683-cfb43f419a28": {
           "type": "text",
           "settings": {
-            "text": "<p>We specialize in thinly cut East Asian meats. From 3mm thinly sliced meat for BBQs to 1.5mm thinly curved meat for hotpots, we offer a variety of choices for you to explore. <\/p><p>Rest assured, our meats are of the highest quality and deliver the promised taste.<\/p>",
+            "text": "<p>We specialize in thinly cut East Asian meats. From 3mm thinly sliced meat for BBQs to 1.5mm thinly curved meat for hotpots, we offer a variety of choices for you to explore. <\/p><p>Rest assured, our meats are of the highest quality and deliver the promised taste. Whether you prefer UK wagyu, Japanese Wagyu, British beef, pork, we've got you covered.<\/p>",
             "text_style": "body"
           }
         },
@@ -417,7 +417,7 @@
         "dd278edf-133c-4bb6-bafa-9b266e572f86": {
           "type": "text",
           "settings": {
-            "text": "<p>With our meal kits, you can enjoy the convenience of easy and practical meal prep, allowing you to focus on spending quality time with your friends and guests. Let us take care of the details, so you can create an authentic dining experience at your table.<\/p>",
+            "text": "<p>We offer a collection of meal kits designed to make your meal preparation effortless. From high-quality meats to flavorful sauces and fresh vegetables, we've got you covered.<\/p><p>With our meal kits, you can enjoy the convenience of easy and practical meal prep, allowing you to focus on spending quality time with your friends and guests. <\/p><p>Let us take care of the details, so you can create an authentic dining experience at your table.<\/p>",
             "text_style": "body"
           }
         },
