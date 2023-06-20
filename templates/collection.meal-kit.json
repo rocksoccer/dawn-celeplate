@@ -22,6 +22,9 @@
         "template--16832225476843__b58ddabc-ef53-4897-af7c-8fa7ee74c39b-1687281318d9c77a8f-0",
         "template--16832225476843__b58ddabc-ef53-4897-af7c-8fa7ee74c39b-1687281318d9c77a8f-1"
       ],
+      "custom_css": [
+        "@media (min-width: 768px) {.content-container {background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)); }}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/korean_table_bbq_date_1_3_2.png",
         "image_overlay_opacity": 0,
