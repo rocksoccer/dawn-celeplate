@@ -115,46 +115,6 @@
         "mobile_padding_right": 0
       }
     },
-    "98420a97-3248-4f91-9102-4ce068633b58": {
-      "type": "collection-list",
-      "blocks": {
-        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "3mm-bbq-meat-cut"
-          }
-        },
-        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "1-5mm-hotpot-meat-cut"
-          }
-        },
-        "222c91e1-f7e9-475f-9475-4a51e5a571d5": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "meat-in-bulk"
-          }
-        }
-      },
-      "block_order": [
-        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-0",
-        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-1",
-        "222c91e1-f7e9-475f-9475-4a51e5a571d5"
-      ],
-      "settings": {
-        "title": "Get Our Specialized Meat Cut for BBQs or Hotpots",
-        "heading_size": "h2",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "c9447b49-6d39-4d52-a4dc-6c024ff2e9ca": {
       "type": "image-with-text",
       "blocks": {
@@ -201,6 +161,46 @@
         "mobile_padding_right": 0
       }
     },
+    "98420a97-3248-4f91-9102-4ce068633b58": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "3mm-bbq-meat-cut"
+          }
+        },
+        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "1-5mm-hotpot-meat-cut"
+          }
+        },
+        "222c91e1-f7e9-475f-9475-4a51e5a571d5": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "meat-in-bulk"
+          }
+        }
+      },
+      "block_order": [
+        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-0",
+        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-1",
+        "222c91e1-f7e9-475f-9475-4a51e5a571d5"
+      ],
+      "settings": {
+        "title": "Get Our Specialized Meat Cut for BBQs or Hotpots",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "95bb1e48-471e-44f7-8244-d0613148b310": {
       "type": "image-with-text",
       "blocks": {
@@ -239,38 +239,9 @@
         "mobile_padding_right": 0
       }
     },
-    "6115455d-ab30-443e-9798-4db7a131cf91": {
-      "type": "rich-text",
-      "blocks": {
-        "211bfb1b-cdbf-4d5b-9ae9-abb87815f2ee": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Lastest from Our BBQ & Hotpot Meat Cut Selections<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "template--16832225476843__6115455d-ab30-443e-9798-4db7a131cf91-1687284716f810c5ea-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Browse our Meat selection and get inspired!<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "211bfb1b-cdbf-4d5b-9ae9-abb87815f2ee",
-        "template--16832225476843__6115455d-ab30-443e-9798-4db7a131cf91-1687284716f810c5ea-1"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 3,
@@ -295,10 +266,9 @@
     "banner",
     "37a72790-50e9-4139-b0e4-bce9ae0b15cc",
     "ab466d8b-afbc-48d3-a86e-5e007555e137",
-    "98420a97-3248-4f91-9102-4ce068633b58",
     "c9447b49-6d39-4d52-a4dc-6c024ff2e9ca",
+    "98420a97-3248-4f91-9102-4ce068633b58",
     "95bb1e48-471e-44f7-8244-d0613148b310",
-    "6115455d-ab30-443e-9798-4db7a131cf91",
     "product-grid"
   ]
 }
