@@ -130,24 +130,24 @@
             "collection": "beef"
           }
         },
-        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pork"
-          }
-        },
         "222c91e1-f7e9-475f-9475-4a51e5a571d5": {
           "type": "featured_collection",
           "settings": {
             "collection": "iberian-pork"
+          }
+        },
+        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pork"
           }
         }
       },
       "block_order": [
         "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-0",
         "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-1",
-        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-2",
-        "222c91e1-f7e9-475f-9475-4a51e5a571d5"
+        "222c91e1-f7e9-475f-9475-4a51e5a571d5",
+        "template--16832225476843__98420a97-3248-4f91-9102-4ce068633b58-168728193657f86067-2"
       ],
       "settings": {
         "title": "Our Meat Options",
