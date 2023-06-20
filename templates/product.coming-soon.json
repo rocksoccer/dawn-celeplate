@@ -137,17 +137,6 @@
         "include_margins": true
       }
     },
-    "16582564410dbad73c": {
-      "type": "accordion",
-      "settings": {
-        "heading": "What's in the box",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": false
-      }
-    },
     "a34639ef-5950-429c-adb9-aab83ee8e388": {
       "type": "rich-text",
       "blocks": {
@@ -168,17 +157,6 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "1658259542695d2e5e": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Cooking Instructions",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": true
       }
     },
     "1658260349a43e5800": {
@@ -208,17 +186,6 @@
         "padding_bottom": 12
       }
     },
-    "16582605028fdc16b6": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Storage",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": true
-      }
-    },
     "1658260513b99c1963": {
       "type": "rich-text",
       "blocks": {
@@ -239,17 +206,6 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "1658260523d7001a3e": {
-      "type": "accordion",
-      "settings": {
-        "heading": "Allergens",
-        "expand_by_default": false,
-        "number_of_sections": 1,
-        "padding_top": 16,
-        "padding_bottom": 16,
-        "collapse_top_border": true
       }
     },
     "1658260529146899e2": {
@@ -284,254 +240,6 @@
         "full_width": true,
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "e41781f6-5ff2-4adb-966b-f0277879df0c": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Add your favourite meat",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "korean-table-bbq",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "rgba(0,0,0,0)",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "ab221f3f-48e5-4551-b9b3-760a9b793461": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Add your favourite sauces",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "korean-table-bbq-sauce",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "rgba(0,0,0,0)",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "ddb425f5-fa72-47ea-8555-805c71ebe8dd": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Add more to your own box",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "korean-table-bbq-others",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "rgba(0,0,0,0)",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "5d4b44df-d3b5-4ee5-9443-c58bc92456ad": {
-      "type": "featured-product",
-      "blocks": {
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-2": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-3": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-4": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-5": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
-        "e3c69db5-88ff-4670-9d77-5dd5f31f528c": {
-          "type": "text",
-          "settings": {
-            "text": "Now you can customize your own BBQ experience by selecting your favorite cuts of meat, seafood, vegetables, and sauces. Our expert team will prepare your selections to perfection.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-0",
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-1",
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-2",
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-3",
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-4",
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-5",
-        "template--16750061879531__5d4b44df-d3b5-4ee5-9443-c58bc92456ad-1683205309f8d13269-6",
-        "e3c69db5-88ff-4670-9d77-5dd5f31f528c"
-      ],
-      "settings": {
-        "product": "design-your-korean-table-bbq",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_position": "left",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ABOUT BURGOGI",
-            "heading_size": "h1"
-          }
-        },
-        "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Korean barbecue is the ultimate comfort food. Imagine being in a small roadside restaurant, the grill is placed in the middle, friends gather around the table, and the aroma of the sizzling meat on the grill is mouth-watering. Diners use fresh lettuce leaves to wrap up meat and vegetables and eat the whole wrap in one bite.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-0",
-        "template--16260666097899__42c4b6f0-b2b7-475d-a80e-570b1bf61ea0-1665844479c104dc1f-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_03.png",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 0,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
-      }
-    },
-    "ea6a908a-bf7a-4d29-99f9-35fe46bc45ff": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "BURGOGI'S GOAL",
-            "heading_size": "h1"
-          }
-        },
-        "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>It is Burgogi’s goal to give you the exhilarating experience of eating in a Korean barbecue joint. The combination of savoury, sweet, tangy and mellow flavours explodes like fireworks in their mouths. It’s a meal of sharing and celebration.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-0",
-        "template--16260666097899__ea6a908a-bf7a-4d29-99f9-35fe46bc45ff-1665844479c104dc1f-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_02.png",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "mobile_padding_left": 0,
-        "mobile_padding_right": 0
       }
     },
     "product-recommendations": {
@@ -583,26 +291,39 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2981b584-d211-4390-9294-440f55620a2e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16832804389099__2981b584-d211-4390-9294-440f55620a2e-1687280832df65a6ff-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coming soon...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16832804389099__2981b584-d211-4390-9294-440f55620a2e-1687280832df65a6ff-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "1658491360911f410d",
-    "16582564410dbad73c",
     "a34639ef-5950-429c-adb9-aab83ee8e388",
-    "1658259542695d2e5e",
     "1658260349a43e5800",
-    "16582605028fdc16b6",
     "1658260513b99c1963",
-    "1658260523d7001a3e",
     "1658260529146899e2",
-    "e41781f6-5ff2-4adb-966b-f0277879df0c",
-    "ab221f3f-48e5-4551-b9b3-760a9b793461",
-    "ddb425f5-fa72-47ea-8555-805c71ebe8dd",
-    "5d4b44df-d3b5-4ee5-9443-c58bc92456ad",
-    "42c4b6f0-b2b7-475d-a80e-570b1bf61ea0",
-    "ea6a908a-bf7a-4d29-99f9-35fe46bc45ff",
     "product-recommendations",
-    "16582608756ffd25d6"
+    "16582608756ffd25d6",
+    "2981b584-d211-4390-9294-440f55620a2e"
   ]
 }
