@@ -180,13 +180,13 @@
         "58a61751-0ad1-44b1-a419-d101f58e1fda": {
           "type": "featured_collection",
           "settings": {
-            "collection": "pork"
+            "collection": "seafood-1"
           }
         },
         "6d2b7713-ecd8-474c-b672-6339f5f8b6d7": {
           "type": "featured_collection",
           "settings": {
-            "collection": "iberian-pork"
+            "collection": "foie-gras"
           }
         }
       },
