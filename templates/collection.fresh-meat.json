@@ -62,7 +62,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "override_color_scheme_background": false,
-        "override_section_background_color": "transparent",
+        "override_section_background_color": "rgba(0,0,0,0)",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
@@ -110,7 +110,7 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_bottom": 0,
         "mobile_padding_left": 0,
         "mobile_padding_right": 0
       }
@@ -139,7 +139,7 @@
         "222c91e1-f7e9-475f-9475-4a51e5a571d5": {
           "type": "featured_collection",
           "settings": {
-            "collection": "seafood-1"
+            "collection": "iberian-pork"
           }
         }
       },
@@ -153,12 +153,59 @@
         "title": "Our Meat Options",
         "heading_size": "h2",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f5c86f2b-a1ad-4e96-817d-e668773ce0d8": {
+      "type": "collection-list",
+      "blocks": {
+        "e42cd18e-1227-4fa9-a45b-6a3b9273a6d8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "duck"
+          }
+        },
+        "359f3136-848e-48d3-a182-b1f0f0972925": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beef"
+          }
+        },
+        "58a61751-0ad1-44b1-a419-d101f58e1fda": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pork"
+          }
+        },
+        "6d2b7713-ecd8-474c-b672-6339f5f8b6d7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "iberian-pork"
+          }
+        }
+      },
+      "block_order": [
+        "e42cd18e-1227-4fa9-a45b-6a3b9273a6d8",
+        "359f3136-848e-48d3-a182-b1f0f0972925",
+        "58a61751-0ad1-44b1-a419-d101f58e1fda",
+        "6d2b7713-ecd8-474c-b672-6339f5f8b6d7"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -189,6 +236,7 @@
     "37a72790-50e9-4139-b0e4-bce9ae0b15cc",
     "ab466d8b-afbc-48d3-a86e-5e007555e137",
     "98420a97-3248-4f91-9102-4ce068633b58",
+    "f5c86f2b-a1ad-4e96-817d-e668773ce0d8",
     "product-grid"
   ]
 }
