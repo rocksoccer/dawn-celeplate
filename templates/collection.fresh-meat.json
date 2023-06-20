@@ -209,6 +209,84 @@
         "padding_bottom": 36
       }
     },
+    "c9447b49-6d39-4d52-a4dc-6c024ff2e9ca": {
+      "type": "image-with-text",
+      "blocks": {
+        "939ca062-eb4d-47cc-b44d-8e7aea60860a": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are your trust-worthy Meat Expert",
+            "heading_size": "h1"
+          }
+        },
+        "8a0f3365-24c0-435e-adba-28ff291ca5fb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We understand your quest for fresh and top-quality meat to elevate your East Asian cuisine. Rest assured, we are here to assist you in finding the perfect selection that caters to your preferences and needs.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "939ca062-eb4d-47cc-b44d-8e7aea60860a",
+        "8a0f3365-24c0-435e-adba-28ff291ca5fb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AdobeStock_198836841_Preview.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "mobile_padding_left": 0,
+        "mobile_padding_right": 0
+      }
+    },
+    "1dd9a775-4845-4417-bcde-e7a24d79f783": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16832225476843__1dd9a775-4845-4417-bcde-e7a24d79f783-1687283816db4b0ec8-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16832225476843__1dd9a775-4845-4417-bcde-e7a24d79f783-1687283816db4b0ec8-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--16832225476843__1dd9a775-4845-4417-bcde-e7a24d79f783-1687283816db4b0ec8-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16832225476843__1dd9a775-4845-4417-bcde-e7a24d79f783-1687283816db4b0ec8-0",
+        "template--16832225476843__1dd9a775-4845-4417-bcde-e7a24d79f783-1687283816db4b0ec8-1",
+        "template--16832225476843__1dd9a775-4845-4417-bcde-e7a24d79f783-1687283816db4b0ec8-2"
+      ],
+      "settings": {
+        "title": "Be Inspired by Our Specialized Meat Cuts",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -237,6 +315,8 @@
     "ab466d8b-afbc-48d3-a86e-5e007555e137",
     "98420a97-3248-4f91-9102-4ce068633b58",
     "f5c86f2b-a1ad-4e96-817d-e668773ce0d8",
+    "c9447b49-6d39-4d52-a4dc-6c024ff2e9ca",
+    "1dd9a775-4845-4417-bcde-e7a24d79f783",
     "product-grid"
   ]
 }
