@@ -122,74 +122,6 @@
         "padding_bottom": 28
       }
     },
-    "deca6e78-ec14-431a-a616-ed0538a79fed": {
-      "type": "image-banner",
-      "blocks": {
-        "b8db5b76-0542-4fd0-a165-00b52861a9f3": {
-          "type": "heading",
-          "settings": {
-            "heading": "Valentine's Date Night",
-            "heading_size": "h1"
-          }
-        },
-        "69e20245-897a-49a8-a62e-a2af1b8c151a": {
-          "type": "text",
-          "settings": {
-            "text": "With many romantic collections to choose from, you are bound to find a meal kit to add that romantic element to your dream date. Scented candles, chocolate, and a delicious meal - a recipe for an unforgettable date! Make your dining experience more authentic with a gift set carefully selected for you by Celeplate. ",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "b8db5b76-0542-4fd0-a165-00b52861a9f3",
-        "69e20245-897a-49a8-a62e-a2af1b8c151a"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/koreantablebbqdate1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "left",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
-    "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "date-night",
-        "products_to_show": 12,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "override_color_scheme_background": false,
-        "override_section_background_color": "rgba(0,0,0,0)",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_product_serve_content": true,
-        "show_product_short_description": true,
-        "show_rating": false,
-        "show_shadow": true,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 4,
-        "padding_bottom": 36
-      }
-    },
     "87eebef8-6a31-4663-a6f7-9901d4fcd99d": {
       "type": "image-banner",
       "blocks": {
@@ -265,8 +197,6 @@
     "1632b083-7f8e-4442-9fdd-e06a606171e9",
     "64f928a8-fb4e-42e2-9904-47a0678c8b1a",
     "main",
-    "deca6e78-ec14-431a-a616-ed0538a79fed",
-    "0f36abbb-e521-4daa-bc4a-f7f6b8f5becc",
     "87eebef8-6a31-4663-a6f7-9901d4fcd99d",
     "6735e62d-e9aa-4c68-8e34-2c97c6f3bf6b"
   ]
