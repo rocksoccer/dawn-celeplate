@@ -137,109 +137,26 @@
         "include_margins": true
       }
     },
-    "a34639ef-5950-429c-adb9-aab83ee8e388": {
+    "2981b584-d211-4390-9294-440f55620a2e": {
       "type": "rich-text",
       "blocks": {
-        "template--16260666097899__a34639ef-5950-429c-adb9-aab83ee8e388-1665844479e7d8b2fe-1": {
+        "template--16832804389099__2981b584-d211-4390-9294-440f55620a2e-1687280832df65a6ff-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Mains<\/strong><\/p><ul><li>1 x Rib Eye<\/li><li>1 x Prime Galbi<\/li><li>1 x Flat Iron Marinated with Bujang Sauce<\/li><li>1 x Pork Neck<\/li><li>1 x Flat Iron<\/li><li>1 x Ox Tongue<\/li><li>1 x Pork Neck Marinated in Spicy Sauce<\/li><li>1 x Marinated Galbi<\/li><\/ul><p><strong>Sauces<\/strong><\/p><ul><li>Ssamjang BBQ Paste<\/li><li>Cumin Salt<\/li><li>Burgogi Salt Special<\/li><li>Shichimi Spice Salt<\/li><li>Sesame Oil<\/li><li>Yuzu Pancake Sauce<\/li><\/ul><p><strong>Veg & Others<\/strong><\/p><ul><li>3 x Kimchi Pancake<\/li><li>3 x Seafood Pancake<\/li><li>Enoki Mushroom<\/li><li>Lettuce<\/li><li>Spring onion<\/li><\/ul>"
+            "text": "<p>Coming soon...<\/p>"
           }
         }
       },
       "block_order": [
-        "template--16260666097899__a34639ef-5950-429c-adb9-aab83ee8e388-1665844479e7d8b2fe-1"
+        "template--16832804389099__2981b584-d211-4390-9294-440f55620a2e-1687280832df65a6ff-1"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "1658260349a43e5800": {
-      "type": "rich-text",
-      "blocks": {
-        "16582603491b061838-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIEW COOKING INSTRUCTIONS",
-            "button_link": "shopify:\/\/pages\/korean-table-bbq-cooking-instructions",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16582603491b061838-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "1658260513b99c1963": {
-      "type": "rich-text",
-      "blocks": {
-        "1658260513ab6dd4c6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Keep refrigerated. <\/p><p>Not suitable for home freezing. Please find detailed storage information in the cooking instuctions.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1658260513ab6dd4c6-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "1658260529146899e2": {
-      "type": "rich-text",
-      "blocks": {
-        "16582605290744eb35-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Fish (anchovy), shrimp, wheat, soybean, leek, Fermented Ethyl Alcohol, peanut, milk, egg sesame.Ingredients are packed separately. Detailed ingredients list and nutritional information can be found at the end of this booklet, or visit our website.<\/p>"
-          }
-        },
-        "defad435-1576-4d49-ae15-169dfa9fd078": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIEW DETAILED INGREDIENTS & NUTRITIONS",
-            "button_link": "shopify:\/\/pages\/korean-table-bbq-ingredients-nutritions",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16582605290744eb35-1",
-        "defad435-1576-4d49-ae15-169dfa9fd078"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-recommendations": {
@@ -291,39 +208,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "2981b584-d211-4390-9294-440f55620a2e": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16832804389099__2981b584-d211-4390-9294-440f55620a2e-1687280832df65a6ff-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Coming soon...<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16832804389099__2981b584-d211-4390-9294-440f55620a2e-1687280832df65a6ff-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
     "1658491360911f410d",
-    "a34639ef-5950-429c-adb9-aab83ee8e388",
-    "1658260349a43e5800",
-    "1658260513b99c1963",
-    "1658260529146899e2",
+    "2981b584-d211-4390-9294-440f55620a2e",
     "product-recommendations",
-    "16582608756ffd25d6",
-    "2981b584-d211-4390-9294-440f55620a2e"
+    "16582608756ffd25d6"
   ]
 }
