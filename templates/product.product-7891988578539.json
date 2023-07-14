@@ -188,7 +188,7 @@
           "type": "button",
           "settings": {
             "button_label": "VIEW COOKING INSTRUCTIONS",
-            "button_link": "shopify:\/\/pages\/korean-table-bbq-cooking-instructions",
+            "button_link": "shopify:\/\/pages\/the-classic-cooking-instructions",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
