@@ -63,7 +63,7 @@ class CartNotification extends HTMLElement {
     }
     else
     {
-      notificationMessage = 'Buy more and save: get free delivery when buying additional items over £60.';
+      notificationMessage = 'Buy more and save: get free delivery when buying additional items over £69.';
     }
     messageElement.innerHTML = notificationMessage;
   }
