@@ -259,6 +259,7 @@
                         {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
 
   {% render 'shogun-head' %}
+{% include 'store-credit-launcher' %}
 </head>
                  
 
@@ -320,5 +321,6 @@
 {% render 'recurpay' %}
 {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %} {% include 'smile-initializer' %}
 
+{% include 'store-credit-launcher' %}
 </body>
 </html>
