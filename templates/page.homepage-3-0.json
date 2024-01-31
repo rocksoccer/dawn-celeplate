@@ -10,7 +10,6 @@
     },
     "313727cd-821d-4cf9-b2c9-20ac0c4c7913": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16829690282219__313727cd-821d-4cf9-b2c9-20ac0c4c7913-1686759025b15b6dd6-0": {
           "type": "slide",
@@ -52,6 +51,7 @@
         "template--16829690282219__313727cd-821d-4cf9-b2c9-20ac0c4c7913-1686759025b15b6dd6-0",
         "template--16829690282219__313727cd-821d-4cf9-b2c9-20ac0c4c7913-1686759025b15b6dd6-1"
       ],
+      "disabled": true,
       "custom_css": [
         ".slideshow__text.banner__box {background-color: rgba(255, 255, 255, 0.5); border-radius: 10px;}"
       ],
@@ -67,7 +67,6 @@
     },
     "1e3ea567-0b70-4c7d-944e-d460d3b8cb7b": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-0": {
           "type": "heading",
@@ -100,6 +99,7 @@
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-1",
         "template--16829690282219__1e3ea567-0b70-4c7d-944e-d460d3b8cb7b-168676233141d0063e-2"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 768px) {.content-container {background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)); width: 50%; border: 2px solid white; padding: 30px \/* top padding *\/ 20px \/* right padding *\/ 20px \/* bottom padding *\/ 38px \/* left padding *\/; } .content-container h2 {font-size: 43px; margin: 0; }}",
         "@media (max-width: 767px) {.content-container {border: 2px solid white; padding: 30px \/* top padding *\/ 30px \/* right padding *\/ 20px \/* bottom padding *\/ 30px \/* left padding *\/; }}"
@@ -541,7 +541,6 @@
     },
     "2df4ba19-80cd-4639-923c-5d904a06a547": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-0": {
           "type": "column",
@@ -585,6 +584,7 @@
         "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-1",
         "template--16829690282219__2df4ba19-80cd-4639-923c-5d904a06a547-16868269706ce1a07b-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "center_title": false,
@@ -611,7 +611,6 @@
     },
     "9013edeb-cbff-445e-809a-3a7c2ae1599d": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-0": {
           "type": "featured_collection",
@@ -637,6 +636,7 @@
         "template--16829690282219__9013edeb-cbff-445e-809a-3a7c2ae1599d-1686840104d80b692d-1",
         "e616834c-086b-4490-a8b1-b406420be51b"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 767px) {h2 {font-size: 25px; }}",
         "@media (min-width: 768px) {h2 {font-size: 30px; }}"
@@ -656,7 +656,6 @@
     },
     "21beec13-8cc0-4168-bcb3-e5193a822223": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "bfbf9a28-f20a-4da6-afa0-2503fa0b0667": {
           "type": "featured_collection",
@@ -703,6 +702,7 @@
         "ff6f58d1-b496-4e00-a7f0-f35aa5edec95",
         "ffe76c03-ad6d-479e-8034-beb2e2d14ff9"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 767px) {h2 {font-size: 25px; }}",
         "@media (min-width: 768px) {h2 {font-size: 30px; }}"
@@ -722,7 +722,6 @@
     },
     "1f87a2eb-ca50-4314-9167-1f0e59c29408": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "e6da7495-ac24-4f25-b673-35e48472de5b": {
           "type": "featured_collection",
@@ -755,6 +754,7 @@
         "76defd84-80c4-4e88-be46-914155a256c0",
         "6f4bde84-7678-46f7-9167-5d6df2fab501"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 767px) {h2 {font-size: 25px; }}"
       ],
@@ -783,7 +783,7 @@
             "html_text": "",
             "link_label": "",
             "link": "",
-            "column_link": "shopify:\/\/products\/limited-offer-prime-galbi-90g"
+            "column_link": "shopify:\/\/products\/limited-offer-prime-galbi"
           }
         },
         "template--16829690282219__24805cd4-2fcf-427d-9c9f-54d5db54ba14-16868452215b3621a4-1": {

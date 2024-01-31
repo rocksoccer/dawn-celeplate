@@ -27,7 +27,6 @@
     },
     "c4b938da-0852-4f78-a8a4-a881d82a59c3": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0": {
           "type": "heading",
@@ -47,6 +46,7 @@
         "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-0",
         "template--16664910561515__c4b938da-0852-4f78-a8a4-a881d82a59c3-16659534100eed9914-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -108,7 +108,6 @@
     },
     "63f1aa60-6a4e-4ef4-8038-e72ea00e2048": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-0": {
           "type": "heading",
@@ -128,6 +127,7 @@
         "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-0",
         "template--16664910561515__63f1aa60-6a4e-4ef4-8038-e72ea00e2048-16659534100eed9914-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -172,7 +172,6 @@
     },
     "370022f9-bdfd-4cae-abc0-6172f38742d7": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-0": {
           "type": "heading",
@@ -193,6 +192,7 @@
         "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-0",
         "template--16664910561515__370022f9-bdfd-4cae-abc0-6172f38742d7-16659534100eed9914-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -447,7 +447,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Try it now",
-            "button_link_1": "shopify:\/\/products\/wagyu-beef-chuck-100g",
+            "button_link_1": "shopify:\/\/products\/wagyu-beef-chuck",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
