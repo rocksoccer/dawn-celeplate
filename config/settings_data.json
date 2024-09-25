@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
@@ -13,9 +22,9 @@
     "buttons_border_opacity": 100,
     "buttons_radius": 4,
     "media_border_thickness": 0,
-    "favicon": "shopify:\/\/shop_images\/Burgogi_Fire_icon_d70a1f61-9fdf-45d6-bcc6-e56843b6a556.png",
+    "favicon": "shopify://shop_images/Burgogi_Fire_icon_d70a1f61-9fdf-45d6-bcc6-e56843b6a556.png",
     "currency_code_enabled": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/Burgogi_Logo_Golden.png",
+    "checkout_logo_image": "shopify://shop_images/Burgogi_Logo_Golden.png",
     "checkout_accent_color": "#ab9050",
     "checkout_button_color": "#ab9050",
     "sections": {
@@ -28,7 +37,7 @@
               "text": "Burgogi has now consolidated with Celeplate. Order your favourites on Celeplate.co.uk.",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "https:\/\/celeplate.co.uk\/"
+              "link": "https://celeplate.co.uk/"
             }
           }
         },
@@ -42,7 +51,7 @@
         "type": "header",
         "settings": {
           "color_scheme": "inverse",
-          "logo": "shopify:\/\/shop_images\/Burgogi_Logo_Golden_84aa25f9-3840-4837-b73a-c29e98a04534.png",
+          "logo": "shopify://shop_images/Burgogi_Logo_Golden_84aa25f9-3840-4837-b73a-c29e98a04534.png",
           "logo_width": 160,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -77,14 +86,14 @@
             "type": "text",
             "settings": {
               "heading": "Contact",
-              "subtext": "<p>Address: Unit 610-611<\/p><p>26 chase road, London, NW10 6BB<\/p><p>Tel: 02080803255<\/p><p>Email: Hello@burgogi.co.uk<\/p><p>Instagram: <a href=\"https:\/\/www.instagram.com\/celeplate\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/celeplate\/\">@celeplate<\/a><\/p>"
+              "subtext": "<p>Address: Unit 610-611</p><p>26 chase road, London, NW10 6BB</p><p>Tel: 02080803255</p><p>Email: Hello@burgogi.co.uk</p><p>Instagram: <a href=\"https://www.instagram.com/celeplate/\" target=\"_blank\" title=\"https://www.instagram.com/celeplate/\">@celeplate</a></p>"
             }
           },
           "footer-2": {
             "type": "text",
             "settings": {
               "heading": "About us",
-              "subtext": "<p>Burgogi® is inspired by the flame-grilled street food of Seoul, fusing ingredients from South Korea to deliver unique flavour combinations and taste experiences.<\/p>"
+              "subtext": "<p>Burgogi® is inspired by the flame-grilled street food of Seoul, fusing ingredients from South Korea to deliver unique flavour combinations and taste experiences.</p>"
             }
           }
         },
@@ -123,14 +132,14 @@
     ],
     "blocks": {
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#000000",
           "button_icon": "chat_bubble",
+          "button_text": "no_text",
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
-          "button_text": "no_text",
           "greeting_message": "👋 Hi, message us with any questions. We're happy to help!"
         }
       }
@@ -308,7 +317,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },

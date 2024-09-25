@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -15,7 +24,7 @@
         "heading"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_Web_000_a5507469-2efa-4a29-a5bb-d71c4ee4ce09.png",
+        "image": "shopify://shop_images/Burgogi_Web_000_a5507469-2efa-4a29-a5bb-d71c4ee4ce09.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": true,
@@ -34,14 +43,14 @@
         "template--16642667348187__4d0c4abe-5996-4b81-91de-6f5aad639c2a-1669568740427aa7f8-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Our Meal Kits<\/p>",
+            "heading": "<p>Our Meal Kits</p>",
             "heading_size": "h2"
           }
         },
         "template--16642667348187__4d0c4abe-5996-4b81-91de-6f5aad639c2a-1669568740427aa7f8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Burgogi showcases the best of Korean cuisine with quality products and unbeatable flavours.  Whether it’s a treat for two or a dinner party, Burgogi will make everyone’s stomach happy in no time. The fuss free cooking experience means less time for cooking and more time for enjoying and celebrating. <\/p>"
+            "text": "<p>Burgogi showcases the best of Korean cuisine with quality products and unbeatable flavours.  Whether it’s a treat for two or a dinner party, Burgogi will make everyone’s stomach happy in no time. The fuss free cooking experience means less time for cooking and more time for enjoying and celebrating. </p>"
           }
         }
       },
@@ -91,21 +100,21 @@
         "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Design Your Own Korean Table BBQ<\/p>",
+            "heading": "<p>Design Your Own Korean Table BBQ</p>",
             "heading_size": "h2"
           }
         },
         "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Create a unique and personalized dining experience. Choose from a variety of meats, and pair them with your favorite sauces.<\/p>"
+            "text": "<p>Create a unique and personalized dining experience. Choose from a variety of meats, and pair them with your favorite sauces.</p>"
           }
         },
         "template--16654741373147__4395ed29-1d4c-451a-b317-e1f71310932f-16847529366f57a109-2": {
           "type": "button",
           "settings": {
             "button_label": "Design on Celeplate",
-            "button_link": "https:\/\/celeplate.co.uk\/products\/design-your-korean-table-bbq",
+            "button_link": "https://celeplate.co.uk/collections/bbq-meat-seafood",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -188,14 +197,14 @@
         "165463346852322abf-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>How it works<\/p>",
+            "heading": "<p>How it works</p>",
             "heading_size": "h2"
           }
         },
         "165463346852322abf-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Special meal kits delivered to your door.<\/p>"
+            "text": "<p>Special meal kits delivered to your door.</p>"
           }
         },
         "165463346852322abf-2": {
@@ -231,9 +240,9 @@
         "165463328891aa7d90-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_it_works_01.png",
+            "image": "shopify://shop_images/How_it_works_01.png",
             "title": "Choose your meal kits",
-            "text": "<p>Browse our meal kits from a range of inspiring Korean cuisines.<\/p>",
+            "text": "<p>Browse our meal kits from a range of inspiring Korean cuisines.</p>",
             "link_label": "",
             "link": ""
           }
@@ -241,9 +250,9 @@
         "165463328891aa7d90-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_it_works_02.png",
+            "image": "shopify://shop_images/How_it_works_02.png",
             "title": "Prepared by Celeplate",
-            "text": "<p>Your meal kits are prepared by our Celeplate experts.<\/p>",
+            "text": "<p>Your meal kits are prepared by our Celeplate experts.</p>",
             "link_label": "",
             "link": ""
           }
@@ -251,9 +260,9 @@
         "165463328891aa7d90-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_it_works_03.png",
+            "image": "shopify://shop_images/How_it_works_03.png",
             "title": "Delivered UK Mainland",
-            "text": "<p>Get free delivery from Tuesday to Friday. Place your order before 2 pm, get it delivered free the next day.<\/p>",
+            "text": "<p>Get free delivery from Tuesday to Friday. Place your order before 2 pm, get it delivered free the next day.</p>",
             "link_label": "",
             "link": ""
           }
@@ -261,9 +270,9 @@
         "a6949c2e-3d19-4331-b0f7-111046872b29": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/How_it_works_04.png",
+            "image": "shopify://shop_images/How_it_works_04.png",
             "title": "Cook and enjoy",
-            "text": "<p>Ready for you to cook, serve and enjoy.<\/p>",
+            "text": "<p>Ready for you to cook, serve and enjoy.</p>",
             "link_label": "",
             "link": ""
           }
@@ -305,14 +314,14 @@
         "16507895845ba38557-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Korean cuisine is all about harmony. The combination of savoury, sweet, tangy and mellow flavours is mouth-watering and memorable. It is Burgogi’s goal to offer you the exhilarating experience of sharing and celebrating with delicious Korean food at home. <\/p>"
+            "text": "<p>Korean cuisine is all about harmony. The combination of savoury, sweet, tangy and mellow flavours is mouth-watering and memorable. It is Burgogi’s goal to offer you the exhilarating experience of sharing and celebrating with delicious Korean food at home. </p>"
           }
         },
         "16507895845ba38557-2": {
           "type": "button",
           "settings": {
             "button_label": "Order now",
-            "button_link": "https:\/\/burgogikorean.myshopify.com\/collections\/all",
+            "button_link": "https://burgogikorean.myshopify.com/collections/all",
             "button_style_secondary": false
           }
         }
@@ -333,8 +342,8 @@
     "165121980311bd4c33": {
       "type": "image-switcher",
       "settings": {
-        "desktop_image": "shopify:\/\/shop_images\/Modern_Seoul-desktop.png",
-        "mobile_image": "shopify:\/\/shop_images\/Modern_Seoul-mobile.png",
+        "desktop_image": "shopify://shop_images/Modern_Seoul-desktop.png",
+        "mobile_image": "shopify://shop_images/Modern_Seoul-mobile.png",
         "desktop_padding_top": 0,
         "desktop_padding_bottom": 0,
         "desktop_medium_size_max_width": 60,
@@ -358,14 +367,14 @@
         "16507936133051e258-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Burgers and chips – the unbeatable comfort food. At Burgogi, we created burgers into something you have never tasted before. Modern Seoul meal kit includes a Bulgogi Burger, a Galbi Burger, Korean slaws and a large portion of chunky chips. The kit is perfect for those who love modern comfort food with exciting Korean flavours.<\/p>"
+            "text": "<p>Burgers and chips – the unbeatable comfort food. At Burgogi, we created burgers into something you have never tasted before. Modern Seoul meal kit includes a Bulgogi Burger, a Galbi Burger, Korean slaws and a large portion of chunky chips. The kit is perfect for those who love modern comfort food with exciting Korean flavours.</p>"
           }
         },
         "16507936133051e258-2": {
           "type": "button",
           "settings": {
             "button_label": "Discover More",
-            "button_link": "https:\/\/burgogikorean.myshopify.com\/collections\/all",
+            "button_link": "https://burgogikorean.myshopify.com/collections/all",
             "button_style_secondary": false
           }
         }
@@ -386,8 +395,8 @@
     "1651322036c810535b": {
       "type": "image-switcher",
       "settings": {
-        "desktop_image": "shopify:\/\/shop_images\/Group_332_2.png",
-        "mobile_image": "shopify:\/\/shop_images\/Group_333.png",
+        "desktop_image": "shopify://shop_images/Group_332_2.png",
+        "mobile_image": "shopify://shop_images/Group_333.png",
         "desktop_padding_top": 0,
         "desktop_padding_bottom": 0,
         "desktop_medium_size_max_width": 60,
@@ -411,14 +420,14 @@
         "1650833000739ebf9f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Classic Korean cuisine is healthy, fragrant and satisfying. Its simple cooking method preserves the great flavours of high-quality ingredients. Burgogi Good K-Lassic meal kit showcases the signature elements of what makes Korean cuisine so special. The kit contains Kimchi fried rice, Kimchi pancakes, seafood pancakes, Galbi lettuce wrap and a selection of distinctive Korean side dishes. It is for food connoisseurs yearning for Asian adventures.<\/p>"
+            "text": "<p>Classic Korean cuisine is healthy, fragrant and satisfying. Its simple cooking method preserves the great flavours of high-quality ingredients. Burgogi Good K-Lassic meal kit showcases the signature elements of what makes Korean cuisine so special. The kit contains Kimchi fried rice, Kimchi pancakes, seafood pancakes, Galbi lettuce wrap and a selection of distinctive Korean side dishes. It is for food connoisseurs yearning for Asian adventures.</p>"
           }
         },
         "1650833000739ebf9f-2": {
           "type": "button",
           "settings": {
             "button_label": "Discover More",
-            "button_link": "https:\/\/burgogikorean.myshopify.com\/collections\/all",
+            "button_link": "https://burgogikorean.myshopify.com/collections/all",
             "button_style_secondary": false
           }
         }
@@ -439,8 +448,8 @@
     "1655309918b3d052e2": {
       "type": "image-switcher",
       "settings": {
-        "desktop_image": "shopify:\/\/shop_images\/Group_344.png",
-        "mobile_image": "shopify:\/\/shop_images\/Group_345.png",
+        "desktop_image": "shopify://shop_images/Group_344.png",
+        "mobile_image": "shopify://shop_images/Group_345.png",
         "desktop_padding_top": 0,
         "desktop_padding_bottom": 0,
         "desktop_medium_size_max_width": 60,
@@ -462,14 +471,14 @@
         "16553100489dd26d69-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Korean barbecue prizes a balance of flavours. Imagine being in a small roadside restaurant, the grill is placed in the middle, friends gather around the table, the aroma of the sizzling meat on the grill is mouth-watering. Diners use fresh lettuce leaves to wrap up meat and vegetables and eat the whole wrap in one bite. The combination of savoury, sweet, tangy and mellow flavours explode like fireworks. It’s a meal of sharing and celebration.<\/p>"
+            "text": "<p>Korean barbecue prizes a balance of flavours. Imagine being in a small roadside restaurant, the grill is placed in the middle, friends gather around the table, the aroma of the sizzling meat on the grill is mouth-watering. Diners use fresh lettuce leaves to wrap up meat and vegetables and eat the whole wrap in one bite. The combination of savoury, sweet, tangy and mellow flavours explode like fireworks. It’s a meal of sharing and celebration.</p>"
           }
         },
         "16553100489dd26d69-2": {
           "type": "button",
           "settings": {
             "button_label": "Discover more",
-            "button_link": "shopify:\/\/products\/korean-table-bbq",
+            "button_link": "shopify://products/korean-table-bbq",
             "button_style_secondary": false
           }
         }
@@ -523,7 +532,7 @@
         "16475288324750a4cc-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_Web_C_01.png",
+        "image": "shopify://shop_images/Burgogi_Web_C_01.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -549,7 +558,7 @@
         "164814130190c34795-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Korean cuisine is healthy, fragrant and satisfying. Burgogi’s simple cooking method preserves the great flavours of high-quality ingredients. Burgogi presents you with memorable and provocatively exciting culinary experiences in the convenience of your home.<\/p>",
+            "text": "<p>Korean cuisine is healthy, fragrant and satisfying. Burgogi’s simple cooking method preserves the great flavours of high-quality ingredients. Burgogi presents you with memorable and provocatively exciting culinary experiences in the convenience of your home.</p>",
             "text_style": "body"
           }
         },
@@ -568,7 +577,7 @@
         "164814130190c34795-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_Web_D_01_51e0e946-d789-4220-a408-b3f9e2ec527d.png",
+        "image": "shopify://shop_images/Burgogi_Web_D_01_51e0e946-d789-4220-a408-b3f9e2ec527d.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -594,7 +603,7 @@
         "1648144973073136a4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Eating together is part of Korean dining culture. Sitting around and sharing the mouth-watering meal, Burgogi has the power to bring people together. <\/p>",
+            "text": "<p>Eating together is part of Korean dining culture. Sitting around and sharing the mouth-watering meal, Burgogi has the power to bring people together. </p>",
             "text_style": "body"
           }
         },
@@ -613,7 +622,7 @@
         "1648144973073136a4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Burgogi_Web_D_02_67beccb7-2832-4bb7-8da7-baa9c5839d88.png",
+        "image": "shopify://shop_images/Burgogi_Web_D_02_67beccb7-2832-4bb7-8da7-baa9c5839d88.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -632,7 +641,7 @@
         "1647530070e2dfc9d6-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Burgogi_Web_C_02.png",
+            "image": "shopify://shop_images/Burgogi_Web_C_02.png",
             "heading": "Fermentation by Time",
             "heading_size": "h2",
             "subheading": "From kimchee to gochujang (chili paste), fermentation is the signature technique of Korean cuisine. It’s a craft of time and skill which builds on aroma, texture and health benefits.",
@@ -651,7 +660,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Burgogi_Web_C_03.png",
+            "image": "shopify://shop_images/Burgogi_Web_C_03.png",
             "heading": "Fermentation by Time",
             "heading_size": "h2",
             "subheading": "From kimchee to ganjang (soy sauce), from doenjang (soybean paste) to gochujang (chili paste), fermentation is the signature technique of Korean cuisine. It’s a craft of time and skill which builds on aroma, texture and health benefits.",
@@ -670,7 +679,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Burgogi_Web_C_04.png",
+            "image": "shopify://shop_images/Burgogi_Web_C_04.png",
             "heading": "Sharing is Caring",
             "heading_size": "h2",
             "subheading": "Eating together is part of Korean dining culture. Sitting around and sharing the mouth-watering meal, Burgogi has the power to bring people together. A bite of Burgogi can make everyone’s stomach happy in no time.",
@@ -707,21 +716,21 @@
         "1647884188bd4280f2-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Health & Safety<\/p>",
+            "heading": "<p>Health & Safety</p>",
             "heading_size": "h2"
           }
         },
         "1647884188bd4280f2-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please refer to the detailed allergy information on our product page. <br\/>Burgogi complies with COVID operational procedures. <br\/><\/p>"
+            "text": "<p>Please refer to the detailed allergy information on our product page. <br/>Burgogi complies with COVID operational procedures. <br/></p>"
           }
         },
         "1647884188bd4280f2-2": {
           "type": "button",
           "settings": {
             "button_label": "Order Now",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -746,7 +755,7 @@
     "16513232182a19d206": {
       "type": "image-switcher",
       "settings": {
-        "desktop_image": "shopify:\/\/shop_images\/Seoul-city.png",
+        "desktop_image": "shopify://shop_images/Seoul-city.png",
         "desktop_padding_top": 0,
         "desktop_padding_bottom": 0,
         "desktop_medium_size_max_width": 60,
